@@ -1,0 +1,13 @@
+[package]
+name = "fast-factorial"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "fast_factorials"
+crate-type = ["cdylib"]
+
+[dependencies]
+num-bigint = "0.4"
+num-traits = "0.2" # For zero and one traits
+

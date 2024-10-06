@@ -1,0 +1,3001 @@
+Rust: Execution time: 163.6118ms
+Number:43153 Iteration 1: Time taken by Rust with Marshalling: 250.4831 ms
+Number:43153 Iteration 1: Time taken by .NET: 509.2144 ms
+Rust: Execution time: 77.6658ms
+Number:34025 Iteration 2: Time taken by Rust with Marshalling: 627.9314 ms
+Number:34025 Iteration 2: Time taken by .NET: 229.7761 ms
+Rust: Execution time: 160.363ms
+Number:48392 Iteration 3: Time taken by Rust with Marshalling: 470.606 ms
+Number:48392 Iteration 3: Time taken by .NET: 462.7795 ms
+Rust: Execution time: 81.4672ms
+Number:35081 Iteration 4: Time taken by Rust with Marshalling: 586.0221 ms
+Number:35081 Iteration 4: Time taken by .NET: 265.9153 ms
+Rust: Execution time: 93.3023ms
+Number:37036 Iteration 5: Time taken by Rust with Marshalling: 404.5292 ms
+Number:37036 Iteration 5: Time taken by .NET: 253.8291 ms
+Rust: Execution time: 38.2223ms
+Number:24461 Iteration 6: Time taken by Rust with Marshalling: 313.2064 ms
+Number:24461 Iteration 6: Time taken by .NET: 96.7425 ms
+Rust: Execution time: 37.3932ms
+Number:24620 Iteration 7: Time taken by Rust with Marshalling: 152.6576 ms
+Number:24620 Iteration 7: Time taken by .NET: 97.3617 ms
+Rust: Execution time: 53.5723ms
+Number:29022 Iteration 8: Time taken by Rust with Marshalling: 177.9268 ms
+Number:29022 Iteration 8: Time taken by .NET: 150.3973 ms
+Rust: Execution time: 139.6674ms
+Number:45902 Iteration 9: Time taken by Rust with Marshalling: 360.3429 ms
+Number:45902 Iteration 9: Time taken by .NET: 401.2549 ms
+Rust: Execution time: 113.0127ms
+Number:41356 Iteration 10: Time taken by Rust with Marshalling: 571.4186 ms
+Number:41356 Iteration 10: Time taken by .NET: 344.3955 ms
+Rust: Execution time: 81.6265ms
+Number:34002 Iteration 11: Time taken by Rust with Marshalling: 467.2182 ms
+Number:34002 Iteration 11: Time taken by .NET: 211.1754 ms
+Rust: Execution time: 45.9129ms
+Number:26751 Iteration 12: Time taken by Rust with Marshalling: 282.5383 ms
+Number:26751 Iteration 12: Time taken by .NET: 119.1183 ms
+Rust: Execution time: 65.8138ms
+Number:31385 Iteration 13: Time taken by Rust with Marshalling: 216.4714 ms
+Number:31385 Iteration 13: Time taken by .NET: 172.6208 ms
+Rust: Execution time: 44.0222ms
+Number:24743 Iteration 14: Time taken by Rust with Marshalling: 235.5602 ms
+Number:24743 Iteration 14: Time taken by .NET: 113.3443 ms
+Rust: Execution time: 57.9492ms
+Number:29640 Iteration 15: Time taken by Rust with Marshalling: 210.8205 ms
+Number:29640 Iteration 15: Time taken by .NET: 161.646 ms
+Rust: Execution time: 58.9008ms
+Number:29348 Iteration 16: Time taken by Rust with Marshalling: 254.6614 ms
+Number:29348 Iteration 16: Time taken by .NET: 149.5795 ms
+Rust: Execution time: 63.9691ms
+Number:29799 Iteration 17: Time taken by Rust with Marshalling: 244.2172 ms
+Number:29799 Iteration 17: Time taken by .NET: 152.9583 ms
+Rust: Execution time: 135.507ms
+Number:43910 Iteration 18: Time taken by Rust with Marshalling: 358.2724 ms
+Number:43910 Iteration 18: Time taken by .NET: 406.6556 ms
+Rust: Execution time: 40.8274ms
+Number:25889 Iteration 19: Time taken by Rust with Marshalling: 474.7898 ms
+Number:25889 Iteration 19: Time taken by .NET: 128.653 ms
+Rust: Execution time: 53.5448ms
+Number:27653 Iteration 20: Time taken by Rust with Marshalling: 210.749 ms
+Number:27653 Iteration 20: Time taken by .NET: 142.9315 ms
+Rust: Execution time: 63.1427ms
+Number:29526 Iteration 21: Time taken by Rust with Marshalling: 241.4102 ms
+Number:29526 Iteration 21: Time taken by .NET: 149.9808 ms
+Rust: Execution time: 163.7444ms
+Number:48159 Iteration 22: Time taken by Rust with Marshalling: 407.5222 ms
+Number:48159 Iteration 22: Time taken by .NET: 444.2125 ms
+Rust: Execution time: 147.0699ms
+Number:44817 Iteration 23: Time taken by Rust with Marshalling: 660.072 ms
+Number:44817 Iteration 23: Time taken by .NET: 378.6339 ms
+Rust: Execution time: 98.3537ms
+Number:32410 Iteration 24: Time taken by Rust with Marshalling: 518.8617 ms
+Number:32410 Iteration 24: Time taken by .NET: 230.7168 ms
+Rust: Execution time: 86.1209ms
+Number:31346 Iteration 25: Time taken by Rust with Marshalling: 354.8239 ms
+Number:31346 Iteration 25: Time taken by .NET: 169.276 ms
+Rust: Execution time: 108.658ms
+Number:39010 Iteration 26: Time taken by Rust with Marshalling: 328.0119 ms
+Number:39010 Iteration 26: Time taken by .NET: 292.1558 ms
+Rust: Execution time: 99.0062ms
+Number:38756 Iteration 27: Time taken by Rust with Marshalling: 444.1712 ms
+Number:38756 Iteration 27: Time taken by .NET: 290.2981 ms
+Rust: Execution time: 125.0809ms
+Number:41477 Iteration 28: Time taken by Rust with Marshalling: 478.7861 ms
+Number:41477 Iteration 28: Time taken by .NET: 319.3869 ms
+Rust: Execution time: 124.8867ms
+Number:42610 Iteration 29: Time taken by Rust with Marshalling: 515.7269 ms
+Number:42610 Iteration 29: Time taken by .NET: 379.4408 ms
+Rust: Execution time: 42.5919ms
+Number:21743 Iteration 30: Time taken by Rust with Marshalling: 441.3281 ms
+Number:21743 Iteration 30: Time taken by .NET: 81.4896 ms
+Rust: Execution time: 56.0065ms
+Number:29154 Iteration 31: Time taken by Rust with Marshalling: 176.834 ms
+Number:29154 Iteration 31: Time taken by .NET: 148.8843 ms
+Rust: Execution time: 161.3489ms
+Number:49388 Iteration 32: Time taken by Rust with Marshalling: 396.2812 ms
+Number:49388 Iteration 32: Time taken by .NET: 492.292 ms
+Rust: Execution time: 49.6164ms
+Number:26218 Iteration 33: Time taken by Rust with Marshalling: 570.5891 ms
+Number:26218 Iteration 33: Time taken by .NET: 121.9629 ms
+Rust: Execution time: 69.4177ms
+Number:30741 Iteration 34: Time taken by Rust with Marshalling: 226.8137 ms
+Number:30741 Iteration 34: Time taken by .NET: 174.1096 ms
+Rust: Execution time: 47.9234ms
+Number:27810 Iteration 35: Time taken by Rust with Marshalling: 251.416 ms
+Number:27810 Iteration 35: Time taken by .NET: 136.2881 ms
+Rust: Execution time: 47.0192ms
+Number:26546 Iteration 36: Time taken by Rust with Marshalling: 209.3812 ms
+Number:26546 Iteration 36: Time taken by .NET: 154.476 ms
+Rust: Execution time: 93.6886ms
+Number:37895 Iteration 37: Time taken by Rust with Marshalling: 297.1167 ms
+Number:37895 Iteration 37: Time taken by .NET: 262.0361 ms
+Rust: Execution time: 67.1973ms
+Number:31823 Iteration 38: Time taken by Rust with Marshalling: 363.2281 ms
+Number:31823 Iteration 38: Time taken by .NET: 186.4538 ms
+Rust: Execution time: 34.3421ms
+Number:19705 Iteration 39: Time taken by Rust with Marshalling: 243.2286 ms
+Number:19705 Iteration 39: Time taken by .NET: 68.4878 ms
+Rust: Execution time: 38.426ms
+Number:23727 Iteration 40: Time taken by Rust with Marshalling: 126.1645 ms
+Number:23727 Iteration 40: Time taken by .NET: 92.6203 ms
+Rust: Execution time: 159.4426ms
+Number:48672 Iteration 41: Time taken by Rust with Marshalling: 357.1942 ms
+Number:48672 Iteration 41: Time taken by .NET: 571.1977 ms
+Rust: Execution time: 114.4928ms
+Number:39358 Iteration 42: Time taken by Rust with Marshalling: 742.311 ms
+Number:39358 Iteration 42: Time taken by .NET: 393.1096 ms
+Rust: Execution time: 105.6877ms
+Number:38865 Iteration 43: Time taken by Rust with Marshalling: 549.3229 ms
+Number:38865 Iteration 43: Time taken by .NET: 284.1427 ms
+Rust: Execution time: 133.9017ms
+Number:45452 Iteration 44: Time taken by Rust with Marshalling: 493.854 ms
+Number:45452 Iteration 44: Time taken by .NET: 473.2291 ms
+Rust: Execution time: 185.9743ms
+Number:44610 Iteration 45: Time taken by Rust with Marshalling: 742.2608 ms
+Number:44610 Iteration 45: Time taken by .NET: 373.4106 ms
+Rust: Execution time: 38.034ms
+Number:23507 Iteration 46: Time taken by Rust with Marshalling: 433.4004 ms
+Number:23507 Iteration 46: Time taken by .NET: 137.4331 ms
+Rust: Execution time: 176.175ms
+Number:49441 Iteration 47: Time taken by Rust with Marshalling: 405.7823 ms
+Number:49441 Iteration 47: Time taken by .NET: 509.3668 ms
+Rust: Execution time: 53.1843ms
+Number:27399 Iteration 48: Time taken by Rust with Marshalling: 598.2858 ms
+Number:27399 Iteration 48: Time taken by .NET: 147.8842 ms
+Rust: Execution time: 83.1699ms
+Number:31342 Iteration 49: Time taken by Rust with Marshalling: 271.6526 ms
+Number:31342 Iteration 49: Time taken by .NET: 200.2995 ms
+Rust: Execution time: 81.5709ms
+Number:33888 Iteration 50: Time taken by Rust with Marshalling: 326.9849 ms
+Number:33888 Iteration 50: Time taken by .NET: 217.5129 ms
+Rust: Execution time: 112.929ms
+Number:41328 Iteration 51: Time taken by Rust with Marshalling: 392.0173 ms
+Number:41328 Iteration 51: Time taken by .NET: 352.2038 ms
+Rust: Execution time: 155.4185ms
+Number:47683 Iteration 52: Time taken by Rust with Marshalling: 614.2362 ms
+Number:47683 Iteration 52: Time taken by .NET: 561.9994 ms
+Rust: Execution time: 54.7307ms
+Number:27465 Iteration 53: Time taken by Rust with Marshalling: 645.0874 ms
+Number:27465 Iteration 53: Time taken by .NET: 131.2147 ms
+Rust: Execution time: 96.7753ms
+Number:37157 Iteration 54: Time taken by Rust with Marshalling: 278.9616 ms
+Number:37157 Iteration 54: Time taken by .NET: 258.6971 ms
+Rust: Execution time: 26.4345ms
+Number:18209 Iteration 55: Time taken by Rust with Marshalling: 298.9405 ms
+Number:18209 Iteration 55: Time taken by .NET: 59.4117 ms
+Rust: Execution time: 71.176ms
+Number:31845 Iteration 56: Time taken by Rust with Marshalling: 174.0314 ms
+Number:31845 Iteration 56: Time taken by .NET: 180.516 ms
+Rust: Execution time: 13.7846ms
+Number:15452 Iteration 57: Time taken by Rust with Marshalling: 204.4969 ms
+Number:15452 Iteration 57: Time taken by .NET: 39.2485 ms
+Rust: Execution time: 149.6578ms
+Number:47122 Iteration 58: Time taken by Rust with Marshalling: 272.7402 ms
+Number:47122 Iteration 58: Time taken by .NET: 473.7966 ms
+Rust: Execution time: 122.5811ms
+Number:42308 Iteration 59: Time taken by Rust with Marshalling: 668.9775 ms
+Number:42308 Iteration 59: Time taken by .NET: 335.1691 ms
+Rust: Execution time: 95.1081ms
+Number:37545 Iteration 60: Time taken by Rust with Marshalling: 484.2108 ms
+Number:37545 Iteration 60: Time taken by .NET: 256.1566 ms
+Rust: Execution time: 127.7204ms
+Number:43775 Iteration 61: Time taken by Rust with Marshalling: 450.7076 ms
+Number:43775 Iteration 61: Time taken by .NET: 368.2839 ms
+Rust: Execution time: 88.8467ms
+Number:34277 Iteration 62: Time taken by Rust with Marshalling: 501.9289 ms
+Number:34277 Iteration 62: Time taken by .NET: 268.299 ms
+Rust: Execution time: 103.529ms
+Number:37013 Iteration 63: Time taken by Rust with Marshalling: 420.3644 ms
+Number:37013 Iteration 63: Time taken by .NET: 250.7889 ms
+Rust: Execution time: 28.262ms
+Number:20090 Iteration 64: Time taken by Rust with Marshalling: 297.413 ms
+Number:20090 Iteration 64: Time taken by .NET: 62.9235 ms
+Rust: Execution time: 84.0319ms
+Number:33770 Iteration 65: Time taken by Rust with Marshalling: 184.0484 ms
+Number:33770 Iteration 65: Time taken by .NET: 228.4992 ms
+Rust: Execution time: 18.5133ms
+Number:15866 Iteration 66: Time taken by Rust with Marshalling: 255.3402 ms
+Number:15866 Iteration 66: Time taken by .NET: 43.9656 ms
+Rust: Execution time: 118.569ms
+Number:41626 Iteration 67: Time taken by Rust with Marshalling: 225.3283 ms
+Number:41626 Iteration 67: Time taken by .NET: 397.3081 ms
+Rust: Execution time: 86.748ms
+Number:33749 Iteration 68: Time taken by Rust with Marshalling: 524.6533 ms
+Number:33749 Iteration 68: Time taken by .NET: 261.5237 ms
+Rust: Execution time: 163.391ms
+Number:48817 Iteration 69: Time taken by Rust with Marshalling: 523.6024 ms
+Number:48817 Iteration 69: Time taken by .NET: 578.9695 ms
+Rust: Execution time: 101.0096ms
+Number:35874 Iteration 70: Time taken by Rust with Marshalling: 733.7867 ms
+Number:35874 Iteration 70: Time taken by .NET: 296.5186 ms
+Rust: Execution time: 104.2352ms
+Number:37497 Iteration 71: Time taken by Rust with Marshalling: 459.2439 ms
+Number:37497 Iteration 71: Time taken by .NET: 255.9488 ms
+Rust: Execution time: 50.1823ms
+Number:27666 Iteration 72: Time taken by Rust with Marshalling: 334.0345 ms
+Number:27666 Iteration 72: Time taken by .NET: 147.5889 ms
+Rust: Execution time: 18.5615ms
+Number:17062 Iteration 73: Time taken by Rust with Marshalling: 175.6056 ms
+Number:17062 Iteration 73: Time taken by .NET: 53.7065 ms
+Rust: Execution time: 68.3102ms
+Number:30531 Iteration 74: Time taken by Rust with Marshalling: 152.4098 ms
+Number:30531 Iteration 74: Time taken by .NET: 203.6246 ms
+Rust: Execution time: 28.701ms
+Number:19864 Iteration 75: Time taken by Rust with Marshalling: 249.9043 ms
+Number:19864 Iteration 75: Time taken by .NET: 159.317 ms
+Rust: Execution time: 96.1841ms
+Number:34498 Iteration 76: Time taken by Rust with Marshalling: 293.3755 ms
+Number:34498 Iteration 76: Time taken by .NET: 231.8658 ms
+Rust: Execution time: 131.6287ms
+Number:42023 Iteration 77: Time taken by Rust with Marshalling: 427.516 ms
+Number:42023 Iteration 77: Time taken by .NET: 369.7086 ms
+Rust: Execution time: 25.1785ms
+Number:19990 Iteration 78: Time taken by Rust with Marshalling: 409.113 ms
+Number:19990 Iteration 78: Time taken by .NET: 72.72 ms
+Rust: Execution time: 48.822ms
+Number:27842 Iteration 79: Time taken by Rust with Marshalling: 149.5026 ms
+Number:27842 Iteration 79: Time taken by .NET: 150.8332 ms
+Rust: Execution time: 76.2992ms
+Number:32160 Iteration 80: Time taken by Rust with Marshalling: 264.1019 ms
+Number:32160 Iteration 80: Time taken by .NET: 209.5608 ms
+Rust: Execution time: 33.463ms
+Number:21517 Iteration 81: Time taken by Rust with Marshalling: 260.7828 ms
+Number:21517 Iteration 81: Time taken by .NET: 88.608 ms
+Rust: Execution time: 63.588ms
+Number:29947 Iteration 82: Time taken by Rust with Marshalling: 183.3223 ms
+Number:29947 Iteration 82: Time taken by .NET: 161.5853 ms
+Rust: Execution time: 115.8077ms
+Number:38411 Iteration 83: Time taken by Rust with Marshalling: 330.3044 ms
+Number:38411 Iteration 83: Time taken by .NET: 335.216 ms
+Rust: Execution time: 70.8396ms
+Number:30685 Iteration 84: Time taken by Rust with Marshalling: 441.9489 ms
+Number:30685 Iteration 84: Time taken by .NET: 287.8785 ms
+Rust: Execution time: 69.888ms
+Number:27319 Iteration 85: Time taken by Rust with Marshalling: 391.4056 ms
+Number:27319 Iteration 85: Time taken by .NET: 124.2612 ms
+Rust: Execution time: 148.1548ms
+Number:46467 Iteration 86: Time taken by Rust with Marshalling: 347.9973 ms
+Number:46467 Iteration 86: Time taken by .NET: 423.6528 ms
+Rust: Execution time: 114.7278ms
+Number:37364 Iteration 87: Time taken by Rust with Marshalling: 597.9265 ms
+Number:37364 Iteration 87: Time taken by .NET: 254.9842 ms
+Rust: Execution time: 37.691ms
+Number:21966 Iteration 88: Time taken by Rust with Marshalling: 312.4436 ms
+Number:21966 Iteration 88: Time taken by .NET: 100.8243 ms
+Rust: Execution time: 36.8014ms
+Number:20926 Iteration 89: Time taken by Rust with Marshalling: 154.121 ms
+Number:20926 Iteration 89: Time taken by .NET: 95.2169 ms
+Rust: Execution time: 23.8493ms
+Number:19413 Iteration 90: Time taken by Rust with Marshalling: 131.2828 ms
+Number:19413 Iteration 90: Time taken by .NET: 60.919 ms
+Rust: Execution time: 84.3781ms
+Number:36550 Iteration 91: Time taken by Rust with Marshalling: 197.1596 ms
+Number:36550 Iteration 91: Time taken by .NET: 258.4591 ms
+Rust: Execution time: 126.3828ms
+Number:43273 Iteration 92: Time taken by Rust with Marshalling: 451.0901 ms
+Number:43273 Iteration 92: Time taken by .NET: 348.3389 ms
+Rust: Execution time: 130.4648ms
+Number:43042 Iteration 93: Time taken by Rust with Marshalling: 543.9902 ms
+Number:43042 Iteration 93: Time taken by .NET: 360.5842 ms
+Rust: Execution time: 78.9823ms
+Number:33143 Iteration 94: Time taken by Rust with Marshalling: 489.9926 ms
+Number:33143 Iteration 94: Time taken by .NET: 212.4253 ms
+Rust: Execution time: 97.8183ms
+Number:35520 Iteration 95: Time taken by Rust with Marshalling: 358.0912 ms
+Number:35520 Iteration 95: Time taken by .NET: 260.5746 ms
+Rust: Execution time: 166.5795ms
+Number:48628 Iteration 96: Time taken by Rust with Marshalling: 509.8422 ms
+Number:48628 Iteration 96: Time taken by .NET: 517.2137 ms
+Rust: Execution time: 98.778ms
+Number:39046 Iteration 97: Time taken by Rust with Marshalling: 669.3455 ms
+Number:39046 Iteration 97: Time taken by .NET: 307.7946 ms
+Rust: Execution time: 71.1225ms
+Number:32327 Iteration 98: Time taken by Rust with Marshalling: 412.7366 ms
+Number:32327 Iteration 98: Time taken by .NET: 186.7233 ms
+Rust: Execution time: 14.9964ms
+Number:16012 Iteration 99: Time taken by Rust with Marshalling: 211.7353 ms
+Number:16012 Iteration 99: Time taken by .NET: 45.5931 ms
+Rust: Execution time: 37.2596ms
+Number:21829 Iteration 100: Time taken by Rust with Marshalling: 104.8846 ms
+Number:21829 Iteration 100: Time taken by .NET: 81.4002 ms
+Rust: Execution time: 34.7234ms
+Number:22841 Iteration 101: Time taken by Rust with Marshalling: 136.7252 ms
+Number:22841 Iteration 101: Time taken by .NET: 91.5149 ms
+Rust: Execution time: 101.0824ms
+Number:35205 Iteration 102: Time taken by Rust with Marshalling: 243.5547 ms
+Number:35205 Iteration 102: Time taken by .NET: 297.8294 ms
+Rust: Execution time: 21.2333ms
+Number:18811 Iteration 103: Time taken by Rust with Marshalling: 333.7325 ms
+Number:18811 Iteration 103: Time taken by .NET: 67.0006 ms
+Rust: Execution time: 44.0433ms
+Number:24935 Iteration 104: Time taken by Rust with Marshalling: 130.1468 ms
+Number:24935 Iteration 104: Time taken by .NET: 108.7302 ms
+Rust: Execution time: 89.8208ms
+Number:32288 Iteration 105: Time taken by Rust with Marshalling: 234.6198 ms
+Number:32288 Iteration 105: Time taken by .NET: 185.5201 ms
+Rust: Execution time: 150.2327ms
+Number:44045 Iteration 106: Time taken by Rust with Marshalling: 424.1132 ms
+Number:44045 Iteration 106: Time taken by .NET: 362.3669 ms
+Rust: Execution time: 95.5718ms
+Number:36279 Iteration 107: Time taken by Rust with Marshalling: 506.0847 ms
+Number:36279 Iteration 107: Time taken by .NET: 239.1747 ms
+Rust: Execution time: 80.429ms
+Number:34093 Iteration 108: Time taken by Rust with Marshalling: 362.5626 ms
+Number:34093 Iteration 108: Time taken by .NET: 248.6088 ms
+Rust: Execution time: 79.0141ms
+Number:32745 Iteration 109: Time taken by Rust with Marshalling: 367.6447 ms
+Number:32745 Iteration 109: Time taken by .NET: 212.3738 ms
+Rust: Execution time: 31.9146ms
+Number:20481 Iteration 110: Time taken by Rust with Marshalling: 260.4207 ms
+Number:20481 Iteration 110: Time taken by .NET: 102.2687 ms
+Rust: Execution time: 87.7624ms
+Number:34144 Iteration 111: Time taken by Rust with Marshalling: 228.5421 ms
+Number:34144 Iteration 111: Time taken by .NET: 232.8341 ms
+Rust: Execution time: 145.9597ms
+Number:45738 Iteration 112: Time taken by Rust with Marshalling: 457.4805 ms
+Number:45738 Iteration 112: Time taken by .NET: 410.7482 ms
+Rust: Execution time: 131.723ms
+Number:44505 Iteration 113: Time taken by Rust with Marshalling: 614.091 ms
+Number:44505 Iteration 113: Time taken by .NET: 395.2543 ms
+Rust: Execution time: 25.6042ms
+Number:16978 Iteration 114: Time taken by Rust with Marshalling: 432.3362 ms
+Number:16978 Iteration 114: Time taken by .NET: 69.0811 ms
+Rust: Execution time: 172.1818ms
+Number:46747 Iteration 115: Time taken by Rust with Marshalling: 315.0517 ms
+Number:46747 Iteration 115: Time taken by .NET: 413.8573 ms
+Rust: Execution time: 112.3524ms
+Number:39406 Iteration 116: Time taken by Rust with Marshalling: 581.1759 ms
+Number:39406 Iteration 116: Time taken by .NET: 341.0853 ms
+Rust: Execution time: 95.586ms
+Number:36784 Iteration 117: Time taken by Rust with Marshalling: 480.8149 ms
+Number:36784 Iteration 117: Time taken by .NET: 255.7591 ms
+Rust: Execution time: 163.0771ms
+Number:47773 Iteration 118: Time taken by Rust with Marshalling: 502.5029 ms
+Number:47773 Iteration 118: Time taken by .NET: 436.6422 ms
+Rust: Execution time: 38.3944ms
+Number:24438 Iteration 119: Time taken by Rust with Marshalling: 497.5307 ms
+Number:24438 Iteration 119: Time taken by .NET: 94.2114 ms
+Rust: Execution time: 100.0351ms
+Number:39222 Iteration 120: Time taken by Rust with Marshalling: 246.4445 ms
+Number:39222 Iteration 120: Time taken by .NET: 286.8445 ms
+Rust: Execution time: 95.6955ms
+Number:38230 Iteration 121: Time taken by Rust with Marshalling: 431.8677 ms
+Number:38230 Iteration 121: Time taken by .NET: 268.2753 ms
+Rust: Execution time: 152.8393ms
+Number:45683 Iteration 122: Time taken by Rust with Marshalling: 496.2116 ms
+Number:45683 Iteration 122: Time taken by .NET: 392.8596 ms
+Rust: Execution time: 30.2941ms
+Number:21661 Iteration 123: Time taken by Rust with Marshalling: 439.4969 ms
+Number:21661 Iteration 123: Time taken by .NET: 74.4709 ms
+Rust: Execution time: 20.3264ms
+Number:16676 Iteration 124: Time taken by Rust with Marshalling: 103.2507 ms
+Number:16676 Iteration 124: Time taken by .NET: 44.5211 ms
+Rust: Execution time: 18.4925ms
+Number:17447 Iteration 125: Time taken by Rust with Marshalling: 74.1211 ms
+Number:17447 Iteration 125: Time taken by .NET: 51.1546 ms
+Rust: Execution time: 84.5256ms
+Number:36541 Iteration 126: Time taken by Rust with Marshalling: 181.5748 ms
+Number:36541 Iteration 126: Time taken by .NET: 248.9077 ms
+Rust: Execution time: 41.9378ms
+Number:24229 Iteration 127: Time taken by Rust with Marshalling: 309.9243 ms
+Number:24229 Iteration 127: Time taken by .NET: 95.113 ms
+Rust: Execution time: 32.607ms
+Number:21831 Iteration 128: Time taken by Rust with Marshalling: 144.5424 ms
+Number:21831 Iteration 128: Time taken by .NET: 83.2229 ms
+Rust: Execution time: 112.1723ms
+Number:41679 Iteration 129: Time taken by Rust with Marshalling: 257.7306 ms
+Number:41679 Iteration 129: Time taken by .NET: 319.8615 ms
+Rust: Execution time: 82.0915ms
+Number:34751 Iteration 130: Time taken by Rust with Marshalling: 446.274 ms
+Number:34751 Iteration 130: Time taken by .NET: 278.1569 ms
+Rust: Execution time: 47.8984ms
+Number:27156 Iteration 131: Time taken by Rust with Marshalling: 349.657 ms
+Number:27156 Iteration 131: Time taken by .NET: 120.15 ms
+Rust: Execution time: 129.1316ms
+Number:42974 Iteration 132: Time taken by Rust with Marshalling: 314.004 ms
+Number:42974 Iteration 132: Time taken by .NET: 336.8379 ms
+Rust: Execution time: 34.9991ms
+Number:23970 Iteration 133: Time taken by Rust with Marshalling: 391.2794 ms
+Number:23970 Iteration 133: Time taken by .NET: 94.3268 ms
+Rust: Execution time: 57.7996ms
+Number:29041 Iteration 134: Time taken by Rust with Marshalling: 180.6604 ms
+Number:29041 Iteration 134: Time taken by .NET: 147.4879 ms
+Rust: Execution time: 53.9985ms
+Number:28426 Iteration 135: Time taken by Rust with Marshalling: 229.3258 ms
+Number:28426 Iteration 135: Time taken by .NET: 137.7618 ms
+Rust: Execution time: 52.1442ms
+Number:27949 Iteration 136: Time taken by Rust with Marshalling: 218.3169 ms
+Number:27949 Iteration 136: Time taken by .NET: 129.9719 ms
+Rust: Execution time: 64.2961ms
+Number:31876 Iteration 137: Time taken by Rust with Marshalling: 228.8274 ms
+Number:31876 Iteration 137: Time taken by .NET: 173.1561 ms
+Rust: Execution time: 21.8558ms
+Number:18514 Iteration 138: Time taken by Rust with Marshalling: 207.2708 ms
+Number:18514 Iteration 138: Time taken by .NET: 54.352 ms
+Rust: Execution time: 151.3868ms
+Number:46867 Iteration 139: Time taken by Rust with Marshalling: 292.1057 ms
+Number:46867 Iteration 139: Time taken by .NET: 441.1044 ms
+Rust: Execution time: 31.7455ms
+Number:22521 Iteration 140: Time taken by Rust with Marshalling: 491.1183 ms
+Number:22521 Iteration 140: Time taken by .NET: 80.6494 ms
+Rust: Execution time: 19.1974ms
+Number:16696 Iteration 141: Time taken by Rust with Marshalling: 109.2686 ms
+Number:16696 Iteration 141: Time taken by .NET: 46.4226 ms
+Rust: Execution time: 21.0689ms
+Number:18722 Iteration 142: Time taken by Rust with Marshalling: 80.0659 ms
+Number:18722 Iteration 142: Time taken by .NET: 58.9323 ms
+Rust: Execution time: 33.0533ms
+Number:22429 Iteration 143: Time taken by Rust with Marshalling: 107.6809 ms
+Number:22429 Iteration 143: Time taken by .NET: 79.5318 ms
+Rust: Execution time: 85.5267ms
+Number:33862 Iteration 144: Time taken by Rust with Marshalling: 205.1913 ms
+Number:33862 Iteration 144: Time taken by .NET: 213.9311 ms
+Rust: Execution time: 49.9935ms
+Number:25790 Iteration 145: Time taken by Rust with Marshalling: 291.8462 ms
+Number:25790 Iteration 145: Time taken by .NET: 117.1504 ms
+Rust: Execution time: 105.0721ms
+Number:38450 Iteration 146: Time taken by Rust with Marshalling: 269.7327 ms
+Number:38450 Iteration 146: Time taken by .NET: 274.3394 ms
+Rust: Execution time: 25.4877ms
+Number:17515 Iteration 147: Time taken by Rust with Marshalling: 314.5295 ms
+Number:17515 Iteration 147: Time taken by .NET: 63.1066 ms
+Rust: Execution time: 41.7088ms
+Number:24356 Iteration 148: Time taken by Rust with Marshalling: 125.6024 ms
+Number:24356 Iteration 148: Time taken by .NET: 155.0307 ms
+Rust: Execution time: 45.3286ms
+Number:23292 Iteration 149: Time taken by Rust with Marshalling: 220.0853 ms
+Number:23292 Iteration 149: Time taken by .NET: 98.8167 ms
+Rust: Execution time: 128.9086ms
+Number:43786 Iteration 150: Time taken by Rust with Marshalling: 296.4147 ms
+Number:43786 Iteration 150: Time taken by .NET: 357.7307 ms
+Rust: Execution time: 131.6478ms
+Number:40093 Iteration 151: Time taken by Rust with Marshalling: 565.5587 ms
+Number:40093 Iteration 151: Time taken by .NET: 381.2417 ms
+Rust: Execution time: 22.6446ms
+Number:16936 Iteration 152: Time taken by Rust with Marshalling: 414.5062 ms
+Number:16936 Iteration 152: Time taken by .NET: 55.6636 ms
+Rust: Execution time: 22.3087ms
+Number:17326 Iteration 153: Time taken by Rust with Marshalling: 90.513 ms
+Number:17326 Iteration 153: Time taken by .NET: 60.855 ms
+Rust: Execution time: 20.9953ms
+Number:16795 Iteration 154: Time taken by Rust with Marshalling: 91.5642 ms
+Number:16795 Iteration 154: Time taken by .NET: 72.5563 ms
+Rust: Execution time: 23.4674ms
+Number:19108 Iteration 155: Time taken by Rust with Marshalling: 108.3573 ms
+Number:19108 Iteration 155: Time taken by .NET: 93.2591 ms
+Rust: Execution time: 28.7383ms
+Number:15677 Iteration 156: Time taken by Rust with Marshalling: 130.6583 ms
+Number:15677 Iteration 156: Time taken by .NET: 55.1162 ms
+Rust: Execution time: 40.1297ms
+Number:21662 Iteration 157: Time taken by Rust with Marshalling: 116.132 ms
+Number:21662 Iteration 157: Time taken by .NET: 90.2515 ms
+Rust: Execution time: 75.4572ms
+Number:33363 Iteration 158: Time taken by Rust with Marshalling: 205.4366 ms
+Number:33363 Iteration 158: Time taken by .NET: 249.6784 ms
+Rust: Execution time: 127.0366ms
+Number:43511 Iteration 159: Time taken by Rust with Marshalling: 450.5701 ms
+Number:43511 Iteration 159: Time taken by .NET: 357.475 ms
+Rust: Execution time: 182.0622ms
+Number:48633 Iteration 160: Time taken by Rust with Marshalling: 633.3741 ms
+Number:48633 Iteration 160: Time taken by .NET: 463.6743 ms
+Rust: Execution time: 142.9676ms
+Number:42733 Iteration 161: Time taken by Rust with Marshalling: 674.2638 ms
+Number:42733 Iteration 161: Time taken by .NET: 352.5558 ms
+Rust: Execution time: 134.3757ms
+Number:39014 Iteration 162: Time taken by Rust with Marshalling: 541.6197 ms
+Number:39014 Iteration 162: Time taken by .NET: 332.0027 ms
+Rust: Execution time: 51.4543ms
+Number:25051 Iteration 163: Time taken by Rust with Marshalling: 408.1626 ms
+Number:25051 Iteration 163: Time taken by .NET: 119.4657 ms
+Rust: Execution time: 145.0085ms
+Number:46581 Iteration 164: Time taken by Rust with Marshalling: 351.1533 ms
+Number:46581 Iteration 164: Time taken by .NET: 422.3787 ms
+Rust: Execution time: 171.7548ms
+Number:49855 Iteration 165: Time taken by Rust with Marshalling: 681.345 ms
+Number:49855 Iteration 165: Time taken by .NET: 518.1804 ms
+Rust: Execution time: 35.5952ms
+Number:22716 Iteration 166: Time taken by Rust with Marshalling: 574.2686 ms
+Number:22716 Iteration 166: Time taken by .NET: 90.6448 ms
+Rust: Execution time: 75.0195ms
+Number:32720 Iteration 167: Time taken by Rust with Marshalling: 203.6028 ms
+Number:32720 Iteration 167: Time taken by .NET: 233.6983 ms
+Rust: Execution time: 36.2454ms
+Number:23093 Iteration 168: Time taken by Rust with Marshalling: 290.4479 ms
+Number:23093 Iteration 168: Time taken by .NET: 92.7898 ms
+Rust: Execution time: 161.1042ms
+Number:48238 Iteration 169: Time taken by Rust with Marshalling: 336.9443 ms
+Number:48238 Iteration 169: Time taken by .NET: 451.7118 ms
+Rust: Execution time: 60.6596ms
+Number:27094 Iteration 170: Time taken by Rust with Marshalling: 540.5674 ms
+Number:27094 Iteration 170: Time taken by .NET: 131.2197 ms
+Rust: Execution time: 52.321ms
+Number:28398 Iteration 171: Time taken by Rust with Marshalling: 211.719 ms
+Number:28398 Iteration 171: Time taken by .NET: 137.7234 ms
+Rust: Execution time: 47.7409ms
+Number:22596 Iteration 172: Time taken by Rust with Marshalling: 202.0863 ms
+Number:22596 Iteration 172: Time taken by .NET: 84.4298 ms
+Rust: Execution time: 135.3003ms
+Number:44855 Iteration 173: Time taken by Rust with Marshalling: 299.0272 ms
+Number:44855 Iteration 173: Time taken by .NET: 441.0368 ms
+Rust: Execution time: 82.2036ms
+Number:33195 Iteration 174: Time taken by Rust with Marshalling: 566.2968 ms
+Number:33195 Iteration 174: Time taken by .NET: 206.1281 ms
+Rust: Execution time: 128.1818ms
+Number:43070 Iteration 175: Time taken by Rust with Marshalling: 396.2352 ms
+Number:43070 Iteration 175: Time taken by .NET: 359.7104 ms
+Rust: Execution time: 191.879ms
+Number:47959 Iteration 176: Time taken by Rust with Marshalling: 654.1988 ms
+Number:47959 Iteration 176: Time taken by .NET: 447.8247 ms
+Rust: Execution time: 43.5728ms
+Number:24820 Iteration 177: Time taken by Rust with Marshalling: 516.2222 ms
+Number:24820 Iteration 177: Time taken by .NET: 106.5551 ms
+Rust: Execution time: 30.1687ms
+Number:20883 Iteration 178: Time taken by Rust with Marshalling: 152.8403 ms
+Number:20883 Iteration 178: Time taken by .NET: 74.788 ms
+Rust: Execution time: 177.9196ms
+Number:48790 Iteration 179: Time taken by Rust with Marshalling: 351.1722 ms
+Number:48790 Iteration 179: Time taken by .NET: 539.4963 ms
+Rust: Execution time: 25.533ms
+Number:19880 Iteration 180: Time taken by Rust with Marshalling: 578.6773 ms
+Number:19880 Iteration 180: Time taken by .NET: 68.5349 ms
+Rust: Execution time: 176.3838ms
+Number:48923 Iteration 181: Time taken by Rust with Marshalling: 341.8974 ms
+Number:48923 Iteration 181: Time taken by .NET: 525.1499 ms
+Rust: Execution time: 30.0843ms
+Number:22133 Iteration 182: Time taken by Rust with Marshalling: 574.0618 ms
+Number:22133 Iteration 182: Time taken by .NET: 80.4047 ms
+Rust: Execution time: 112.7863ms
+Number:39057 Iteration 183: Time taken by Rust with Marshalling: 249.1626 ms
+Number:39057 Iteration 183: Time taken by .NET: 285.994 ms
+Rust: Execution time: 51.0078ms
+Number:27278 Iteration 184: Time taken by Rust with Marshalling: 363.4736 ms
+Number:27278 Iteration 184: Time taken by .NET: 176.4167 ms
+Rust: Execution time: 20.5414ms
+Number:16595 Iteration 185: Time taken by Rust with Marshalling: 209.4974 ms
+Number:16595 Iteration 185: Time taken by .NET: 44.2425 ms
+Rust: Execution time: 92.4598ms
+Number:36298 Iteration 186: Time taken by Rust with Marshalling: 181.1955 ms
+Number:36298 Iteration 186: Time taken by .NET: 243.075 ms
+Rust: Execution time: 118.5909ms
+Number:39622 Iteration 187: Time taken by Rust with Marshalling: 418.3697 ms
+Number:39622 Iteration 187: Time taken by .NET: 296.2934 ms
+Rust: Execution time: 115.0975ms
+Number:40918 Iteration 188: Time taken by Rust with Marshalling: 468.3526 ms
+Number:40918 Iteration 188: Time taken by .NET: 333.7283 ms
+Rust: Execution time: 24.0063ms
+Number:18144 Iteration 189: Time taken by Rust with Marshalling: 369.2446 ms
+Number:18144 Iteration 189: Time taken by .NET: 54.6351 ms
+Rust: Execution time: 111.4308ms
+Number:40667 Iteration 190: Time taken by Rust with Marshalling: 228.8024 ms
+Number:40667 Iteration 190: Time taken by .NET: 326.2235 ms
+Rust: Execution time: 172.4434ms
+Number:45973 Iteration 191: Time taken by Rust with Marshalling: 571.1602 ms
+Number:45973 Iteration 191: Time taken by .NET: 403.7769 ms
+Rust: Execution time: 51.951ms
+Number:28499 Iteration 192: Time taken by Rust with Marshalling: 486.3339 ms
+Number:28499 Iteration 192: Time taken by .NET: 141.09 ms
+Rust: Execution time: 42.6978ms
+Number:23818 Iteration 193: Time taken by Rust with Marshalling: 205.3298 ms
+Number:23818 Iteration 193: Time taken by .NET: 95.7679 ms
+Rust: Execution time: 95.0387ms
+Number:35130 Iteration 194: Time taken by Rust with Marshalling: 241.9221 ms
+Number:35130 Iteration 194: Time taken by .NET: 229.8014 ms
+Rust: Execution time: 54.6321ms
+Number:28456 Iteration 195: Time taken by Rust with Marshalling: 313.4714 ms
+Number:28456 Iteration 195: Time taken by .NET: 149.0516 ms
+Rust: Execution time: 143.8796ms
+Number:44408 Iteration 196: Time taken by Rust with Marshalling: 362.2079 ms
+Number:44408 Iteration 196: Time taken by .NET: 376.2463 ms
+Rust: Execution time: 87.7283ms
+Number:35067 Iteration 197: Time taken by Rust with Marshalling: 507.6602 ms
+Number:35067 Iteration 197: Time taken by .NET: 228.0039 ms
+Rust: Execution time: 32.749ms
+Number:21013 Iteration 198: Time taken by Rust with Marshalling: 286.6157 ms
+Number:21013 Iteration 198: Time taken by .NET: 80.9881 ms
+Rust: Execution time: 18.0391ms
+Number:16812 Iteration 199: Time taken by Rust with Marshalling: 112.7181 ms
+Number:16812 Iteration 199: Time taken by .NET: 47.045 ms
+Rust: Execution time: 42.9309ms
+Number:22895 Iteration 200: Time taken by Rust with Marshalling: 108.8389 ms
+Number:22895 Iteration 200: Time taken by .NET: 83.3125 ms
+Rust: Execution time: 85.2166ms
+Number:33941 Iteration 201: Time taken by Rust with Marshalling: 222.3384 ms
+Number:33941 Iteration 201: Time taken by .NET: 222.9827 ms
+Rust: Execution time: 20.7645ms
+Number:18514 Iteration 202: Time taken by Rust with Marshalling: 259.3578 ms
+Number:18514 Iteration 202: Time taken by .NET: 53.6092 ms
+Rust: Execution time: 167.323ms
+Number:48818 Iteration 203: Time taken by Rust with Marshalling: 303.0323 ms
+Number:48818 Iteration 203: Time taken by .NET: 471.8522 ms
+Rust: Execution time: 133.442ms
+Number:44027 Iteration 204: Time taken by Rust with Marshalling: 676.5264 ms
+Number:44027 Iteration 204: Time taken by .NET: 426.2166 ms
+Rust: Execution time: 95.3483ms
+Number:37104 Iteration 205: Time taken by Rust with Marshalling: 568.1435 ms
+Number:37104 Iteration 205: Time taken by .NET: 251.8375 ms
+Rust: Execution time: 67.0184ms
+Number:31437 Iteration 206: Time taken by Rust with Marshalling: 356.297 ms
+Number:31437 Iteration 206: Time taken by .NET: 179.9013 ms
+Rust: Execution time: 99.9922ms
+Number:37714 Iteration 207: Time taken by Rust with Marshalling: 329.9323 ms
+Number:37714 Iteration 207: Time taken by .NET: 273.7056 ms
+Rust: Execution time: 119.8184ms
+Number:39065 Iteration 208: Time taken by Rust with Marshalling: 444.039 ms
+Number:39065 Iteration 208: Time taken by .NET: 312.3864 ms
+Rust: Execution time: 58.0258ms
+Number:29209 Iteration 209: Time taken by Rust with Marshalling: 403.1511 ms
+Number:29209 Iteration 209: Time taken by .NET: 160.1995 ms
+Rust: Execution time: 114.37ms
+Number:40895 Iteration 210: Time taken by Rust with Marshalling: 336.5664 ms
+Number:40895 Iteration 210: Time taken by .NET: 365.4352 ms
+Rust: Execution time: 17.3716ms
+Number:15977 Iteration 211: Time taken by Rust with Marshalling: 393.2978 ms
+Number:15977 Iteration 211: Time taken by .NET: 49.1583 ms
+Rust: Execution time: 35.0074ms
+Number:23742 Iteration 212: Time taken by Rust with Marshalling: 102.3874 ms
+Number:23742 Iteration 212: Time taken by .NET: 93.7986 ms
+Rust: Execution time: 18.5386ms
+Number:17554 Iteration 213: Time taken by Rust with Marshalling: 122.2974 ms
+Number:17554 Iteration 213: Time taken by .NET: 50.7566 ms
+Rust: Execution time: 95.2617ms
+Number:37312 Iteration 214: Time taken by Rust with Marshalling: 199.7927 ms
+Number:37312 Iteration 214: Time taken by .NET: 285.5599 ms
+Rust: Execution time: 177.98ms
+Number:41683 Iteration 215: Time taken by Rust with Marshalling: 543.7663 ms
+Number:41683 Iteration 215: Time taken by .NET: 388.7072 ms
+Rust: Execution time: 101.2795ms
+Number:33907 Iteration 216: Time taken by Rust with Marshalling: 534.3909 ms
+Number:33907 Iteration 216: Time taken by .NET: 248.1492 ms
+Rust: Execution time: 46.764ms
+Number:24635 Iteration 217: Time taken by Rust with Marshalling: 319.4229 ms
+Number:24635 Iteration 217: Time taken by .NET: 159.9416 ms
+Rust: Execution time: 152.8455ms
+Number:41831 Iteration 218: Time taken by Rust with Marshalling: 380.869 ms
+Number:41831 Iteration 218: Time taken by .NET: 372.0328 ms
+Rust: Execution time: 78.292ms
+Number:32256 Iteration 219: Time taken by Rust with Marshalling: 489.4424 ms
+Number:32256 Iteration 219: Time taken by .NET: 198.1686 ms
+Rust: Execution time: 45.2996ms
+Number:25183 Iteration 220: Time taken by Rust with Marshalling: 268.9394 ms
+Number:25183 Iteration 220: Time taken by .NET: 110.8047 ms
+Rust: Execution time: 22.4333ms
+Number:16114 Iteration 221: Time taken by Rust with Marshalling: 142.5104 ms
+Number:16114 Iteration 221: Time taken by .NET: 52.9535 ms
+Rust: Execution time: 139.6658ms
+Number:44671 Iteration 222: Time taken by Rust with Marshalling: 264.0937 ms
+Number:44671 Iteration 222: Time taken by .NET: 409.3414 ms
+Rust: Execution time: 75.5049ms
+Number:31508 Iteration 223: Time taken by Rust with Marshalling: 529.2107 ms
+Number:31508 Iteration 223: Time taken by .NET: 226.011 ms
+Rust: Execution time: 94.0052ms
+Number:33647 Iteration 224: Time taken by Rust with Marshalling: 366.336 ms
+Number:33647 Iteration 224: Time taken by .NET: 224.457 ms
+Rust: Execution time: 21.6663ms
+Number:15903 Iteration 225: Time taken by Rust with Marshalling: 257.7688 ms
+Number:15903 Iteration 225: Time taken by .NET: 43.4558 ms
+Rust: Execution time: 26.9297ms
+Number:18477 Iteration 226: Time taken by Rust with Marshalling: 84.674 ms
+Number:18477 Iteration 226: Time taken by .NET: 63.0783 ms
+Rust: Execution time: 56.8735ms
+Number:28892 Iteration 227: Time taken by Rust with Marshalling: 148.118 ms
+Number:28892 Iteration 227: Time taken by .NET: 153.3222 ms
+Rust: Execution time: 169.1678ms
+Number:48877 Iteration 228: Time taken by Rust with Marshalling: 415.0556 ms
+Number:48877 Iteration 228: Time taken by .NET: 516.2458 ms
+Rust: Execution time: 31.281ms
+Number:20310 Iteration 229: Time taken by Rust with Marshalling: 561.4164 ms
+Number:20310 Iteration 229: Time taken by .NET: 75.7885 ms
+Rust: Execution time: 109.4051ms
+Number:38953 Iteration 230: Time taken by Rust with Marshalling: 242.2274 ms
+Number:38953 Iteration 230: Time taken by .NET: 339.3876 ms
+Rust: Execution time: 148.8152ms
+Number:40013 Iteration 231: Time taken by Rust with Marshalling: 561.029 ms
+Number:40013 Iteration 231: Time taken by .NET: 353.4682 ms
+Rust: Execution time: 124.5956ms
+Number:39771 Iteration 232: Time taken by Rust with Marshalling: 544.712 ms
+Number:39771 Iteration 232: Time taken by .NET: 353.5048 ms
+Rust: Execution time: 68.2506ms
+Number:27632 Iteration 233: Time taken by Rust with Marshalling: 452.327 ms
+Number:27632 Iteration 233: Time taken by .NET: 154.258 ms
+Rust: Execution time: 78.1187ms
+Number:31332 Iteration 234: Time taken by Rust with Marshalling: 276.0528 ms
+Number:31332 Iteration 234: Time taken by .NET: 201.5837 ms
+Rust: Execution time: 39.0926ms
+Number:22670 Iteration 235: Time taken by Rust with Marshalling: 258.9597 ms
+Number:22670 Iteration 235: Time taken by .NET: 98.7581 ms
+Rust: Execution time: 176.098ms
+Number:48988 Iteration 236: Time taken by Rust with Marshalling: 377.2466 ms
+Number:48988 Iteration 236: Time taken by .NET: 592.7557 ms
+Rust: Execution time: 172.8767ms
+Number:46631 Iteration 237: Time taken by Rust with Marshalling: 846.9184 ms
+Number:46631 Iteration 237: Time taken by .NET: 455.3806 ms
+Rust: Execution time: 119.5417ms
+Number:40358 Iteration 238: Time taken by Rust with Marshalling: 638.8832 ms
+Number:40358 Iteration 238: Time taken by .NET: 324.0982 ms
+Rust: Execution time: 47.1953ms
+Number:20583 Iteration 239: Time taken by Rust with Marshalling: 388.1071 ms
+Number:20583 Iteration 239: Time taken by .NET: 74.6054 ms
+Rust: Execution time: 103.9192ms
+Number:38595 Iteration 240: Time taken by Rust with Marshalling: 231.7474 ms
+Number:38595 Iteration 240: Time taken by .NET: 330.0156 ms
+Rust: Execution time: 46.9183ms
+Number:25253 Iteration 241: Time taken by Rust with Marshalling: 400.2312 ms
+Number:25253 Iteration 241: Time taken by .NET: 122.5118 ms
+Rust: Execution time: 40.6015ms
+Number:24315 Iteration 242: Time taken by Rust with Marshalling: 186.704 ms
+Number:24315 Iteration 242: Time taken by .NET: 119.6325 ms
+Rust: Execution time: 143.1185ms
+Number:45200 Iteration 243: Time taken by Rust with Marshalling: 336.5866 ms
+Number:45200 Iteration 243: Time taken by .NET: 430.4326 ms
+Rust: Execution time: 24.1604ms
+Number:17694 Iteration 244: Time taken by Rust with Marshalling: 466.6958 ms
+Number:17694 Iteration 244: Time taken by .NET: 59.0179 ms
+Rust: Execution time: 31.88ms
+Number:20560 Iteration 245: Time taken by Rust with Marshalling: 108.1674 ms
+Number:20560 Iteration 245: Time taken by .NET: 86.9437 ms
+Rust: Execution time: 130.2785ms
+Number:42315 Iteration 246: Time taken by Rust with Marshalling: 289.226 ms
+Number:42315 Iteration 246: Time taken by .NET: 365.9907 ms
+Rust: Execution time: 26.6234ms
+Number:19359 Iteration 247: Time taken by Rust with Marshalling: 408.9224 ms
+Number:19359 Iteration 247: Time taken by .NET: 72.2155 ms
+Rust: Execution time: 172.1096ms
+Number:46085 Iteration 248: Time taken by Rust with Marshalling: 336.3049 ms
+Number:46085 Iteration 248: Time taken by .NET: 453.2103 ms
+Rust: Execution time: 20.6023ms
+Number:16066 Iteration 249: Time taken by Rust with Marshalling: 484.6751 ms
+Number:16066 Iteration 249: Time taken by .NET: 54.8313 ms
+Rust: Execution time: 79.6388ms
+Number:32704 Iteration 250: Time taken by Rust with Marshalling: 181.6077 ms
+Number:32704 Iteration 250: Time taken by .NET: 205.3805 ms
+Rust: Execution time: 47.95ms
+Number:26052 Iteration 251: Time taken by Rust with Marshalling: 278.8373 ms
+Number:26052 Iteration 251: Time taken by .NET: 127.4844 ms
+Rust: Execution time: 145.0615ms
+Number:43750 Iteration 252: Time taken by Rust with Marshalling: 344.7398 ms
+Number:43750 Iteration 252: Time taken by .NET: 398.7508 ms
+Rust: Execution time: 111.2514ms
+Number:38455 Iteration 253: Time taken by Rust with Marshalling: 562.4342 ms
+Number:38455 Iteration 253: Time taken by .NET: 339.3464 ms
+Rust: Execution time: 44.9414ms
+Number:24813 Iteration 254: Time taken by Rust with Marshalling: 409.0713 ms
+Number:24813 Iteration 254: Time taken by .NET: 122.4214 ms
+Rust: Execution time: 172.1201ms
+Number:47525 Iteration 255: Time taken by Rust with Marshalling: 381.564 ms
+Number:47525 Iteration 255: Time taken by .NET: 486.7549 ms
+Rust: Execution time: 61.2161ms
+Number:25974 Iteration 256: Time taken by Rust with Marshalling: 572.0238 ms
+Number:25974 Iteration 256: Time taken by .NET: 132.0245 ms
+Rust: Execution time: 80.8679ms
+Number:33517 Iteration 257: Time taken by Rust with Marshalling: 256.6222 ms
+Number:33517 Iteration 257: Time taken by .NET: 233.3064 ms
+Rust: Execution time: 148.6798ms
+Number:44897 Iteration 258: Time taken by Rust with Marshalling: 463.2554 ms
+Number:44897 Iteration 258: Time taken by .NET: 485.0664 ms
+Rust: Execution time: 219.451ms
+Number:45332 Iteration 259: Time taken by Rust with Marshalling: 817.4162 ms
+Number:45332 Iteration 259: Time taken by .NET: 509.2932 ms
+Rust: Execution time: 149.8927ms
+Number:36942 Iteration 260: Time taken by Rust with Marshalling: 725.4141 ms
+Number:36942 Iteration 260: Time taken by .NET: 323.5974 ms
+Rust: Execution time: 188.1944ms
+Number:41229 Iteration 261: Time taken by Rust with Marshalling: 579.0988 ms
+Number:41229 Iteration 261: Time taken by .NET: 347.1296 ms
+Rust: Execution time: 49.8854ms
+Number:25226 Iteration 262: Time taken by Rust with Marshalling: 423.5467 ms
+Number:25226 Iteration 262: Time taken by .NET: 150.6916 ms
+Rust: Execution time: 41.6568ms
+Number:23820 Iteration 263: Time taken by Rust with Marshalling: 214.0565 ms
+Number:23820 Iteration 263: Time taken by .NET: 107.9385 ms
+Rust: Execution time: 55.3586ms
+Number:27423 Iteration 264: Time taken by Rust with Marshalling: 192.1412 ms
+Number:27423 Iteration 264: Time taken by .NET: 138.3194 ms
+Rust: Execution time: 149.867ms
+Number:45511 Iteration 265: Time taken by Rust with Marshalling: 371.7954 ms
+Number:45511 Iteration 265: Time taken by .NET: 431.0321 ms
+Rust: Execution time: 15.9208ms
+Number:15727 Iteration 266: Time taken by Rust with Marshalling: 458.1931 ms
+Number:15727 Iteration 266: Time taken by .NET: 45.4064 ms
+Rust: Execution time: 41.2712ms
+Number:24930 Iteration 267: Time taken by Rust with Marshalling: 107.2396 ms
+Number:24930 Iteration 267: Time taken by .NET: 105.7286 ms
+Rust: Execution time: 64.7521ms
+Number:29502 Iteration 268: Time taken by Rust with Marshalling: 204.8015 ms
+Number:29502 Iteration 268: Time taken by .NET: 155.5315 ms
+Rust: Execution time: 95.3758ms
+Number:35561 Iteration 269: Time taken by Rust with Marshalling: 304.9509 ms
+Number:35561 Iteration 269: Time taken by .NET: 246.7689 ms
+Rust: Execution time: 41.4191ms
+Number:24390 Iteration 270: Time taken by Rust with Marshalling: 307.0288 ms
+Number:24390 Iteration 270: Time taken by .NET: 149.7453 ms
+Rust: Execution time: 19.6838ms
+Number:16183 Iteration 271: Time taken by Rust with Marshalling: 180.2672 ms
+Number:16183 Iteration 271: Time taken by .NET: 48.2167 ms
+Rust: Execution time: 157.0967ms
+Number:44353 Iteration 272: Time taken by Rust with Marshalling: 279.336 ms
+Number:44353 Iteration 272: Time taken by .NET: 400.4944 ms
+Rust: Execution time: 19.0023ms
+Number:15809 Iteration 273: Time taken by Rust with Marshalling: 432.0041 ms
+Number:15809 Iteration 273: Time taken by .NET: 48.6168 ms
+Rust: Execution time: 73.9193ms
+Number:30741 Iteration 274: Time taken by Rust with Marshalling: 152.165 ms
+Number:30741 Iteration 274: Time taken by .NET: 176.5916 ms
+Rust: Execution time: 37.6073ms
+Number:21446 Iteration 275: Time taken by Rust with Marshalling: 237.448 ms
+Number:21446 Iteration 275: Time taken by .NET: 81.5488 ms
+Rust: Execution time: 69.7412ms
+Number:31600 Iteration 276: Time taken by Rust with Marshalling: 191.4027 ms
+Number:31600 Iteration 276: Time taken by .NET: 179.2473 ms
+Rust: Execution time: 36.6839ms
+Number:21950 Iteration 277: Time taken by Rust with Marshalling: 239.3484 ms
+Number:21950 Iteration 277: Time taken by .NET: 82.0013 ms
+Rust: Execution time: 102.0366ms
+Number:37944 Iteration 278: Time taken by Rust with Marshalling: 239.8471 ms
+Number:37944 Iteration 278: Time taken by .NET: 282.19 ms
+Rust: Execution time: 41.0629ms
+Number:23476 Iteration 279: Time taken by Rust with Marshalling: 343.1143 ms
+Number:23476 Iteration 279: Time taken by .NET: 120.9472 ms
+Rust: Execution time: 86.9031ms
+Number:34430 Iteration 280: Time taken by Rust with Marshalling: 254.0105 ms
+Number:34430 Iteration 280: Time taken by .NET: 236.9038 ms
+Rust: Execution time: 72.6679ms
+Number:30830 Iteration 281: Time taken by Rust with Marshalling: 346.9076 ms
+Number:30830 Iteration 281: Time taken by .NET: 179.6916 ms
+Rust: Execution time: 144.3049ms
+Number:45205 Iteration 282: Time taken by Rust with Marshalling: 398.5673 ms
+Number:45205 Iteration 282: Time taken by .NET: 413.0926 ms
+Rust: Execution time: 15.2754ms
+Number:15384 Iteration 283: Time taken by Rust with Marshalling: 438.7118 ms
+Number:15384 Iteration 283: Time taken by .NET: 44.3757 ms
+Rust: Execution time: 16.7471ms
+Number:16202 Iteration 284: Time taken by Rust with Marshalling: 72.2252 ms
+Number:16202 Iteration 284: Time taken by .NET: 54.7789 ms
+Rust: Execution time: 76.503ms
+Number:31623 Iteration 285: Time taken by Rust with Marshalling: 164.6755 ms
+Number:31623 Iteration 285: Time taken by .NET: 182.9882 ms
+Rust: Execution time: 66.109ms
+Number:29339 Iteration 286: Time taken by Rust with Marshalling: 277.1642 ms
+Number:29339 Iteration 286: Time taken by .NET: 152.7182 ms
+Rust: Execution time: 183.5543ms
+Number:46426 Iteration 287: Time taken by Rust with Marshalling: 429.484 ms
+Number:46426 Iteration 287: Time taken by .NET: 456.4214 ms
+Rust: Execution time: 72.7863ms
+Number:28670 Iteration 288: Time taken by Rust with Marshalling: 559.0703 ms
+Number:28670 Iteration 288: Time taken by .NET: 165.5057 ms
+Rust: Execution time: 201.2714ms
+Number:48520 Iteration 289: Time taken by Rust with Marshalling: 482.4588 ms
+Number:48520 Iteration 289: Time taken by .NET: 526.8422 ms
+Rust: Execution time: 32.1107ms
+Number:19497 Iteration 290: Time taken by Rust with Marshalling: 578.8735 ms
+Number:19497 Iteration 290: Time taken by .NET: 71.1726 ms
+Rust: Execution time: 30.6931ms
+Number:21779 Iteration 291: Time taken by Rust with Marshalling: 120.8047 ms
+Number:21779 Iteration 291: Time taken by .NET: 84.2111 ms
+Rust: Execution time: 22.9734ms
+Number:15589 Iteration 292: Time taken by Rust with Marshalling: 116.4644 ms
+Number:15589 Iteration 292: Time taken by .NET: 43.5922 ms
+Rust: Execution time: 126.2017ms
+Number:41059 Iteration 293: Time taken by Rust with Marshalling: 245.4776 ms
+Number:41059 Iteration 293: Time taken by .NET: 391.8456 ms
+Rust: Execution time: 121.5218ms
+Number:38973 Iteration 294: Time taken by Rust with Marshalling: 569.4459 ms
+Number:38973 Iteration 294: Time taken by .NET: 314.1829 ms
+Rust: Execution time: 154.8544ms
+Number:46179 Iteration 295: Time taken by Rust with Marshalling: 564.5371 ms
+Number:46179 Iteration 295: Time taken by .NET: 435.0657 ms
+Rust: Execution time: 123.3402ms
+Number:42147 Iteration 296: Time taken by Rust with Marshalling: 642.6384 ms
+Number:42147 Iteration 296: Time taken by .NET: 362.5328 ms
+Rust: Execution time: 18.3295ms
+Number:16679 Iteration 297: Time taken by Rust with Marshalling: 391.2558 ms
+Number:16679 Iteration 297: Time taken by .NET: 68.0006 ms
+Rust: Execution time: 76.4511ms
+Number:30644 Iteration 298: Time taken by Rust with Marshalling: 183.8841 ms
+Number:30644 Iteration 298: Time taken by .NET: 192.8934 ms
+Rust: Execution time: 90.5557ms
+Number:34863 Iteration 299: Time taken by Rust with Marshalling: 340.3979 ms
+Number:34863 Iteration 299: Time taken by .NET: 233.8592 ms
+Rust: Execution time: 22.3518ms
+Number:16172 Iteration 300: Time taken by Rust with Marshalling: 269.5193 ms
+Number:16172 Iteration 300: Time taken by .NET: 64.7891 ms
+Rust: Execution time: 147.1932ms
+Number:45528 Iteration 301: Time taken by Rust with Marshalling: 290.3812 ms
+Number:45528 Iteration 301: Time taken by .NET: 451.4702 ms
+Rust: Execution time: 86.0354ms
+Number:36136 Iteration 302: Time taken by Rust with Marshalling: 581.601 ms
+Number:36136 Iteration 302: Time taken by .NET: 236.1002 ms
+Rust: Execution time: 177.7218ms
+Number:49868 Iteration 303: Time taken by Rust with Marshalling: 500.4835 ms
+Number:49868 Iteration 303: Time taken by .NET: 541.4399 ms
+Rust: Execution time: 13.7098ms
+Number:15232 Iteration 304: Time taken by Rust with Marshalling: 563.4391 ms
+Number:15232 Iteration 304: Time taken by .NET: 38.1205 ms
+Rust: Execution time: 27.0696ms
+Number:20261 Iteration 305: Time taken by Rust with Marshalling: 77.9154 ms
+Number:20261 Iteration 305: Time taken by .NET: 63.993 ms
+Rust: Execution time: 39.0378ms
+Number:24741 Iteration 306: Time taken by Rust with Marshalling: 123.8617 ms
+Number:24741 Iteration 306: Time taken by .NET: 104.3903 ms
+Rust: Execution time: 178.5635ms
+Number:49390 Iteration 307: Time taken by Rust with Marshalling: 410.2907 ms
+Number:49390 Iteration 307: Time taken by .NET: 598.918 ms
+Rust: Execution time: 46.4187ms
+Number:24821 Iteration 308: Time taken by Rust with Marshalling: 670.8745 ms
+Number:24821 Iteration 308: Time taken by .NET: 118.2639 ms
+Rust: Execution time: 79.081ms
+Number:34047 Iteration 309: Time taken by Rust with Marshalling: 237.1474 ms
+Number:34047 Iteration 309: Time taken by .NET: 288.606 ms
+Rust: Execution time: 44.9954ms
+Number:25802 Iteration 310: Time taken by Rust with Marshalling: 354.4365 ms
+Number:25802 Iteration 310: Time taken by .NET: 123.8469 ms
+Rust: Execution time: 121.6027ms
+Number:42728 Iteration 311: Time taken by Rust with Marshalling: 309.9573 ms
+Number:42728 Iteration 311: Time taken by .NET: 382.743 ms
+Rust: Execution time: 31.3018ms
+Number:19474 Iteration 312: Time taken by Rust with Marshalling: 426.7274 ms
+Number:19474 Iteration 312: Time taken by .NET: 71.0879 ms
+Rust: Execution time: 60.9652ms
+Number:29122 Iteration 313: Time taken by Rust with Marshalling: 167.1051 ms
+Number:29122 Iteration 313: Time taken by .NET: 187.2028 ms
+Rust: Execution time: 84.9036ms
+Number:35404 Iteration 314: Time taken by Rust with Marshalling: 314.9096 ms
+Number:35404 Iteration 314: Time taken by .NET: 249.3141 ms
+Rust: Execution time: 62.1843ms
+Number:30954 Iteration 315: Time taken by Rust with Marshalling: 344.8006 ms
+Number:30954 Iteration 315: Time taken by .NET: 176.9112 ms
+Rust: Execution time: 102.9011ms
+Number:38338 Iteration 316: Time taken by Rust with Marshalling: 331.4441 ms
+Number:38338 Iteration 316: Time taken by .NET: 278.3203 ms
+Rust: Execution time: 43.3092ms
+Number:26058 Iteration 317: Time taken by Rust with Marshalling: 344.3793 ms
+Number:26058 Iteration 317: Time taken by .NET: 151.5888 ms
+Rust: Execution time: 47.7119ms
+Number:25473 Iteration 318: Time taken by Rust with Marshalling: 222.1341 ms
+Number:25473 Iteration 318: Time taken by .NET: 131.3828 ms
+Rust: Execution time: 144.1201ms
+Number:44251 Iteration 319: Time taken by Rust with Marshalling: 343.1492 ms
+Number:44251 Iteration 319: Time taken by .NET: 447.0411 ms
+Rust: Execution time: 161.9545ms
+Number:46198 Iteration 320: Time taken by Rust with Marshalling: 706.6791 ms
+Number:46198 Iteration 320: Time taken by .NET: 1065.0275 ms
+Rust: Execution time: 382.1859ms
+Number:39138 Iteration 321: Time taken by Rust with Marshalling: 1603.0804 ms
+Number:39138 Iteration 321: Time taken by .NET: 932.2477 ms
+Rust: Execution time: 45.565ms
+Number:15950 Iteration 322: Time taken by Rust with Marshalling: 998.8112 ms
+Number:15950 Iteration 322: Time taken by .NET: 130.2605 ms
+Rust: Execution time: 459.0364ms
+Number:45846 Iteration 323: Time taken by Rust with Marshalling: 807.0079 ms
+Number:45846 Iteration 323: Time taken by .NET: 1207.8203 ms
+Rust: Execution time: 525.056ms
+Number:49127 Iteration 324: Time taken by Rust with Marshalling: 1969.6982 ms
+Number:49127 Iteration 324: Time taken by .NET: 1176.1563 ms
+Rust: Execution time: 45.1946ms
+Number:15602 Iteration 325: Time taken by Rust with Marshalling: 1236.2121 ms
+Number:15602 Iteration 325: Time taken by .NET: 120.0373 ms
+Rust: Execution time: 295.1598ms
+Number:39929 Iteration 326: Time taken by Rust with Marshalling: 569.5177 ms
+Number:39929 Iteration 326: Time taken by .NET: 877.9132 ms
+Rust: Execution time: 85.3792ms
+Number:22558 Iteration 327: Time taken by Rust with Marshalling: 1006.6961 ms
+Number:22558 Iteration 327: Time taken by .NET: 292.687 ms
+Rust: Execution time: 521.3025ms
+Number:49518 Iteration 328: Time taken by Rust with Marshalling: 1040.2016 ms
+Number:49518 Iteration 328: Time taken by .NET: 1253.8288 ms
+Rust: Execution time: 329.9771ms
+Number:44543 Iteration 329: Time taken by Rust with Marshalling: 1767.6299 ms
+Number:44543 Iteration 329: Time taken by .NET: 979.3754 ms
+Rust: Execution time: 397.8545ms
+Number:47592 Iteration 330: Time taken by Rust with Marshalling: 1577.1303 ms
+Number:47592 Iteration 330: Time taken by .NET: 1178.9323 ms
+Rust: Execution time: 335.1028ms
+Number:41348 Iteration 331: Time taken by Rust with Marshalling: 1679.6453 ms
+Number:41348 Iteration 331: Time taken by .NET: 886.7746 ms
+Rust: Execution time: 370.5098ms
+Number:43875 Iteration 332: Time taken by Rust with Marshalling: 1383.9405 ms
+Number:43875 Iteration 332: Time taken by .NET: 964.2031 ms
+Rust: Execution time: 274.3127ms
+Number:38843 Iteration 333: Time taken by Rust with Marshalling: 1393.4611 ms
+Number:38843 Iteration 333: Time taken by .NET: 775.4843 ms
+Rust: Execution time: 45.7774ms
+Number:18066 Iteration 334: Time taken by Rust with Marshalling: 847.9777 ms
+Number:18066 Iteration 334: Time taken by .NET: 154.426 ms
+Rust: Execution time: 74.9038ms
+Number:19334 Iteration 335: Time taken by Rust with Marshalling: 260.2399 ms
+Number:19334 Iteration 335: Time taken by .NET: 149.9853 ms
+Rust: Execution time: 48.8709ms
+Number:18212 Iteration 336: Time taken by Rust with Marshalling: 227.4198 ms
+Number:18212 Iteration 336: Time taken by .NET: 167.3099 ms
+Rust: Execution time: 63.0364ms
+Number:21699 Iteration 337: Time taken by Rust with Marshalling: 256.8697 ms
+Number:21699 Iteration 337: Time taken by .NET: 234.9447 ms
+Rust: Execution time: 179.8507ms
+Number:29512 Iteration 338: Time taken by Rust with Marshalling: 501.1332 ms
+Number:29512 Iteration 338: Time taken by .NET: 428.1701 ms
+Rust: Execution time: 86.124ms
+Number:22287 Iteration 339: Time taken by Rust with Marshalling: 552.0552 ms
+Number:22287 Iteration 339: Time taken by .NET: 222.1844 ms
+Rust: Execution time: 251.8408ms
+Number:36637 Iteration 340: Time taken by Rust with Marshalling: 605.0164 ms
+Number:36637 Iteration 340: Time taken by .NET: 579.8172 ms
+Rust: Execution time: 146.8574ms
+Number:29082 Iteration 341: Time taken by Rust with Marshalling: 801.419 ms
+Number:29082 Iteration 341: Time taken by .NET: 382.7284 ms
+Rust: Execution time: 379.8592ms
+Number:46028 Iteration 342: Time taken by Rust with Marshalling: 933.8384 ms
+Number:46028 Iteration 342: Time taken by .NET: 1071.7042 ms
+Rust: Execution time: 90.3858ms
+Number:23658 Iteration 343: Time taken by Rust with Marshalling: 1212.0165 ms
+Number:23658 Iteration 343: Time taken by .NET: 271.8988 ms
+Rust: Execution time: 363.9104ms
+Number:43469 Iteration 344: Time taken by Rust with Marshalling: 782.4891 ms
+Number:43469 Iteration 344: Time taken by .NET: 986.5289 ms
+Rust: Execution time: 455.8633ms
+Number:48480 Iteration 345: Time taken by Rust with Marshalling: 1676.0989 ms
+Number:48480 Iteration 345: Time taken by .NET: 1194.5358 ms
+Rust: Execution time: 212.025ms
+Number:31815 Iteration 346: Time taken by Rust with Marshalling: 1509.6804 ms
+Number:31815 Iteration 346: Time taken by .NET: 496.6402 ms
+Rust: Execution time: 299.1642ms
+Number:38752 Iteration 347: Time taken by Rust with Marshalling: 916.2289 ms
+Number:38752 Iteration 347: Time taken by .NET: 746.8615 ms
+Rust: Execution time: 453.0628ms
+Number:47245 Iteration 348: Time taken by Rust with Marshalling: 1406.1195 ms
+Number:47245 Iteration 348: Time taken by .NET: 1106.1441 ms
+Rust: Execution time: 170.8113ms
+Number:30737 Iteration 349: Time taken by Rust with Marshalling: 1358.1288 ms
+Number:30737 Iteration 349: Time taken by .NET: 472.6634 ms
+Rust: Execution time: 264.1847ms
+Number:38833 Iteration 350: Time taken by Rust with Marshalling: 873.4352 ms
+Number:38833 Iteration 350: Time taken by .NET: 746.5081 ms
+Rust: Execution time: 118.7274ms
+Number:25976 Iteration 351: Time taken by Rust with Marshalling: 927.1919 ms
+Number:25976 Iteration 351: Time taken by .NET: 345.6943 ms
+Rust: Execution time: 132.4385ms
+Number:30018 Iteration 352: Time taken by Rust with Marshalling: 534.9002 ms
+Number:30018 Iteration 352: Time taken by .NET: 387.5847 ms
+Rust: Execution time: 119.5608ms
+Number:26642 Iteration 353: Time taken by Rust with Marshalling: 562.4821 ms
+Number:26642 Iteration 353: Time taken by .NET: 350.6622 ms
+Rust: Execution time: 207.5035ms
+Number:33782 Iteration 354: Time taken by Rust with Marshalling: 667.0174 ms
+Number:33782 Iteration 354: Time taken by .NET: 593.7436 ms
+Rust: Execution time: 203.7911ms
+Number:33882 Iteration 355: Time taken by Rust with Marshalling: 891.9229 ms
+Number:33882 Iteration 355: Time taken by .NET: 561.6139 ms
+Rust: Execution time: 462.8833ms
+Number:46260 Iteration 356: Time taken by Rust with Marshalling: 1219.2936 ms
+Number:46260 Iteration 356: Time taken by .NET: 1186.8209 ms
+Rust: Execution time: 309.5821ms
+Number:40145 Iteration 357: Time taken by Rust with Marshalling: 1631.928 ms
+Number:40145 Iteration 357: Time taken by .NET: 892.6476 ms
+Rust: Execution time: 165.658ms
+Number:29555 Iteration 358: Time taken by Rust with Marshalling: 1141.0125 ms
+Number:29555 Iteration 358: Time taken by .NET: 452.138 ms
+Rust: Execution time: 70.1784ms
+Number:19506 Iteration 359: Time taken by Rust with Marshalling: 558.1383 ms
+Number:19506 Iteration 359: Time taken by .NET: 191.2101 ms
+Rust: Execution time: 462.9753ms
+Number:47689 Iteration 360: Time taken by Rust with Marshalling: 885.5575 ms
+Number:47689 Iteration 360: Time taken by .NET: 1276.0839 ms
+Rust: Execution time: 55.8707ms
+Number:17524 Iteration 361: Time taken by Rust with Marshalling: 1360.4389 ms
+Number:17524 Iteration 361: Time taken by .NET: 148.5753 ms
+Rust: Execution time: 131.2886ms
+Number:26776 Iteration 362: Time taken by Rust with Marshalling: 348.4787 ms
+Number:26776 Iteration 362: Time taken by .NET: 367.5234 ms
+Rust: Execution time: 96.9495ms
+Number:22875 Iteration 363: Time taken by Rust with Marshalling: 513.136 ms
+Number:22875 Iteration 363: Time taken by .NET: 256.7377 ms
+Rust: Execution time: 457.6719ms
+Number:47701 Iteration 364: Time taken by Rust with Marshalling: 946.133 ms
+Number:47701 Iteration 364: Time taken by .NET: 1271.3151 ms
+Rust: Execution time: 193.2098ms
+Number:31469 Iteration 365: Time taken by Rust with Marshalling: 1560.9705 ms
+Number:31469 Iteration 365: Time taken by .NET: 497.3112 ms
+Rust: Execution time: 72.9803ms
+Number:19946 Iteration 366: Time taken by Rust with Marshalling: 608.0512 ms
+Number:19946 Iteration 366: Time taken by .NET: 215.0278 ms
+Rust: Execution time: 43.648ms
+Number:17094 Iteration 367: Time taken by Rust with Marshalling: 284.0715 ms
+Number:17094 Iteration 367: Time taken by .NET: 133.6416 ms
+Rust: Execution time: 350.864ms
+Number:41562 Iteration 368: Time taken by Rust with Marshalling: 685.658 ms
+Number:41562 Iteration 368: Time taken by .NET: 951.0119 ms
+Rust: Execution time: 122.9465ms
+Number:24173 Iteration 369: Time taken by Rust with Marshalling: 1128.9777 ms
+Number:24173 Iteration 369: Time taken by .NET: 292.0281 ms
+Rust: Execution time: 294.8933ms
+Number:37247 Iteration 370: Time taken by Rust with Marshalling: 721.5672 ms
+Number:37247 Iteration 370: Time taken by .NET: 751.7963 ms
+Rust: Execution time: 48.3827ms
+Number:16526 Iteration 371: Time taken by Rust with Marshalling: 825.0464 ms
+Number:16526 Iteration 371: Time taken by .NET: 162.2522 ms
+Rust: Execution time: 299.1584ms
+Number:38937 Iteration 372: Time taken by Rust with Marshalling: 614.0972 ms
+Number:38937 Iteration 372: Time taken by .NET: 819.4452 ms
+Rust: Execution time: 165.9178ms
+Number:29514 Iteration 373: Time taken by Rust with Marshalling: 1069.9951 ms
+Number:29514 Iteration 373: Time taken by .NET: 472.4224 ms
+Rust: Execution time: 336.0537ms
+Number:41168 Iteration 374: Time taken by Rust with Marshalling: 977.9832 ms
+Number:41168 Iteration 374: Time taken by .NET: 910.0571 ms
+Rust: Execution time: 337.1475ms
+Number:41231 Iteration 375: Time taken by Rust with Marshalling: 1411.6653 ms
+Number:41231 Iteration 375: Time taken by .NET: 940.7108 ms
+Rust: Execution time: 283.58ms
+Number:38079 Iteration 376: Time taken by Rust with Marshalling: 1364.9193 ms
+Number:38079 Iteration 376: Time taken by .NET: 779.2716 ms
+Rust: Execution time: 328.9554ms
+Number:39580 Iteration 377: Time taken by Rust with Marshalling: 1267.1936 ms
+Number:39580 Iteration 377: Time taken by .NET: 825.9185 ms
+Rust: Execution time: 44.5209ms
+Number:16373 Iteration 378: Time taken by Rust with Marshalling: 899.3959 ms
+Number:16373 Iteration 378: Time taken by .NET: 165.8487 ms
+Rust: Execution time: 389.9338ms
+Number:43811 Iteration 379: Time taken by Rust with Marshalling: 748.8181 ms
+Number:43811 Iteration 379: Time taken by .NET: 1035.2783 ms
+Rust: Execution time: 330.4081ms
+Number:39149 Iteration 380: Time taken by Rust with Marshalling: 1527.1522 ms
+Number:39149 Iteration 380: Time taken by .NET: 864.5878 ms
+Rust: Execution time: 430.9931ms
+Number:44241 Iteration 381: Time taken by Rust with Marshalling: 1499.9229 ms
+Number:44241 Iteration 381: Time taken by .NET: 1031.6514 ms
+Rust: Execution time: 135.3083ms
+Number:26816 Iteration 382: Time taken by Rust with Marshalling: 1234.9262 ms
+Number:26816 Iteration 382: Time taken by .NET: 372.2736 ms
+Rust: Execution time: 461.4806ms
+Number:47277 Iteration 383: Time taken by Rust with Marshalling: 1060.5559 ms
+Number:47277 Iteration 383: Time taken by .NET: 1226.1182 ms
+Rust: Execution time: 373.5475ms
+Number:43325 Iteration 384: Time taken by Rust with Marshalling: 1790.6146 ms
+Number:43325 Iteration 384: Time taken by .NET: 1017.6464 ms
+Rust: Execution time: 372.3771ms
+Number:44170 Iteration 385: Time taken by Rust with Marshalling: 1575.6879 ms
+Number:44170 Iteration 385: Time taken by .NET: 1057.3194 ms
+Rust: Execution time: 199.756ms
+Number:31968 Iteration 386: Time taken by Rust with Marshalling: 1354.5626 ms
+Number:31968 Iteration 386: Time taken by .NET: 531.1955 ms
+Rust: Execution time: 96.6976ms
+Number:23333 Iteration 387: Time taken by Rust with Marshalling: 675.8609 ms
+Number:23333 Iteration 387: Time taken by .NET: 275.898 ms
+Rust: Execution time: 275.5739ms
+Number:37573 Iteration 388: Time taken by Rust with Marshalling: 688.6018 ms
+Number:37573 Iteration 388: Time taken by .NET: 726.9466 ms
+Rust: Execution time: 202.6581ms
+Number:32240 Iteration 389: Time taken by Rust with Marshalling: 1030.8978 ms
+Number:32240 Iteration 389: Time taken by .NET: 556.8723 ms
+Rust: Execution time: 491.0054ms
+Number:49687 Iteration 390: Time taken by Rust with Marshalling: 1311.8798 ms
+Number:49687 Iteration 390: Time taken by .NET: 1393.4617 ms
+Rust: Execution time: 251.4859ms
+Number:36055 Iteration 391: Time taken by Rust with Marshalling: 1771.3466 ms
+Number:36055 Iteration 391: Time taken by .NET: 682.1617 ms
+Rust: Execution time: 470.8753ms
+Number:48871 Iteration 392: Time taken by Rust with Marshalling: 1396.5933 ms
+Number:48871 Iteration 392: Time taken by .NET: 1291.6308 ms
+Rust: Execution time: 53.493ms
+Number:17637 Iteration 393: Time taken by Rust with Marshalling: 1375.1087 ms
+Number:17637 Iteration 393: Time taken by .NET: 146.4199 ms
+Rust: Execution time: 264.396ms
+Number:37337 Iteration 394: Time taken by Rust with Marshalling: 546.375 ms
+Number:37337 Iteration 394: Time taken by .NET: 793.7574 ms
+Rust: Execution time: 324.5555ms
+Number:39292 Iteration 395: Time taken by Rust with Marshalling: 1269.6669 ms
+Number:39292 Iteration 395: Time taken by .NET: 835.2901 ms
+Rust: Execution time: 218.6842ms
+Number:34196 Iteration 396: Time taken by Rust with Marshalling: 1167.2933 ms
+Number:34196 Iteration 396: Time taken by .NET: 598.7509 ms
+Rust: Execution time: 134.571ms
+Number:26777 Iteration 397: Time taken by Rust with Marshalling: 798.8852 ms
+Number:26777 Iteration 397: Time taken by .NET: 392.8862 ms
+Rust: Execution time: 233.6204ms
+Number:33270 Iteration 398: Time taken by Rust with Marshalling: 733.4951 ms
+Number:33270 Iteration 398: Time taken by .NET: 593.1035 ms
+Rust: Execution time: 125.2306ms
+Number:25724 Iteration 399: Time taken by Rust with Marshalling: 780.4299 ms
+Number:25724 Iteration 399: Time taken by .NET: 359.4641 ms
+Rust: Execution time: 289.8259ms
+Number:38360 Iteration 400: Time taken by Rust with Marshalling: 796.5315 ms
+Number:38360 Iteration 400: Time taken by .NET: 785.0666 ms
+Rust: Execution time: 298.2449ms
+Number:39408 Iteration 401: Time taken by Rust with Marshalling: 1234.8689 ms
+Number:39408 Iteration 401: Time taken by .NET: 841.726 ms
+Rust: Execution time: 113.8564ms
+Number:24880 Iteration 402: Time taken by Rust with Marshalling: 1013.114 ms
+Number:24880 Iteration 402: Time taken by .NET: 305.4505 ms
+Rust: Execution time: 414.863ms
+Number:44215 Iteration 403: Time taken by Rust with Marshalling: 917.339 ms
+Number:44215 Iteration 403: Time taken by .NET: 992.3638 ms
+Rust: Execution time: 47.6318ms
+Number:16380 Iteration 404: Time taken by Rust with Marshalling: 1063.5033 ms
+Number:16380 Iteration 404: Time taken by .NET: 127.7055 ms
+Rust: Execution time: 422.7408ms
+Number:45533 Iteration 405: Time taken by Rust with Marshalling: 781.4377 ms
+Number:45533 Iteration 405: Time taken by .NET: 1106.4762 ms
+Rust: Execution time: 473.296ms
+Number:47767 Iteration 406: Time taken by Rust with Marshalling: 1811.2785 ms
+Number:47767 Iteration 406: Time taken by .NET: 1246.4287 ms
+Rust: Execution time: 248.2456ms
+Number:35469 Iteration 407: Time taken by Rust with Marshalling: 1615.3229 ms
+Number:35469 Iteration 407: Time taken by .NET: 664.6753 ms
+Rust: Execution time: 265.9563ms
+Number:36482 Iteration 408: Time taken by Rust with Marshalling: 1060.4397 ms
+Number:36482 Iteration 408: Time taken by .NET: 722.5186 ms
+Rust: Execution time: 411.6777ms
+Number:46591 Iteration 409: Time taken by Rust with Marshalling: 1347.9095 ms
+Number:46591 Iteration 409: Time taken by .NET: 1174.3373 ms
+Rust: Execution time: 262.2269ms
+Number:37676 Iteration 410: Time taken by Rust with Marshalling: 1575.0789 ms
+Number:37676 Iteration 410: Time taken by .NET: 775.1737 ms
+Rust: Execution time: 138.9843ms
+Number:25533 Iteration 411: Time taken by Rust with Marshalling: 984.5845 ms
+Number:25533 Iteration 411: Time taken by .NET: 366.5065 ms
+Rust: Execution time: 115.9258ms
+Number:25893 Iteration 412: Time taken by Rust with Marshalling: 546.2861 ms
+Number:25893 Iteration 412: Time taken by .NET: 336.1599 ms
+Rust: Execution time: 126.1206ms
+Number:25840 Iteration 413: Time taken by Rust with Marshalling: 525.7304 ms
+Number:25840 Iteration 413: Time taken by .NET: 387.2464 ms
+Rust: Execution time: 453.078ms
+Number:46843 Iteration 414: Time taken by Rust with Marshalling: 1076.5539 ms
+Number:46843 Iteration 414: Time taken by .NET: 1205.9685 ms
+Rust: Execution time: 87.5177ms
+Number:22118 Iteration 415: Time taken by Rust with Marshalling: 1340.4101 ms
+Number:22118 Iteration 415: Time taken by .NET: 246.9544 ms
+Rust: Execution time: 96.0613ms
+Number:22674 Iteration 416: Time taken by Rust with Marshalling: 389.3458 ms
+Number:22674 Iteration 416: Time taken by .NET: 311.8016 ms
+Rust: Execution time: 87.755ms
+Number:21821 Iteration 417: Time taken by Rust with Marshalling: 442.4857 ms
+Number:21821 Iteration 417: Time taken by .NET: 244.8236 ms
+Rust: Execution time: 67.682ms
+Number:19285 Iteration 418: Time taken by Rust with Marshalling: 348.2012 ms
+Number:19285 Iteration 418: Time taken by .NET: 177.4705 ms
+Rust: Execution time: 119.1501ms
+Number:25392 Iteration 419: Time taken by Rust with Marshalling: 351.2023 ms
+Number:25392 Iteration 419: Time taken by .NET: 347.3612 ms
+Rust: Execution time: 205.5011ms
+Number:32569 Iteration 420: Time taken by Rust with Marshalling: 654.9531 ms
+Number:32569 Iteration 420: Time taken by .NET: 561.6053 ms
+Rust: Execution time: 229.3592ms
+Number:34147 Iteration 421: Time taken by Rust with Marshalling: 929.7876 ms
+Number:34147 Iteration 421: Time taken by .NET: 594.1883 ms
+Rust: Execution time: 325.3378ms
+Number:40468 Iteration 422: Time taken by Rust with Marshalling: 1080.4984 ms
+Number:40468 Iteration 422: Time taken by .NET: 877.5462 ms
+Rust: Execution time: 93.1528ms
+Number:22352 Iteration 423: Time taken by Rust with Marshalling: 1016.2193 ms
+Number:22352 Iteration 423: Time taken by .NET: 246.9753 ms
+Rust: Execution time: 459.6247ms
+Number:47233 Iteration 424: Time taken by Rust with Marshalling: 931.7535 ms
+Number:47233 Iteration 424: Time taken by .NET: 1144.6762 ms
+Rust: Execution time: 364.6277ms
+Number:42793 Iteration 425: Time taken by Rust with Marshalling: 1712.379 ms
+Number:42793 Iteration 425: Time taken by .NET: 1021.8596 ms
+Rust: Execution time: 102.2268ms
+Number:23038 Iteration 426: Time taken by Rust with Marshalling: 1173.4365 ms
+Number:23038 Iteration 426: Time taken by .NET: 309.9908 ms
+Rust: Execution time: 445.7659ms
+Number:47953 Iteration 427: Time taken by Rust with Marshalling: 1001.905 ms
+Number:47953 Iteration 427: Time taken by .NET: 1274.4889 ms
+Rust: Execution time: 220.9782ms
+Number:33751 Iteration 428: Time taken by Rust with Marshalling: 1596.6506 ms
+Number:33751 Iteration 428: Time taken by .NET: 582.7028 ms
+Rust: Execution time: 255.1693ms
+Number:36253 Iteration 429: Time taken by Rust with Marshalling: 959.1833 ms
+Number:36253 Iteration 429: Time taken by .NET: 669.9499 ms
+Rust: Execution time: 154.8989ms
+Number:28495 Iteration 430: Time taken by Rust with Marshalling: 897.5354 ms
+Number:28495 Iteration 430: Time taken by .NET: 414.6751 ms
+Rust: Execution time: 122.0022ms
+Number:26494 Iteration 431: Time taken by Rust with Marshalling: 588.3314 ms
+Number:26494 Iteration 431: Time taken by .NET: 342.2992 ms
+Rust: Execution time: 404.8307ms
+Number:45552 Iteration 432: Time taken by Rust with Marshalling: 947.8137 ms
+Number:45552 Iteration 432: Time taken by .NET: 1113.1875 ms
+Rust: Execution time: 418.9011ms
+Number:46742 Iteration 433: Time taken by Rust with Marshalling: 1738.5334 ms
+Number:46742 Iteration 433: Time taken by .NET: 1202.8016 ms
+Rust: Execution time: 117.7401ms
+Number:25391 Iteration 434: Time taken by Rust with Marshalling: 1379.4515 ms
+Number:25391 Iteration 434: Time taken by .NET: 333.4177 ms
+Rust: Execution time: 398.4444ms
+Number:43628 Iteration 435: Time taken by Rust with Marshalling: 941.2195 ms
+Number:43628 Iteration 435: Time taken by .NET: 989.0284 ms
+Rust: Execution time: 139.1289ms
+Number:27439 Iteration 436: Time taken by Rust with Marshalling: 1199.3602 ms
+Number:27439 Iteration 436: Time taken by .NET: 440.5332 ms
+Rust: Execution time: 282.8638ms
+Number:37198 Iteration 437: Time taken by Rust with Marshalling: 867.4168 ms
+Number:37198 Iteration 437: Time taken by .NET: 721.9459 ms
+Rust: Execution time: 317.8742ms
+Number:40856 Iteration 438: Time taken by Rust with Marshalling: 1203.183 ms
+Number:40856 Iteration 438: Time taken by .NET: 886.0977 ms
+Rust: Execution time: 200.3331ms
+Number:32700 Iteration 439: Time taken by Rust with Marshalling: 1189.0522 ms
+Number:32700 Iteration 439: Time taken by .NET: 543.6201 ms
+Rust: Execution time: 173.7618ms
+Number:30280 Iteration 440: Time taken by Rust with Marshalling: 802.6561 ms
+Number:30280 Iteration 440: Time taken by .NET: 486.7443 ms
+Rust: Execution time: 70.7049ms
+Number:20369 Iteration 441: Time taken by Rust with Marshalling: 591.6341 ms
+Number:20369 Iteration 441: Time taken by .NET: 226.7104 ms
+Rust: Execution time: 432.5872ms
+Number:47765 Iteration 442: Time taken by Rust with Marshalling: 884.8836 ms
+Number:47765 Iteration 442: Time taken by .NET: 1183.7459 ms
+Rust: Execution time: 418.5863ms
+Number:43353 Iteration 443: Time taken by Rust with Marshalling: 1777.6947 ms
+Number:43353 Iteration 443: Time taken by .NET: 995.7494 ms
+Rust: Execution time: 224.5564ms
+Number:33625 Iteration 444: Time taken by Rust with Marshalling: 1326.4096 ms
+Number:33625 Iteration 444: Time taken by .NET: 583.0857 ms
+Rust: Execution time: 345.481ms
+Number:42087 Iteration 445: Time taken by Rust with Marshalling: 1089.8485 ms
+Number:42087 Iteration 445: Time taken by .NET: 948.7 ms
+Rust: Execution time: 343.6336ms
+Number:41652 Iteration 446: Time taken by Rust with Marshalling: 1452.8409 ms
+Number:41652 Iteration 446: Time taken by .NET: 908.7245 ms
+Rust: Execution time: 195.5658ms
+Number:32360 Iteration 447: Time taken by Rust with Marshalling: 1204.7648 ms
+Number:32360 Iteration 447: Time taken by .NET: 529.6066 ms
+Rust: Execution time: 425.9062ms
+Number:46765 Iteration 448: Time taken by Rust with Marshalling: 1168.4136 ms
+Number:46765 Iteration 448: Time taken by .NET: 1167.1941 ms
+Rust: Execution time: 338.2282ms
+Number:41972 Iteration 449: Time taken by Rust with Marshalling: 1679.6783 ms
+Number:41972 Iteration 449: Time taken by .NET: 901.9056 ms
+Rust: Execution time: 423.2924ms
+Number:47016 Iteration 450: Time taken by Rust with Marshalling: 1524.3913 ms
+Number:47016 Iteration 450: Time taken by .NET: 1044.8399 ms
+Rust: Execution time: 137.7859ms
+Number:28404 Iteration 451: Time taken by Rust with Marshalling: 1244.1929 ms
+Number:28404 Iteration 451: Time taken by .NET: 356.7727 ms
+Rust: Execution time: 257.2776ms
+Number:42006 Iteration 452: Time taken by Rust with Marshalling: 757.5615 ms
+Number:42006 Iteration 452: Time taken by .NET: 955.857 ms
+Rust: Execution time: 200.8611ms
+Number:32438 Iteration 453: Time taken by Rust with Marshalling: 1257.7487 ms
+Number:32438 Iteration 453: Time taken by .NET: 542.0356 ms
+Rust: Execution time: 166.773ms
+Number:29772 Iteration 454: Time taken by Rust with Marshalling: 795.4441 ms
+Number:29772 Iteration 454: Time taken by .NET: 463.9719 ms
+Rust: Execution time: 134.5174ms
+Number:26680 Iteration 455: Time taken by Rust with Marshalling: 666.6016 ms
+Number:26680 Iteration 455: Time taken by .NET: 322.1618 ms
+Rust: Execution time: 353.2299ms
+Number:43869 Iteration 456: Time taken by Rust with Marshalling: 840.4675 ms
+Number:43869 Iteration 456: Time taken by .NET: 987.6336 ms
+Rust: Execution time: 334.6374ms
+Number:41964 Iteration 457: Time taken by Rust with Marshalling: 1496.4321 ms
+Number:41964 Iteration 457: Time taken by .NET: 898.8316 ms
+Rust: Execution time: 278.7766ms
+Number:37897 Iteration 458: Time taken by Rust with Marshalling: 1297.8876 ms
+Number:37897 Iteration 458: Time taken by .NET: 781.1955 ms
+Rust: Execution time: 167.2196ms
+Number:30077 Iteration 459: Time taken by Rust with Marshalling: 1017.3394 ms
+Number:30077 Iteration 459: Time taken by .NET: 445.7481 ms
+Rust: Execution time: 161.3004ms
+Number:32809 Iteration 460: Time taken by Rust with Marshalling: 673.8892 ms
+Number:32809 Iteration 460: Time taken by .NET: 569.2092 ms
+Rust: Execution time: 488.4919ms
+Number:49386 Iteration 461: Time taken by Rust with Marshalling: 1292.0013 ms
+Number:49386 Iteration 461: Time taken by .NET: 1288.9685 ms
+Rust: Execution time: 264.3078ms
+Number:38139 Iteration 462: Time taken by Rust with Marshalling: 1687.984 ms
+Number:38139 Iteration 462: Time taken by .NET: 778.1826 ms
+Rust: Execution time: 394.1069ms
+Number:45700 Iteration 463: Time taken by Rust with Marshalling: 1369.8866 ms
+Number:45700 Iteration 463: Time taken by .NET: 1100.5231 ms
+Rust: Execution time: 188.5675ms
+Number:31509 Iteration 464: Time taken by Rust with Marshalling: 1361.7436 ms
+Number:31509 Iteration 464: Time taken by .NET: 490.9935 ms
+Rust: Execution time: 334.1512ms
+Number:42148 Iteration 465: Time taken by Rust with Marshalling: 972.1439 ms
+Number:42148 Iteration 465: Time taken by .NET: 993.541 ms
+Rust: Execution time: 78.1669ms
+Number:21038 Iteration 466: Time taken by Rust with Marshalling: 1109.6615 ms
+Number:21038 Iteration 466: Time taken by .NET: 221.0108 ms
+Rust: Execution time: 413.4638ms
+Number:46433 Iteration 467: Time taken by Rust with Marshalling: 841.3392 ms
+Number:46433 Iteration 467: Time taken by .NET: 1100.8943 ms
+Rust: Execution time: 128.7531ms
+Number:29265 Iteration 468: Time taken by Rust with Marshalling: 1300.3615 ms
+Number:29265 Iteration 468: Time taken by .NET: 442.8787 ms
+Rust: Execution time: 461.7447ms
+Number:46156 Iteration 469: Time taken by Rust with Marshalling: 1097.2952 ms
+Number:46156 Iteration 469: Time taken by .NET: 1050.1621 ms
+Rust: Execution time: 97.9779ms
+Number:23393 Iteration 470: Time taken by Rust with Marshalling: 1197.7009 ms
+Number:23393 Iteration 470: Time taken by .NET: 279.8491 ms
+Rust: Execution time: 162.8547ms
+Number:27503 Iteration 471: Time taken by Rust with Marshalling: 513.4757 ms
+Number:27503 Iteration 471: Time taken by .NET: 404.8969 ms
+Rust: Execution time: 459.3121ms
+Number:47986 Iteration 472: Time taken by Rust with Marshalling: 1078.6225 ms
+Number:47986 Iteration 472: Time taken by .NET: 1219.2196 ms
+Rust: Execution time: 488.7514ms
+Number:49733 Iteration 473: Time taken by Rust with Marshalling: 1944.3809 ms
+Number:49733 Iteration 473: Time taken by .NET: 1348.6915 ms
+Rust: Execution time: 153.1745ms
+Number:28530 Iteration 474: Time taken by Rust with Marshalling: 1575.2047 ms
+Number:28530 Iteration 474: Time taken by .NET: 410.4935 ms
+Rust: Execution time: 186.8625ms
+Number:32422 Iteration 475: Time taken by Rust with Marshalling: 688.0177 ms
+Number:32422 Iteration 475: Time taken by .NET: 547.3577 ms
+Rust: Execution time: 239.131ms
+Number:35654 Iteration 476: Time taken by Rust with Marshalling: 903.8773 ms
+Number:35654 Iteration 476: Time taken by .NET: 641.7214 ms
+Rust: Execution time: 77.9629ms
+Number:21902 Iteration 477: Time taken by Rust with Marshalling: 761.1036 ms
+Number:21902 Iteration 477: Time taken by .NET: 232.3406 ms
+Rust: Execution time: 106.5633ms
+Number:24593 Iteration 478: Time taken by Rust with Marshalling: 395.2071 ms
+Number:24593 Iteration 478: Time taken by .NET: 311.003 ms
+Rust: Execution time: 151.6261ms
+Number:28115 Iteration 479: Time taken by Rust with Marshalling: 532.9458 ms
+Number:28115 Iteration 479: Time taken by .NET: 382.861 ms
+Rust: Execution time: 68.8248ms
+Number:20365 Iteration 480: Time taken by Rust with Marshalling: 488.0626 ms
+Number:20365 Iteration 480: Time taken by .NET: 199.8519 ms
+Rust: Execution time: 256.1375ms
+Number:36559 Iteration 481: Time taken by Rust with Marshalling: 555.1918 ms
+Number:36559 Iteration 481: Time taken by .NET: 672.938 ms
+Rust: Execution time: 104.2097ms
+Number:25009 Iteration 482: Time taken by Rust with Marshalling: 821.3743 ms
+Number:25009 Iteration 482: Time taken by .NET: 323.421 ms
+Rust: Execution time: 51.1937ms
+Number:17024 Iteration 483: Time taken by Rust with Marshalling: 398.803 ms
+Number:17024 Iteration 483: Time taken by .NET: 159.024 ms
+Rust: Execution time: 430.9215ms
+Number:47576 Iteration 484: Time taken by Rust with Marshalling: 788.2979 ms
+Number:47576 Iteration 484: Time taken by .NET: 1162.046 ms
+Rust: Execution time: 48.9931ms
+Number:17468 Iteration 485: Time taken by Rust with Marshalling: 1235.846 ms
+Number:17468 Iteration 485: Time taken by .NET: 164.4094 ms
+Rust: Execution time: 148.1089ms
+Number:28340 Iteration 486: Time taken by Rust with Marshalling: 394.8465 ms
+Number:28340 Iteration 486: Time taken by .NET: 416.7238 ms
+Rust: Execution time: 100.7206ms
+Number:23941 Iteration 487: Time taken by Rust with Marshalling: 567.8849 ms
+Number:23941 Iteration 487: Time taken by .NET: 299.8519 ms
+Rust: Execution time: 78.8409ms
+Number:21448 Iteration 488: Time taken by Rust with Marshalling: 415.3075 ms
+Number:21448 Iteration 488: Time taken by .NET: 265.2261 ms
+Rust: Execution time: 223.4278ms
+Number:35289 Iteration 489: Time taken by Rust with Marshalling: 609.9762 ms
+Number:35289 Iteration 489: Time taken by .NET: 638.1 ms
+Rust: Execution time: 79.5309ms
+Number:20005 Iteration 490: Time taken by Rust with Marshalling: 757.1232 ms
+Number:20005 Iteration 490: Time taken by .NET: 203.6319 ms
+Rust: Execution time: 290.302ms
+Number:41191 Iteration 491: Time taken by Rust with Marshalling: 649.7007 ms
+Number:41191 Iteration 491: Time taken by .NET: 906.3104 ms
+Rust: Execution time: 291.4529ms
+Number:38946 Iteration 492: Time taken by Rust with Marshalling: 1338.2886 ms
+Number:38946 Iteration 492: Time taken by .NET: 774.2772 ms
+Rust: Execution time: 143.9171ms
+Number:29342 Iteration 493: Time taken by Rust with Marshalling: 982.0562 ms
+Number:29342 Iteration 493: Time taken by .NET: 458.3253 ms
+Rust: Execution time: 29.7847ms
+Number:15952 Iteration 494: Time taken by Rust with Marshalling: 508.4301 ms
+Number:15952 Iteration 494: Time taken by .NET: 129.8307 ms
+Rust: Execution time: 461.9678ms
+Number:47545 Iteration 495: Time taken by Rust with Marshalling: 810.3229 ms
+Number:47545 Iteration 495: Time taken by .NET: 1154.3181 ms
+Rust: Execution time: 53.5303ms
+Number:19488 Iteration 496: Time taken by Rust with Marshalling: 1239.0323 ms
+Number:19488 Iteration 496: Time taken by .NET: 184.5248 ms
+Rust: Execution time: 182.0553ms
+Number:33285 Iteration 497: Time taken by Rust with Marshalling: 429.6822 ms
+Number:33285 Iteration 497: Time taken by .NET: 473.977 ms
+Rust: Execution time: 142.8936ms
+Number:27636 Iteration 498: Time taken by Rust with Marshalling: 684.8314 ms
+Number:27636 Iteration 498: Time taken by .NET: 381.4557 ms
+Rust: Execution time: 253.1426ms
+Number:38901 Iteration 499: Time taken by Rust with Marshalling: 741.8864 ms
+Number:38901 Iteration 499: Time taken by .NET: 636.184 ms
+Rust: Execution time: 163.0045ms
+Number:30330 Iteration 500: Time taken by Rust with Marshalling: 864.7368 ms
+Number:30330 Iteration 500: Time taken by .NET: 514.5966 ms
+Rust: Execution time: 500.6803ms
+Number:49004 Iteration 501: Time taken by Rust with Marshalling: 1250.2467 ms
+Number:49004 Iteration 501: Time taken by .NET: 1262.2833 ms
+Rust: Execution time: 72.3339ms
+Number:19623 Iteration 502: Time taken by Rust with Marshalling: 1366.2476 ms
+Number:19623 Iteration 502: Time taken by .NET: 185.43 ms
+Rust: Execution time: 125.5346ms
+Number:24282 Iteration 503: Time taken by Rust with Marshalling: 363.7063 ms
+Number:24282 Iteration 503: Time taken by .NET: 292.9219 ms
+Rust: Execution time: 400.2058ms
+Number:44584 Iteration 504: Time taken by Rust with Marshalling: 865.1374 ms
+Number:44584 Iteration 504: Time taken by .NET: 1000.1664 ms
+Rust: Execution time: 178.9796ms
+Number:34316 Iteration 505: Time taken by Rust with Marshalling: 1283.7147 ms
+Number:34316 Iteration 505: Time taken by .NET: 521.58 ms
+Rust: Execution time: 231.9835ms
+Number:35205 Iteration 506: Time taken by Rust with Marshalling: 848.3888 ms
+Number:35205 Iteration 506: Time taken by .NET: 574.8523 ms
+Rust: Execution time: 214.0394ms
+Number:36065 Iteration 507: Time taken by Rust with Marshalling: 888.5911 ms
+Number:36065 Iteration 507: Time taken by .NET: 656.5636 ms
+Rust: Execution time: 70.5646ms
+Number:19666 Iteration 508: Time taken by Rust with Marshalling: 764.1652 ms
+Number:19666 Iteration 508: Time taken by .NET: 187.9518 ms
+Rust: Execution time: 422.2856ms
+Number:46103 Iteration 509: Time taken by Rust with Marshalling: 764.2832 ms
+Number:46103 Iteration 509: Time taken by .NET: 1103.0552 ms
+Rust: Execution time: 106.1642ms
+Number:24140 Iteration 510: Time taken by Rust with Marshalling: 1264.6311 ms
+Number:24140 Iteration 510: Time taken by .NET: 272.3034 ms
+Rust: Execution time: 241.6212ms
+Number:36981 Iteration 511: Time taken by Rust with Marshalling: 643.2778 ms
+Number:36981 Iteration 511: Time taken by .NET: 742.1108 ms
+Rust: Execution time: 78.8227ms
+Number:20689 Iteration 512: Time taken by Rust with Marshalling: 856.3817 ms
+Number:20689 Iteration 512: Time taken by .NET: 202.9429 ms
+Rust: Execution time: 87.521ms
+Number:21094 Iteration 513: Time taken by Rust with Marshalling: 331.9971 ms
+Number:21094 Iteration 513: Time taken by .NET: 211.1163 ms
+Rust: Execution time: 72.4904ms
+Number:20010 Iteration 514: Time taken by Rust with Marshalling: 321.5197 ms
+Number:20010 Iteration 514: Time taken by .NET: 183.9084 ms
+Rust: Execution time: 220.962ms
+Number:33722 Iteration 515: Time taken by Rust with Marshalling: 517.4481 ms
+Number:33722 Iteration 515: Time taken by .NET: 645.1746 ms
+Rust: Execution time: 387.1671ms
+Number:43225 Iteration 516: Time taken by Rust with Marshalling: 1224.3374 ms
+Number:43225 Iteration 516: Time taken by .NET: 968.6551 ms
+Rust: Execution time: 39.853ms
+Number:15059 Iteration 517: Time taken by Rust with Marshalling: 1027.3836 ms
+Number:15059 Iteration 517: Time taken by .NET: 106.244 ms
+Rust: Execution time: 280.1969ms
+Number:39228 Iteration 518: Time taken by Rust with Marshalling: 530.2873 ms
+Number:39228 Iteration 518: Time taken by .NET: 810.8399 ms
+Rust: Execution time: 274.7803ms
+Number:38157 Iteration 519: Time taken by Rust with Marshalling: 1222.5689 ms
+Number:38157 Iteration 519: Time taken by .NET: 752.7587 ms
+Rust: Execution time: 217.3501ms
+Number:32679 Iteration 520: Time taken by Rust with Marshalling: 1062.0987 ms
+Number:32679 Iteration 520: Time taken by .NET: 565.5478 ms
+Rust: Execution time: 290.6187ms
+Number:42104 Iteration 521: Time taken by Rust with Marshalling: 987.7257 ms
+Number:42104 Iteration 521: Time taken by .NET: 847.2747 ms
+Rust: Execution time: 262.4953ms
+Number:38624 Iteration 522: Time taken by Rust with Marshalling: 1242.1352 ms
+Number:38624 Iteration 522: Time taken by .NET: 791.5261 ms
+Rust: Execution time: 297.3064ms
+Number:39075 Iteration 523: Time taken by Rust with Marshalling: 1235.1701 ms
+Number:39075 Iteration 523: Time taken by .NET: 806.7373 ms
+Rust: Execution time: 397.7636ms
+Number:45141 Iteration 524: Time taken by Rust with Marshalling: 1407.7112 ms
+Number:45141 Iteration 524: Time taken by .NET: 1106.0715 ms
+Rust: Execution time: 342.1857ms
+Number:41628 Iteration 525: Time taken by Rust with Marshalling: 1598.1175 ms
+Number:41628 Iteration 525: Time taken by .NET: 920.5349 ms
+Rust: Execution time: 352.784ms
+Number:39959 Iteration 526: Time taken by Rust with Marshalling: 1429.6673 ms
+Number:39959 Iteration 526: Time taken by .NET: 862.3035 ms
+Rust: Execution time: 123.0867ms
+Number:25518 Iteration 527: Time taken by Rust with Marshalling: 1045.2128 ms
+Number:25518 Iteration 527: Time taken by .NET: 334.9681 ms
+Rust: Execution time: 303.8833ms
+Number:39204 Iteration 528: Time taken by Rust with Marshalling: 789.0526 ms
+Number:39204 Iteration 528: Time taken by .NET: 781.3372 ms
+Rust: Execution time: 121.526ms
+Number:25372 Iteration 529: Time taken by Rust with Marshalling: 961.9321 ms
+Number:25372 Iteration 529: Time taken by .NET: 345.1964 ms
+Rust: Execution time: 336.4015ms
+Number:39531 Iteration 530: Time taken by Rust with Marshalling: 835.5086 ms
+Number:39531 Iteration 530: Time taken by .NET: 795.2612 ms
+Rust: Execution time: 380.5985ms
+Number:44089 Iteration 531: Time taken by Rust with Marshalling: 1369.044 ms
+Number:44089 Iteration 531: Time taken by .NET: 1038.978 ms
+Rust: Execution time: 163.1172ms
+Number:29146 Iteration 532: Time taken by Rust with Marshalling: 1282.3045 ms
+Number:29146 Iteration 532: Time taken by .NET: 432.3225 ms
+Rust: Execution time: 257.9083ms
+Number:36879 Iteration 533: Time taken by Rust with Marshalling: 823.7069 ms
+Number:36879 Iteration 533: Time taken by .NET: 722.1074 ms
+Rust: Execution time: 157.0504ms
+Number:28788 Iteration 534: Time taken by Rust with Marshalling: 956.5073 ms
+Number:28788 Iteration 534: Time taken by .NET: 458.9628 ms
+Rust: Execution time: 294.3623ms
+Number:40464 Iteration 535: Time taken by Rust with Marshalling: 917.354 ms
+Number:40464 Iteration 535: Time taken by .NET: 918.356 ms
+Rust: Execution time: 351.4369ms
+Number:41748 Iteration 536: Time taken by Rust with Marshalling: 1457.591 ms
+Number:41748 Iteration 536: Time taken by .NET: 908.7725 ms
+Rust: Execution time: 156.3726ms
+Number:28905 Iteration 537: Time taken by Rust with Marshalling: 1139.8711 ms
+Number:28905 Iteration 537: Time taken by .NET: 433.2745 ms
+Rust: Execution time: 157.0927ms
+Number:29232 Iteration 538: Time taken by Rust with Marshalling: 671.2756 ms
+Number:29232 Iteration 538: Time taken by .NET: 434.7376 ms
+Rust: Execution time: 55.8906ms
+Number:17682 Iteration 539: Time taken by Rust with Marshalling: 519.0598 ms
+Number:17682 Iteration 539: Time taken by .NET: 148.7476 ms
+Rust: Execution time: 497.1811ms
+Number:49840 Iteration 540: Time taken by Rust with Marshalling: 898.9843 ms
+Number:49840 Iteration 540: Time taken by .NET: 1332.5091 ms
+Rust: Execution time: 287.2831ms
+Number:38481 Iteration 541: Time taken by Rust with Marshalling: 1761.2903 ms
+Number:38481 Iteration 541: Time taken by .NET: 768.6665 ms
+Rust: Execution time: 309.2439ms
+Number:38596 Iteration 542: Time taken by Rust with Marshalling: 1226.6417 ms
+Number:38596 Iteration 542: Time taken by .NET: 767.7891 ms
+Rust: Execution time: 477.9957ms
+Number:48690 Iteration 543: Time taken by Rust with Marshalling: 1486.0623 ms
+Number:48690 Iteration 543: Time taken by .NET: 1223.1297 ms
+Rust: Execution time: 53.3641ms
+Number:17239 Iteration 544: Time taken by Rust with Marshalling: 1303.8548 ms
+Number:17239 Iteration 544: Time taken by .NET: 139.6585 ms
+Rust: Execution time: 303.9234ms
+Number:36928 Iteration 545: Time taken by Rust with Marshalling: 577.2666 ms
+Number:36928 Iteration 545: Time taken by .NET: 732.3047 ms
+Rust: Execution time: 252.8027ms
+Number:36234 Iteration 546: Time taken by Rust with Marshalling: 1114.3305 ms
+Number:36234 Iteration 546: Time taken by .NET: 680.9415 ms
+Rust: Execution time: 75.572ms
+Number:17951 Iteration 547: Time taken by Rust with Marshalling: 786.7234 ms
+Number:17951 Iteration 547: Time taken by .NET: 149.6127 ms
+Rust: Execution time: 50.875ms
+Number:16812 Iteration 548: Time taken by Rust with Marshalling: 226.465 ms
+Number:16812 Iteration 548: Time taken by .NET: 139.0406 ms
+Rust: Execution time: 92.3951ms
+Number:22388 Iteration 549: Time taken by Rust with Marshalling: 276.8721 ms
+Number:22388 Iteration 549: Time taken by .NET: 243.8835 ms
+Rust: Execution time: 91.9107ms
+Number:22634 Iteration 550: Time taken by Rust with Marshalling: 381.6625 ms
+Number:22634 Iteration 550: Time taken by .NET: 286.4393 ms
+Rust: Execution time: 170.1064ms
+Number:29016 Iteration 551: Time taken by Rust with Marshalling: 535.9836 ms
+Number:29016 Iteration 551: Time taken by .NET: 421.9661 ms
+Rust: Execution time: 95.2002ms
+Number:22937 Iteration 552: Time taken by Rust with Marshalling: 563.2776 ms
+Number:22937 Iteration 552: Time taken by .NET: 283.8094 ms
+Rust: Execution time: 130.5283ms
+Number:26384 Iteration 553: Time taken by Rust with Marshalling: 478.7447 ms
+Number:26384 Iteration 553: Time taken by .NET: 340.9356 ms
+Rust: Execution time: 423.1406ms
+Number:45800 Iteration 554: Time taken by Rust with Marshalling: 966.0205 ms
+Number:45800 Iteration 554: Time taken by .NET: 1158.5774 ms
+Rust: Execution time: 335.2187ms
+Number:41511 Iteration 555: Time taken by Rust with Marshalling: 1655.4717 ms
+Number:41511 Iteration 555: Time taken by .NET: 922.517 ms
+Rust: Execution time: 352.67ms
+Number:41970 Iteration 556: Time taken by Rust with Marshalling: 1455.8872 ms
+Number:41970 Iteration 556: Time taken by .NET: 925.1156 ms
+Rust: Execution time: 347.8592ms
+Number:39290 Iteration 557: Time taken by Rust with Marshalling: 1416.6781 ms
+Number:39290 Iteration 557: Time taken by .NET: 857.3013 ms
+Rust: Execution time: 396.5401ms
+Number:44578 Iteration 558: Time taken by Rust with Marshalling: 1454.2992 ms
+Number:44578 Iteration 558: Time taken by .NET: 1052.5129 ms
+Rust: Execution time: 395.0182ms
+Number:45749 Iteration 559: Time taken by Rust with Marshalling: 1656.0435 ms
+Number:45749 Iteration 559: Time taken by .NET: 1161.3517 ms
+Rust: Execution time: 39.4913ms
+Number:15549 Iteration 560: Time taken by Rust with Marshalling: 1221.8721 ms
+Number:15549 Iteration 560: Time taken by .NET: 109.1108 ms
+Rust: Execution time: 89.0917ms
+Number:22873 Iteration 561: Time taken by Rust with Marshalling: 242.7373 ms
+Number:22873 Iteration 561: Time taken by .NET: 269.3854 ms
+Rust: Execution time: 275.5822ms
+Number:37711 Iteration 562: Time taken by Rust with Marshalling: 677.0859 ms
+Number:37711 Iteration 562: Time taken by .NET: 732.0085 ms
+Rust: Execution time: 450.9009ms
+Number:48380 Iteration 563: Time taken by Rust with Marshalling: 1416.7508 ms
+Number:48380 Iteration 563: Time taken by .NET: 1270.6255 ms
+Rust: Execution time: 83.8074ms
+Number:22038 Iteration 564: Time taken by Rust with Marshalling: 1398.806 ms
+Number:22038 Iteration 564: Time taken by .NET: 249.1229 ms
+Rust: Execution time: 120.1257ms
+Number:25167 Iteration 565: Time taken by Rust with Marshalling: 428.1106 ms
+Number:25167 Iteration 565: Time taken by .NET: 302.9428 ms
+Rust: Execution time: 235.8464ms
+Number:34936 Iteration 566: Time taken by Rust with Marshalling: 652.3022 ms
+Number:34936 Iteration 566: Time taken by .NET: 663.5037 ms
+Rust: Execution time: 170.7539ms
+Number:26418 Iteration 567: Time taken by Rust with Marshalling: 899.4007 ms
+Number:26418 Iteration 567: Time taken by .NET: 364.3482 ms
+Rust: Execution time: 298.56ms
+Number:38606 Iteration 568: Time taken by Rust with Marshalling: 804.6709 ms
+Number:38606 Iteration 568: Time taken by .NET: 806.1966 ms
+Rust: Execution time: 426.5734ms
+Number:45665 Iteration 569: Time taken by Rust with Marshalling: 1442.483 ms
+Number:45665 Iteration 569: Time taken by .NET: 1123.2877 ms
+Rust: Execution time: 216.4669ms
+Number:33680 Iteration 570: Time taken by Rust with Marshalling: 1437.1022 ms
+Number:33680 Iteration 570: Time taken by .NET: 597.5462 ms
+Rust: Execution time: 97.9288ms
+Number:22997 Iteration 571: Time taken by Rust with Marshalling: 745.556 ms
+Number:22997 Iteration 571: Time taken by .NET: 266.4244 ms
+Rust: Execution time: 76.9389ms
+Number:20681 Iteration 572: Time taken by Rust with Marshalling: 373.2831 ms
+Number:20681 Iteration 572: Time taken by .NET: 210.9319 ms
+Rust: Execution time: 231.7302ms
+Number:34482 Iteration 573: Time taken by Rust with Marshalling: 527.7541 ms
+Number:34482 Iteration 573: Time taken by .NET: 622.1908 ms
+Rust: Execution time: 398.9985ms
+Number:45053 Iteration 574: Time taken by Rust with Marshalling: 1217.7884 ms
+Number:45053 Iteration 574: Time taken by .NET: 1013.7656 ms
+Rust: Execution time: 352.841ms
+Number:43133 Iteration 575: Time taken by Rust with Marshalling: 1552.5458 ms
+Number:43133 Iteration 575: Time taken by .NET: 985.1617 ms
+Rust: Execution time: 169.5231ms
+Number:29525 Iteration 576: Time taken by Rust with Marshalling: 1237.8859 ms
+Number:29525 Iteration 576: Time taken by .NET: 439.6268 ms
+Rust: Execution time: 139.7656ms
+Number:27339 Iteration 577: Time taken by Rust with Marshalling: 652.5611 ms
+Number:27339 Iteration 577: Time taken by .NET: 405.8327 ms
+Rust: Execution time: 86.4855ms
+Number:22064 Iteration 578: Time taken by Rust with Marshalling: 535.6744 ms
+Number:22064 Iteration 578: Time taken by .NET: 245.2324 ms
+Rust: Execution time: 389.8875ms
+Number:45325 Iteration 579: Time taken by Rust with Marshalling: 837.7793 ms
+Number:45325 Iteration 579: Time taken by .NET: 1135.1528 ms
+Rust: Execution time: 78.5577ms
+Number:20732 Iteration 580: Time taken by Rust with Marshalling: 1253.2483 ms
+Number:20732 Iteration 580: Time taken by .NET: 209.2463 ms
+Rust: Execution time: 316.0031ms
+Number:39530 Iteration 581: Time taken by Rust with Marshalling: 686.6399 ms
+Number:39530 Iteration 581: Time taken by .NET: 822.3348 ms
+Rust: Execution time: 93.3777ms
+Number:22879 Iteration 582: Time taken by Rust with Marshalling: 970.637 ms
+Number:22879 Iteration 582: Time taken by .NET: 245.0649 ms
+Rust: Execution time: 331.8398ms
+Number:41606 Iteration 583: Time taken by Rust with Marshalling: 728.7985 ms
+Number:41606 Iteration 583: Time taken by .NET: 864.2116 ms
+Rust: Execution time: 73.8952ms
+Number:20192 Iteration 584: Time taken by Rust with Marshalling: 975.0758 ms
+Number:20192 Iteration 584: Time taken by .NET: 198.3246 ms
+Rust: Execution time: 277.7397ms
+Number:37354 Iteration 585: Time taken by Rust with Marshalling: 613.6632 ms
+Number:37354 Iteration 585: Time taken by .NET: 725.3028 ms
+Rust: Execution time: 180.3725ms
+Number:28764 Iteration 586: Time taken by Rust with Marshalling: 983.9301 ms
+Number:28764 Iteration 586: Time taken by .NET: 401.8198 ms
+Rust: Execution time: 423.48ms
+Number:46347 Iteration 587: Time taken by Rust with Marshalling: 1023.962 ms
+Number:46347 Iteration 587: Time taken by .NET: 1158.8269 ms
+Rust: Execution time: 466.846ms
+Number:48346 Iteration 588: Time taken by Rust with Marshalling: 1852.4546 ms
+Number:48346 Iteration 588: Time taken by .NET: 1266.8307 ms
+Rust: Execution time: 58.5312ms
+Number:18645 Iteration 589: Time taken by Rust with Marshalling: 1357.3094 ms
+Number:18645 Iteration 589: Time taken by .NET: 185.3476 ms
+Rust: Execution time: 160.8539ms
+Number:29047 Iteration 590: Time taken by Rust with Marshalling: 426.2063 ms
+Number:29047 Iteration 590: Time taken by .NET: 431.001 ms
+Rust: Execution time: 143.9823ms
+Number:27788 Iteration 591: Time taken by Rust with Marshalling: 647.3934 ms
+Number:27788 Iteration 591: Time taken by .NET: 401.5189 ms
+Rust: Execution time: 213.685ms
+Number:33942 Iteration 592: Time taken by Rust with Marshalling: 729.0438 ms
+Number:33942 Iteration 592: Time taken by .NET: 597.7477 ms
+Rust: Execution time: 108.9948ms
+Number:24165 Iteration 593: Time taken by Rust with Marshalling: 759.2745 ms
+Number:24165 Iteration 593: Time taken by .NET: 285.6707 ms
+Rust: Execution time: 185.38ms
+Number:31422 Iteration 594: Time taken by Rust with Marshalling: 564.7278 ms
+Number:31422 Iteration 594: Time taken by .NET: 518.9897 ms
+Rust: Execution time: 212.5424ms
+Number:33319 Iteration 595: Time taken by Rust with Marshalling: 838.1754 ms
+Number:33319 Iteration 595: Time taken by .NET: 592.5092 ms
+Rust: Execution time: 219.4636ms
+Number:33906 Iteration 596: Time taken by Rust with Marshalling: 922.2845 ms
+Number:33906 Iteration 596: Time taken by .NET: 575.8272 ms
+Rust: Execution time: 120.3927ms
+Number:25621 Iteration 597: Time taken by Rust with Marshalling: 759.696 ms
+Number:25621 Iteration 597: Time taken by .NET: 320.1094 ms
+Rust: Execution time: 43.0663ms
+Number:15512 Iteration 598: Time taken by Rust with Marshalling: 385.2412 ms
+Number:15512 Iteration 598: Time taken by .NET: 116.4571 ms
+Rust: Execution time: 228.3058ms
+Number:34514 Iteration 599: Time taken by Rust with Marshalling: 473.7886 ms
+Number:34514 Iteration 599: Time taken by .NET: 572.5716 ms
+Rust: Execution time: 499.4666ms
+Number:49467 Iteration 600: Time taken by Rust with Marshalling: 1317.6411 ms
+Number:49467 Iteration 600: Time taken by .NET: 1093.4629 ms
+Rust: Execution time: 35.6287ms
+Number:23696 Iteration 601: Time taken by Rust with Marshalling: 1148.2277 ms
+Number:23696 Iteration 601: Time taken by .NET: 99.3879 ms
+Rust: Execution time: 43.4591ms
+Number:25702 Iteration 602: Time taken by Rust with Marshalling: 166.433 ms
+Number:25702 Iteration 602: Time taken by .NET: 109.955 ms
+Rust: Execution time: 164.865ms
+Number:48534 Iteration 603: Time taken by Rust with Marshalling: 361.474 ms
+Number:48534 Iteration 603: Time taken by .NET: 461.216 ms
+Rust: Execution time: 42.6796ms
+Number:24301 Iteration 604: Time taken by Rust with Marshalling: 525.9483 ms
+Number:24301 Iteration 604: Time taken by .NET: 131.7001 ms
+Rust: Execution time: 166.769ms
+Number:49453 Iteration 605: Time taken by Rust with Marshalling: 388.0966 ms
+Number:49453 Iteration 605: Time taken by .NET: 501.3981 ms
+Rust: Execution time: 23.7189ms
+Number:18888 Iteration 606: Time taken by Rust with Marshalling: 537.1845 ms
+Number:18888 Iteration 606: Time taken by .NET: 55.1373 ms
+Rust: Execution time: 78.4323ms
+Number:34192 Iteration 607: Time taken by Rust with Marshalling: 174.0508 ms
+Number:34192 Iteration 607: Time taken by .NET: 208.1785 ms
+Rust: Execution time: 26.6322ms
+Number:20224 Iteration 608: Time taken by Rust with Marshalling: 247.9103 ms
+Number:20224 Iteration 608: Time taken by .NET: 73.7476 ms
+Rust: Execution time: 107.171ms
+Number:39584 Iteration 609: Time taken by Rust with Marshalling: 234.3577 ms
+Number:39584 Iteration 609: Time taken by .NET: 298.9557 ms
+Rust: Execution time: 27.2842ms
+Number:20264 Iteration 610: Time taken by Rust with Marshalling: 340.4395 ms
+Number:20264 Iteration 610: Time taken by .NET: 67.801 ms
+Rust: Execution time: 22.3205ms
+Number:18942 Iteration 611: Time taken by Rust with Marshalling: 104.3983 ms
+Number:18942 Iteration 611: Time taken by .NET: 60.166 ms
+Rust: Execution time: 23.3986ms
+Number:18935 Iteration 612: Time taken by Rust with Marshalling: 97.4414 ms
+Number:18935 Iteration 612: Time taken by .NET: 62.3225 ms
+Rust: Execution time: 200.3093ms
+Number:49414 Iteration 613: Time taken by Rust with Marshalling: 348.792 ms
+Number:49414 Iteration 613: Time taken by .NET: 505.6001 ms
+Rust: Execution time: 63.8743ms
+Number:30022 Iteration 614: Time taken by Rust with Marshalling: 605.8727 ms
+Number:30022 Iteration 614: Time taken by .NET: 178.4514 ms
+Rust: Execution time: 87.1644ms
+Number:36234 Iteration 615: Time taken by Rust with Marshalling: 314.89 ms
+Number:36234 Iteration 615: Time taken by .NET: 253.9557 ms
+Rust: Execution time: 136.0121ms
+Number:44803 Iteration 616: Time taken by Rust with Marshalling: 466.6399 ms
+Number:44803 Iteration 616: Time taken by .NET: 460.7936 ms
+Rust: Execution time: 68.2603ms
+Number:28659 Iteration 617: Time taken by Rust with Marshalling: 575.1492 ms
+Number:28659 Iteration 617: Time taken by .NET: 232.7465 ms
+Rust: Execution time: 40.5497ms
+Number:24389 Iteration 618: Time taken by Rust with Marshalling: 300.3118 ms
+Number:24389 Iteration 618: Time taken by .NET: 157.1039 ms
+Rust: Execution time: 21.6003ms
+Number:18333 Iteration 619: Time taken by Rust with Marshalling: 193.6018 ms
+Number:18333 Iteration 619: Time taken by .NET: 74.9535 ms
+Rust: Execution time: 54.9083ms
+Number:24277 Iteration 620: Time taken by Rust with Marshalling: 155.3042 ms
+Number:24277 Iteration 620: Time taken by .NET: 139.7542 ms
+Rust: Execution time: 57.8664ms
+Number:26570 Iteration 621: Time taken by Rust with Marshalling: 221.2587 ms
+Number:26570 Iteration 621: Time taken by .NET: 145.4086 ms
+Rust: Execution time: 74.257ms
+Number:28730 Iteration 622: Time taken by Rust with Marshalling: 250.1921 ms
+Number:28730 Iteration 622: Time taken by .NET: 179.6229 ms
+Rust: Execution time: 179.5944ms
+Number:48146 Iteration 623: Time taken by Rust with Marshalling: 439.9592 ms
+Number:48146 Iteration 623: Time taken by .NET: 454.1525 ms
+Rust: Execution time: 41.5983ms
+Number:25262 Iteration 624: Time taken by Rust with Marshalling: 523.3499 ms
+Number:25262 Iteration 624: Time taken by .NET: 166.2101 ms
+Rust: Execution time: 178.7181ms
+Number:43912 Iteration 625: Time taken by Rust with Marshalling: 434.6938 ms
+Number:43912 Iteration 625: Time taken by .NET: 375.9627 ms
+Rust: Execution time: 99.9233ms
+Number:33442 Iteration 626: Time taken by Rust with Marshalling: 521.9723 ms
+Number:33442 Iteration 626: Time taken by .NET: 339.5076 ms
+Rust: Execution time: 183.1128ms
+Number:47166 Iteration 627: Time taken by Rust with Marshalling: 613.316 ms
+Number:47166 Iteration 627: Time taken by .NET: 514.7705 ms
+Rust: Execution time: 90.1518ms
+Number:33760 Iteration 628: Time taken by Rust with Marshalling: 657.4111 ms
+Number:33760 Iteration 628: Time taken by .NET: 312.4007 ms
+Rust: Execution time: 70.2641ms
+Number:28874 Iteration 629: Time taken by Rust with Marshalling: 412.7732 ms
+Number:28874 Iteration 629: Time taken by .NET: 158.6207 ms
+Rust: Execution time: 72.6343ms
+Number:31745 Iteration 630: Time taken by Rust with Marshalling: 267.7365 ms
+Number:31745 Iteration 630: Time taken by .NET: 224.2628 ms
+Rust: Execution time: 48.1904ms
+Number:25032 Iteration 631: Time taken by Rust with Marshalling: 298.8178 ms
+Number:25032 Iteration 631: Time taken by .NET: 116.0503 ms
+Rust: Execution time: 128.1798ms
+Number:41283 Iteration 632: Time taken by Rust with Marshalling: 312.4889 ms
+Number:41283 Iteration 632: Time taken by .NET: 411.6922 ms
+Rust: Execution time: 47.096ms
+Number:25864 Iteration 633: Time taken by Rust with Marshalling: 482.4176 ms
+Number:25864 Iteration 633: Time taken by .NET: 136.5492 ms
+Rust: Execution time: 43.0076ms
+Number:25555 Iteration 634: Time taken by Rust with Marshalling: 210.6562 ms
+Number:25555 Iteration 634: Time taken by .NET: 336.8163 ms
+Rust: Execution time: 94.761ms
+Number:22229 Iteration 635: Time taken by Rust with Marshalling: 468.5973 ms
+Number:22229 Iteration 635: Time taken by .NET: 293.6752 ms
+Rust: Execution time: 135.6295ms
+Number:26863 Iteration 636: Time taken by Rust with Marshalling: 497.9421 ms
+Number:26863 Iteration 636: Time taken by .NET: 385.8782 ms
+Rust: Execution time: 178.1825ms
+Number:29188 Iteration 637: Time taken by Rust with Marshalling: 646.6927 ms
+Number:29188 Iteration 637: Time taken by .NET: 480.1892 ms
+Rust: Execution time: 404.2433ms
+Number:49303 Iteration 638: Time taken by Rust with Marshalling: 991.1552 ms
+Number:49303 Iteration 638: Time taken by .NET: 860.5984 ms
+Rust: Execution time: 107.5352ms
+Number:34890 Iteration 639: Time taken by Rust with Marshalling: 1011.1139 ms
+Number:34890 Iteration 639: Time taken by .NET: 257.6029 ms
+Rust: Execution time: 34.7482ms
+Number:21208 Iteration 640: Time taken by Rust with Marshalling: 308.4463 ms
+Number:21208 Iteration 640: Time taken by .NET: 86.6678 ms
+Rust: Execution time: 43.9332ms
+Number:24985 Iteration 641: Time taken by Rust with Marshalling: 161.9505 ms
+Number:24985 Iteration 641: Time taken by .NET: 117.8474 ms
+Rust: Execution time: 23.7048ms
+Number:17248 Iteration 642: Time taken by Rust with Marshalling: 156.828 ms
+Number:17248 Iteration 642: Time taken by .NET: 62.2767 ms
+Rust: Execution time: 78.7691ms
+Number:33686 Iteration 643: Time taken by Rust with Marshalling: 184.7984 ms
+Number:33686 Iteration 643: Time taken by .NET: 234.5759 ms
+Rust: Execution time: 115.9984ms
+Number:41005 Iteration 644: Time taken by Rust with Marshalling: 413.3447 ms
+Number:41005 Iteration 644: Time taken by .NET: 397.4104 ms
+Rust: Execution time: 88.0663ms
+Number:33411 Iteration 645: Time taken by Rust with Marshalling: 529.9069 ms
+Number:33411 Iteration 645: Time taken by .NET: 210.914 ms
+Rust: Execution time: 157.9153ms
+Number:46543 Iteration 646: Time taken by Rust with Marshalling: 446.271 ms
+Number:46543 Iteration 646: Time taken by .NET: 474.4863 ms
+Rust: Execution time: 109.0518ms
+Number:40753 Iteration 647: Time taken by Rust with Marshalling: 643.3357 ms
+Number:40753 Iteration 647: Time taken by .NET: 339.784 ms
+Rust: Execution time: 26.7297ms
+Number:17537 Iteration 648: Time taken by Rust with Marshalling: 378.9292 ms
+Number:17537 Iteration 648: Time taken by .NET: 70.3742 ms
+Rust: Execution time: 44.6985ms
+Number:24217 Iteration 649: Time taken by Rust with Marshalling: 136.1529 ms
+Number:24217 Iteration 649: Time taken by .NET: 130.815 ms
+Rust: Execution time: 141.9777ms
+Number:40594 Iteration 650: Time taken by Rust with Marshalling: 331.8936 ms
+Number:40594 Iteration 650: Time taken by .NET: 312.6045 ms
+Rust: Execution time: 121.7609ms
+Number:40978 Iteration 651: Time taken by Rust with Marshalling: 494.9187 ms
+Number:40978 Iteration 651: Time taken by .NET: 343.8872 ms
+Rust: Execution time: 23.6197ms
+Number:19497 Iteration 652: Time taken by Rust with Marshalling: 382.4819 ms
+Number:19497 Iteration 652: Time taken by .NET: 70.6585 ms
+Rust: Execution time: 80.0193ms
+Number:34137 Iteration 653: Time taken by Rust with Marshalling: 193.3507 ms
+Number:34137 Iteration 653: Time taken by .NET: 207.3948 ms
+Rust: Execution time: 176.3503ms
+Number:49793 Iteration 654: Time taken by Rust with Marshalling: 468.5557 ms
+Number:49793 Iteration 654: Time taken by .NET: 559.301 ms
+Rust: Execution time: 66.1588ms
+Number:26143 Iteration 655: Time taken by Rust with Marshalling: 653.8826 ms
+Number:26143 Iteration 655: Time taken by .NET: 125.6045 ms
+Rust: Execution time: 56.5958ms
+Number:29190 Iteration 656: Time taken by Rust with Marshalling: 212.1832 ms
+Number:29190 Iteration 656: Time taken by .NET: 151.8387 ms
+Rust: Execution time: 48.5787ms
+Number:25278 Iteration 657: Time taken by Rust with Marshalling: 220.6872 ms
+Number:25278 Iteration 657: Time taken by .NET: 114.9156 ms
+Rust: Execution time: 162.4255ms
+Number:48598 Iteration 658: Time taken by Rust with Marshalling: 370.3309 ms
+Number:48598 Iteration 658: Time taken by .NET: 498.3386 ms
+Rust: Execution time: 63.3423ms
+Number:27568 Iteration 659: Time taken by Rust with Marshalling: 588.0604 ms
+Number:27568 Iteration 659: Time taken by .NET: 149.1584 ms
+Rust: Execution time: 156.9138ms
+Number:46923 Iteration 660: Time taken by Rust with Marshalling: 384.8239 ms
+Number:46923 Iteration 660: Time taken by .NET: 497.0179 ms
+Rust: Execution time: 21.9121ms
+Number:16928 Iteration 661: Time taken by Rust with Marshalling: 528.7297 ms
+Number:16928 Iteration 661: Time taken by .NET: 56.6124 ms
+Rust: Execution time: 113.8303ms
+Number:35550 Iteration 662: Time taken by Rust with Marshalling: 231.6109 ms
+Number:35550 Iteration 662: Time taken by .NET: 366.1565 ms
+Rust: Execution time: 139.3016ms
+Number:45147 Iteration 663: Time taken by Rust with Marshalling: 584.2967 ms
+Number:45147 Iteration 663: Time taken by .NET: 443.3437 ms
+Rust: Execution time: 47.4691ms
+Number:24881 Iteration 664: Time taken by Rust with Marshalling: 519.2505 ms
+Number:24881 Iteration 664: Time taken by .NET: 138.8685 ms
+Rust: Execution time: 66.8924ms
+Number:30420 Iteration 665: Time taken by Rust with Marshalling: 238.3191 ms
+Number:30420 Iteration 665: Time taken by .NET: 168.8494 ms
+Rust: Execution time: 41.5816ms
+Number:20694 Iteration 666: Time taken by Rust with Marshalling: 231.6648 ms
+Number:20694 Iteration 666: Time taken by .NET: 76.908 ms
+Rust: Execution time: 38.8987ms
+Number:22286 Iteration 667: Time taken by Rust with Marshalling: 136.4796 ms
+Number:22286 Iteration 667: Time taken by .NET: 135.2455 ms
+Rust: Execution time: 73.3341ms
+Number:29229 Iteration 668: Time taken by Rust with Marshalling: 256.7702 ms
+Number:29229 Iteration 668: Time taken by .NET: 177.4385 ms
+Rust: Execution time: 22.5149ms
+Number:17944 Iteration 669: Time taken by Rust with Marshalling: 210.9315 ms
+Number:17944 Iteration 669: Time taken by .NET: 63.8741 ms
+Rust: Execution time: 79.7371ms
+Number:33418 Iteration 670: Time taken by Rust with Marshalling: 187.5151 ms
+Number:33418 Iteration 670: Time taken by .NET: 250.8697 ms
+Rust: Execution time: 159.6114ms
+Number:46282 Iteration 671: Time taken by Rust with Marshalling: 488.4787 ms
+Number:46282 Iteration 671: Time taken by .NET: 465.6376 ms
+Rust: Execution time: 131.4401ms
+Number:44556 Iteration 672: Time taken by Rust with Marshalling: 670.7291 ms
+Number:44556 Iteration 672: Time taken by .NET: 441.1373 ms
+Rust: Execution time: 137.9531ms
+Number:38045 Iteration 673: Time taken by Rust with Marshalling: 636.025 ms
+Number:38045 Iteration 673: Time taken by .NET: 318.4184 ms
+Rust: Execution time: 71.1685ms
+Number:32814 Iteration 674: Time taken by Rust with Marshalling: 440.8488 ms
+Number:32814 Iteration 674: Time taken by .NET: 244.6683 ms
+Rust: Execution time: 74.3599ms
+Number:29776 Iteration 675: Time taken by Rust with Marshalling: 354.3371 ms
+Number:29776 Iteration 675: Time taken by .NET: 178.4002 ms
+Rust: Execution time: 153.8626ms
+Number:45908 Iteration 676: Time taken by Rust with Marshalling: 419.4458 ms
+Number:45908 Iteration 676: Time taken by .NET: 458.1491 ms
+Rust: Execution time: 86.8485ms
+Number:34869 Iteration 677: Time taken by Rust with Marshalling: 589.0837 ms
+Number:34869 Iteration 677: Time taken by .NET: 443.0895 ms
+Rust: Execution time: 334.5725ms
+Number:39119 Iteration 678: Time taken by Rust with Marshalling: 931.0303 ms
+Number:39119 Iteration 678: Time taken by .NET: 817.1274 ms
+Rust: Execution time: 461.263ms
+Number:47865 Iteration 679: Time taken by Rust with Marshalling: 1508.5595 ms
+Number:47865 Iteration 679: Time taken by .NET: 1318.5969 ms
+Rust: Execution time: 416.1818ms
+Number:46406 Iteration 680: Time taken by Rust with Marshalling: 1951.9674 ms
+Number:46406 Iteration 680: Time taken by .NET: 1172.7048 ms
+Rust: Execution time: 111.4546ms
+Number:24665 Iteration 681: Time taken by Rust with Marshalling: 1339.9914 ms
+Number:24665 Iteration 681: Time taken by .NET: 312.5613 ms
+Rust: Execution time: 70.316ms
+Number:19887 Iteration 682: Time taken by Rust with Marshalling: 419.4984 ms
+Number:19887 Iteration 682: Time taken by .NET: 203.1119 ms
+Rust: Execution time: 308.0586ms
+Number:40100 Iteration 683: Time taken by Rust with Marshalling: 666.3907 ms
+Number:40100 Iteration 683: Time taken by .NET: 906.6422 ms
+Rust: Execution time: 185.2221ms
+Number:31662 Iteration 684: Time taken by Rust with Marshalling: 1159.3543 ms
+Number:31662 Iteration 684: Time taken by .NET: 493.2289 ms
+Rust: Execution time: 414.0363ms
+Number:46525 Iteration 685: Time taken by Rust with Marshalling: 1118.8601 ms
+Number:46525 Iteration 685: Time taken by .NET: 1173.6446 ms
+Rust: Execution time: 210.348ms
+Number:33754 Iteration 686: Time taken by Rust with Marshalling: 1488.9499 ms
+Number:33754 Iteration 686: Time taken by .NET: 605.1262 ms
+Rust: Execution time: 354.9876ms
+Number:43676 Iteration 687: Time taken by Rust with Marshalling: 1149.7086 ms
+Number:43676 Iteration 687: Time taken by .NET: 1036.3163 ms
+Rust: Execution time: 149.6685ms
+Number:27994 Iteration 688: Time taken by Rust with Marshalling: 1258.6022 ms
+Number:27994 Iteration 688: Time taken by .NET: 399.0533 ms
+Rust: Execution time: 82.7357ms
+Number:21320 Iteration 689: Time taken by Rust with Marshalling: 523.9261 ms
+Number:21320 Iteration 689: Time taken by .NET: 259.5031 ms
+Rust: Execution time: 324.3742ms
+Number:41003 Iteration 690: Time taken by Rust with Marshalling: 745.1531 ms
+Number:41003 Iteration 690: Time taken by .NET: 911.9119 ms
+Rust: Execution time: 445.7733ms
+Number:47383 Iteration 691: Time taken by Rust with Marshalling: 1584.174 ms
+Number:47383 Iteration 691: Time taken by .NET: 1231.561 ms
+Rust: Execution time: 103.9856ms
+Number:23608 Iteration 692: Time taken by Rust with Marshalling: 1386.8613 ms
+Number:23608 Iteration 692: Time taken by .NET: 286.7927 ms
+Rust: Execution time: 439.5311ms
+Number:47859 Iteration 693: Time taken by Rust with Marshalling: 882.9669 ms
+Number:47859 Iteration 693: Time taken by .NET: 1263.5466 ms
+Rust: Execution time: 79.9986ms
+Number:21794 Iteration 694: Time taken by Rust with Marshalling: 1386.177 ms
+Number:21794 Iteration 694: Time taken by .NET: 239.894 ms
+Rust: Execution time: 106.6635ms
+Number:23287 Iteration 695: Time taken by Rust with Marshalling: 396.1629 ms
+Number:23287 Iteration 695: Time taken by .NET: 273.9742 ms
+Rust: Execution time: 89.6748ms
+Number:21042 Iteration 696: Time taken by Rust with Marshalling: 400.226 ms
+Number:21042 Iteration 696: Time taken by .NET: 228.3942 ms
+Rust: Execution time: 173.0238ms
+Number:30429 Iteration 697: Time taken by Rust with Marshalling: 489.8196 ms
+Number:30429 Iteration 697: Time taken by .NET: 475.1208 ms
+Rust: Execution time: 176.2849ms
+Number:30255 Iteration 698: Time taken by Rust with Marshalling: 739.1189 ms
+Number:30255 Iteration 698: Time taken by .NET: 462.9731 ms
+Rust: Execution time: 322.07ms
+Number:41297 Iteration 699: Time taken by Rust with Marshalling: 948.9259 ms
+Number:41297 Iteration 699: Time taken by .NET: 920.6791 ms
+Rust: Execution time: 76.9947ms
+Number:20578 Iteration 700: Time taken by Rust with Marshalling: 1036.6802 ms
+Number:20578 Iteration 700: Time taken by .NET: 210.7329 ms
+Rust: Execution time: 481.4456ms
+Number:49517 Iteration 701: Time taken by Rust with Marshalling: 943.9301 ms
+Number:49517 Iteration 701: Time taken by .NET: 1384.8595 ms
+Rust: Execution time: 171.6217ms
+Number:30587 Iteration 702: Time taken by Rust with Marshalling: 1645.1052 ms
+Number:30587 Iteration 702: Time taken by .NET: 471.7826 ms
+Rust: Execution time: 191.3626ms
+Number:32354 Iteration 703: Time taken by Rust with Marshalling: 758.8202 ms
+Number:32354 Iteration 703: Time taken by .NET: 578.1743 ms
+Rust: Execution time: 290.5159ms
+Number:37958 Iteration 704: Time taken by Rust with Marshalling: 1005.1937 ms
+Number:37958 Iteration 704: Time taken by .NET: 733.201 ms
+Rust: Execution time: 79.7317ms
+Number:20808 Iteration 705: Time taken by Rust with Marshalling: 853.5539 ms
+Number:20808 Iteration 705: Time taken by .NET: 215.2805 ms
+Rust: Execution time: 443.9322ms
+Number:46241 Iteration 706: Time taken by Rust with Marshalling: 877.5011 ms
+Number:46241 Iteration 706: Time taken by .NET: 1154.4825 ms
+Rust: Execution time: 177.5985ms
+Number:30473 Iteration 707: Time taken by Rust with Marshalling: 1420.7581 ms
+Number:30473 Iteration 707: Time taken by .NET: 495.043 ms
+Rust: Execution time: 48.6478ms
+Number:16983 Iteration 708: Time taken by Rust with Marshalling: 569.4873 ms
+Number:16983 Iteration 708: Time taken by .NET: 142.0895 ms
+Rust: Execution time: 429.3223ms
+Number:44583 Iteration 709: Time taken by Rust with Marshalling: 759.8966 ms
+Number:44583 Iteration 709: Time taken by .NET: 1052.1968 ms
+Rust: Execution time: 137.7975ms
+Number:26816 Iteration 710: Time taken by Rust with Marshalling: 1256.9498 ms
+Number:26816 Iteration 710: Time taken by .NET: 388.2863 ms
+Rust: Execution time: 47.0987ms
+Number:16166 Iteration 711: Time taken by Rust with Marshalling: 458.3784 ms
+Number:16166 Iteration 711: Time taken by .NET: 129.057 ms
+Rust: Execution time: 369.5705ms
+Number:43577 Iteration 712: Time taken by Rust with Marshalling: 686.0222 ms
+Number:43577 Iteration 712: Time taken by .NET: 1021.1566 ms
+Rust: Execution time: 365.9011ms
+Number:42983 Iteration 713: Time taken by Rust with Marshalling: 1570.3799 ms
+Number:42983 Iteration 713: Time taken by .NET: 1008.4371 ms
+Rust: Execution time: 372.3595ms
+Number:44383 Iteration 714: Time taken by Rust with Marshalling: 1577.3397 ms
+Number:44383 Iteration 714: Time taken by .NET: 1036.5716 ms
+Rust: Execution time: 62.1641ms
+Number:18100 Iteration 715: Time taken by Rust with Marshalling: 1129.3206 ms
+Number:18100 Iteration 715: Time taken by .NET: 196.5986 ms
+Rust: Execution time: 73.1111ms
+Number:19490 Iteration 716: Time taken by Rust with Marshalling: 313.1638 ms
+Number:19490 Iteration 716: Time taken by .NET: 214.6514 ms
+Rust: Execution time: 123.4643ms
+Number:25564 Iteration 717: Time taken by Rust with Marshalling: 403.0832 ms
+Number:25564 Iteration 717: Time taken by .NET: 314.139 ms
+Rust: Execution time: 311.3229ms
+Number:40249 Iteration 718: Time taken by Rust with Marshalling: 785.4446 ms
+Number:40249 Iteration 718: Time taken by .NET: 849.4292 ms
+Rust: Execution time: 288.4811ms
+Number:37962 Iteration 719: Time taken by Rust with Marshalling: 1278.9119 ms
+Number:37962 Iteration 719: Time taken by .NET: 804.5589 ms
+Rust: Execution time: 117.2192ms
+Number:25195 Iteration 720: Time taken by Rust with Marshalling: 977.6219 ms
+Number:25195 Iteration 720: Time taken by .NET: 320.499 ms
+Rust: Execution time: 217.7636ms
+Number:32932 Iteration 721: Time taken by Rust with Marshalling: 636.7907 ms
+Number:32932 Iteration 721: Time taken by .NET: 601.1964 ms
+Rust: Execution time: 148.8479ms
+Number:27729 Iteration 722: Time taken by Rust with Marshalling: 822.9681 ms
+Number:27729 Iteration 722: Time taken by .NET: 390.2556 ms
+Rust: Execution time: 52.8535ms
+Number:16774 Iteration 723: Time taken by Rust with Marshalling: 464.5536 ms
+Number:16774 Iteration 723: Time taken by .NET: 148.2795 ms
+Rust: Execution time: 316.8579ms
+Number:40207 Iteration 724: Time taken by Rust with Marshalling: 626.4635 ms
+Number:40207 Iteration 724: Time taken by .NET: 881.4633 ms
+Rust: Execution time: 222.0863ms
+Number:33977 Iteration 725: Time taken by Rust with Marshalling: 1215.5331 ms
+Number:33977 Iteration 725: Time taken by .NET: 619.6493 ms
+Rust: Execution time: 424.4359ms
+Number:47044 Iteration 726: Time taken by Rust with Marshalling: 1270.6382 ms
+Number:47044 Iteration 726: Time taken by .NET: 1238.694 ms
+Rust: Execution time: 304.2668ms
+Number:38259 Iteration 727: Time taken by Rust with Marshalling: 1686.7205 ms
+Number:38259 Iteration 727: Time taken by .NET: 811.4338 ms
+Rust: Execution time: 47.3858ms
+Number:16542 Iteration 728: Time taken by Rust with Marshalling: 879.8796 ms
+Number:16542 Iteration 728: Time taken by .NET: 127.2557 ms
+Rust: Execution time: 218.5039ms
+Number:33762 Iteration 729: Time taken by Rust with Marshalling: 456.8499 ms
+Number:33762 Iteration 729: Time taken by .NET: 590.1966 ms
+Rust: Execution time: 330.6922ms
+Number:41541 Iteration 730: Time taken by Rust with Marshalling: 1093.0464 ms
+Number:41541 Iteration 730: Time taken by .NET: 914.7577 ms
+Rust: Execution time: 46.6996ms
+Number:16271 Iteration 731: Time taken by Rust with Marshalling: 983.6241 ms
+Number:16271 Iteration 731: Time taken by .NET: 130.6726 ms
+Rust: Execution time: 48.9543ms
+Number:16556 Iteration 732: Time taken by Rust with Marshalling: 202.7532 ms
+Number:16556 Iteration 732: Time taken by .NET: 136.4072 ms
+Rust: Execution time: 61.6583ms
+Number:18416 Iteration 733: Time taken by Rust with Marshalling: 224.2621 ms
+Number:18416 Iteration 733: Time taken by .NET: 150.8942 ms
+Rust: Execution time: 288.635ms
+Number:38527 Iteration 734: Time taken by Rust with Marshalling: 574.0898 ms
+Number:38527 Iteration 734: Time taken by .NET: 760.2171 ms
+Rust: Execution time: 149.0236ms
+Number:26160 Iteration 735: Time taken by Rust with Marshalling: 977.4932 ms
+Number:26160 Iteration 735: Time taken by .NET: 334.7008 ms
+Rust: Execution time: 307.0427ms
+Number:39462 Iteration 736: Time taken by Rust with Marshalling: 795.7787 ms
+Number:39462 Iteration 736: Time taken by .NET: 869.4238 ms
+Rust: Execution time: 186.7687ms
+Number:32561 Iteration 737: Time taken by Rust with Marshalling: 1155.7384 ms
+Number:32561 Iteration 737: Time taken by .NET: 546.6604 ms
+Rust: Execution time: 193.0195ms
+Number:31627 Iteration 738: Time taken by Rust with Marshalling: 837.538 ms
+Number:31627 Iteration 738: Time taken by .NET: 474.2281 ms
+Rust: Execution time: 129.3951ms
+Number:23855 Iteration 739: Time taken by Rust with Marshalling: 663.1616 ms
+Number:23855 Iteration 739: Time taken by .NET: 297.6247 ms
+Rust: Execution time: 105.6922ms
+Number:23934 Iteration 740: Time taken by Rust with Marshalling: 455.5156 ms
+Number:23934 Iteration 740: Time taken by .NET: 279.121 ms
+Rust: Execution time: 126.5045ms
+Number:26148 Iteration 741: Time taken by Rust with Marshalling: 465.9438 ms
+Number:26148 Iteration 741: Time taken by .NET: 330.4753 ms
+Rust: Execution time: 371.6873ms
+Number:43153 Iteration 742: Time taken by Rust with Marshalling: 881.1672 ms
+Number:43153 Iteration 742: Time taken by .NET: 1032.1654 ms
+Rust: Execution time: 349.8415ms
+Number:40931 Iteration 743: Time taken by Rust with Marshalling: 1562.3001 ms
+Number:40931 Iteration 743: Time taken by .NET: 911.979 ms
+Rust: Execution time: 335.8855ms
+Number:42214 Iteration 744: Time taken by Rust with Marshalling: 1423.1614 ms
+Number:42214 Iteration 744: Time taken by .NET: 975.2741 ms
+Rust: Execution time: 121.7703ms
+Number:25667 Iteration 745: Time taken by Rust with Marshalling: 1158.0691 ms
+Number:25667 Iteration 745: Time taken by .NET: 350.7066 ms
+Rust: Execution time: 107.0574ms
+Number:24067 Iteration 746: Time taken by Rust with Marshalling: 508.545 ms
+Number:24067 Iteration 746: Time taken by .NET: 301.3357 ms
+Rust: Execution time: 383.1857ms
+Number:44835 Iteration 747: Time taken by Rust with Marshalling: 886.0205 ms
+Number:44835 Iteration 747: Time taken by .NET: 1132.2376 ms
+Rust: Execution time: 289.2743ms
+Number:40062 Iteration 748: Time taken by Rust with Marshalling: 1576.6058 ms
+Number:40062 Iteration 748: Time taken by .NET: 807.4314 ms
+Rust: Execution time: 390.3379ms
+Number:45497 Iteration 749: Time taken by Rust with Marshalling: 1399.4523 ms
+Number:45497 Iteration 749: Time taken by .NET: 1105.0611 ms
+Rust: Execution time: 259.6229ms
+Number:35553 Iteration 750: Time taken by Rust with Marshalling: 1482.9691 ms
+Number:35553 Iteration 750: Time taken by .NET: 670.6759 ms
+Rust: Execution time: 419.2004ms
+Number:46143 Iteration 751: Time taken by Rust with Marshalling: 1268.8655 ms
+Number:46143 Iteration 751: Time taken by .NET: 1140.3587 ms
+Rust: Execution time: 436.2227ms
+Number:46407 Iteration 752: Time taken by Rust with Marshalling: 1793.1361 ms
+Number:46407 Iteration 752: Time taken by .NET: 1175.9628 ms
+Rust: Execution time: 75.8167ms
+Number:20363 Iteration 753: Time taken by Rust with Marshalling: 1291.777 ms
+Number:20363 Iteration 753: Time taken by .NET: 196.908 ms
+Rust: Execution time: 388.0684ms
+Number:44358 Iteration 754: Time taken by Rust with Marshalling: 779.0835 ms
+Number:44358 Iteration 754: Time taken by .NET: 999.1293 ms
+Rust: Execution time: 71.7458ms
+Number:18804 Iteration 755: Time taken by Rust with Marshalling: 1107.5885 ms
+Number:18804 Iteration 755: Time taken by .NET: 182.1193 ms
+Rust: Execution time: 272.2353ms
+Number:37613 Iteration 756: Time taken by Rust with Marshalling: 592.0631 ms
+Number:37613 Iteration 756: Time taken by .NET: 755.8411 ms
+Rust: Execution time: 68.6754ms
+Number:20305 Iteration 757: Time taken by Rust with Marshalling: 858.4719 ms
+Number:20305 Iteration 757: Time taken by .NET: 220.1264 ms
+Rust: Execution time: 233.3014ms
+Number:35570 Iteration 758: Time taken by Rust with Marshalling: 590.296 ms
+Number:35570 Iteration 758: Time taken by .NET: 676.9251 ms
+Rust: Execution time: 405.3197ms
+Number:46053 Iteration 759: Time taken by Rust with Marshalling: 1289.1165 ms
+Number:46053 Iteration 759: Time taken by .NET: 1127.3715 ms
+Rust: Execution time: 116.1478ms
+Number:25206 Iteration 760: Time taken by Rust with Marshalling: 1302.9943 ms
+Number:25206 Iteration 760: Time taken by .NET: 331.3321 ms
+Rust: Execution time: 322.5189ms
+Number:38795 Iteration 761: Time taken by Rust with Marshalling: 802.2618 ms
+Number:38795 Iteration 761: Time taken by .NET: 798.7876 ms
+Rust: Execution time: 134.8933ms
+Number:26759 Iteration 762: Time taken by Rust with Marshalling: 1000.0866 ms
+Number:26759 Iteration 762: Time taken by .NET: 366.4826 ms
+Rust: Execution time: 452.5924ms
+Number:45190 Iteration 763: Time taken by Rust with Marshalling: 1011.3438 ms
+Number:45190 Iteration 763: Time taken by .NET: 1112.0226 ms
+Rust: Execution time: 215.7738ms
+Number:33796 Iteration 764: Time taken by Rust with Marshalling: 1438.5505 ms
+Number:33796 Iteration 764: Time taken by .NET: 619.9023 ms
+Rust: Execution time: 310.9924ms
+Number:40019 Iteration 765: Time taken by Rust with Marshalling: 1086.431 ms
+Number:40019 Iteration 765: Time taken by .NET: 869.9949 ms
+Rust: Execution time: 182.489ms
+Number:31788 Iteration 766: Time taken by Rust with Marshalling: 1142.554 ms
+Number:31788 Iteration 766: Time taken by .NET: 518.7764 ms
+Rust: Execution time: 465.1718ms
+Number:48710 Iteration 767: Time taken by Rust with Marshalling: 1219.973 ms
+Number:48710 Iteration 767: Time taken by .NET: 1332.1161 ms
+Rust: Execution time: 201.3192ms
+Number:32420 Iteration 768: Time taken by Rust with Marshalling: 1637.0347 ms
+Number:32420 Iteration 768: Time taken by .NET: 534.6281 ms
+Rust: Execution time: 156.4855ms
+Number:28801 Iteration 769: Time taken by Rust with Marshalling: 768.3869 ms
+Number:28801 Iteration 769: Time taken by .NET: 449.2954 ms
+Rust: Execution time: 108.8014ms
+Number:24076 Iteration 770: Time taken by Rust with Marshalling: 611.1101 ms
+Number:24076 Iteration 770: Time taken by .NET: 282.5783 ms
+Rust: Execution time: 431.5297ms
+Number:46088 Iteration 771: Time taken by Rust with Marshalling: 931.7711 ms
+Number:46088 Iteration 771: Time taken by .NET: 1125.7328 ms
+Rust: Execution time: 446.2937ms
+Number:47792 Iteration 772: Time taken by Rust with Marshalling: 1816.3689 ms
+Number:47792 Iteration 772: Time taken by .NET: 1236.5153 ms
+Rust: Execution time: 226.8481ms
+Number:34687 Iteration 773: Time taken by Rust with Marshalling: 1577.2572 ms
+Number:34687 Iteration 773: Time taken by .NET: 654.3833 ms
+Rust: Execution time: 434.8659ms
+Number:48072 Iteration 774: Time taken by Rust with Marshalling: 1322.1042 ms
+Number:48072 Iteration 774: Time taken by .NET: 1129.1088 ms
+Rust: Execution time: 347.5644ms
+Number:39439 Iteration 775: Time taken by Rust with Marshalling: 1618.1803 ms
+Number:39439 Iteration 775: Time taken by .NET: 795.017 ms
+Rust: Execution time: 284.6731ms
+Number:37750 Iteration 776: Time taken by Rust with Marshalling: 1222.7529 ms
+Number:37750 Iteration 776: Time taken by .NET: 745.8929 ms
+Rust: Execution time: 123.0985ms
+Number:25865 Iteration 777: Time taken by Rust with Marshalling: 929.8351 ms
+Number:25865 Iteration 777: Time taken by .NET: 323.4531 ms
+Rust: Execution time: 76.6439ms
+Number:22199 Iteration 778: Time taken by Rust with Marshalling: 443.7032 ms
+Number:22199 Iteration 778: Time taken by .NET: 242.9877 ms
+Rust: Execution time: 235.1155ms
+Number:34921 Iteration 779: Time taken by Rust with Marshalling: 594.2959 ms
+Number:34921 Iteration 779: Time taken by .NET: 622.8292 ms
+Rust: Execution time: 62.6473ms
+Number:18978 Iteration 780: Time taken by Rust with Marshalling: 717.345 ms
+Number:18978 Iteration 780: Time taken by .NET: 187.8543 ms
+Rust: Execution time: 50.9588ms
+Number:16924 Iteration 781: Time taken by Rust with Marshalling: 262.9248 ms
+Number:16924 Iteration 781: Time taken by .NET: 175.438 ms
+Rust: Execution time: 327.2371ms
+Number:40538 Iteration 782: Time taken by Rust with Marshalling: 664.7054 ms
+Number:40538 Iteration 782: Time taken by .NET: 886.9111 ms
+Rust: Execution time: 134.1468ms
+Number:26624 Iteration 783: Time taken by Rust with Marshalling: 1090.0613 ms
+Number:26624 Iteration 783: Time taken by .NET: 350.448 ms
+Rust: Execution time: 80.5447ms
+Number:21428 Iteration 784: Time taken by Rust with Marshalling: 470.7903 ms
+Number:21428 Iteration 784: Time taken by .NET: 249.4605 ms
+Rust: Execution time: 305.0388ms
+Number:39995 Iteration 785: Time taken by Rust with Marshalling: 710.1408 ms
+Number:39995 Iteration 785: Time taken by .NET: 846.3451 ms
+Rust: Execution time: 44.9903ms
+Number:15542 Iteration 786: Time taken by Rust with Marshalling: 911.0139 ms
+Number:15542 Iteration 786: Time taken by .NET: 124.6698 ms
+Rust: Execution time: 135.1122ms
+Number:27573 Iteration 787: Time taken by Rust with Marshalling: 330.3995 ms
+Number:27573 Iteration 787: Time taken by .NET: 403.0369 ms
+Rust: Execution time: 153.8643ms
+Number:28783 Iteration 788: Time taken by Rust with Marshalling: 638.4941 ms
+Number:28783 Iteration 788: Time taken by .NET: 413.0783 ms
+Rust: Execution time: 208.9515ms
+Number:31323 Iteration 789: Time taken by Rust with Marshalling: 709.0014 ms
+Number:31323 Iteration 789: Time taken by .NET: 516.5107 ms
+Rust: Execution time: 490.771ms
+Number:48130 Iteration 790: Time taken by Rust with Marshalling: 1238.6738 ms
+Number:48130 Iteration 790: Time taken by .NET: 1281.4596 ms
+Rust: Execution time: 294.1874ms
+Number:38057 Iteration 791: Time taken by Rust with Marshalling: 1720.4796 ms
+Number:38057 Iteration 791: Time taken by .NET: 743.5516 ms
+Rust: Execution time: 298.3793ms
+Number:38755 Iteration 792: Time taken by Rust with Marshalling: 1184.7392 ms
+Number:38755 Iteration 792: Time taken by .NET: 797.8898 ms
+Rust: Execution time: 123.9614ms
+Number:26412 Iteration 793: Time taken by Rust with Marshalling: 988.1447 ms
+Number:26412 Iteration 793: Time taken by .NET: 367.8092 ms
+Rust: Execution time: 227.0902ms
+Number:34485 Iteration 794: Time taken by Rust with Marshalling: 705.008 ms
+Number:34485 Iteration 794: Time taken by .NET: 632.0853 ms
+Rust: Execution time: 47.7282ms
+Number:16300 Iteration 795: Time taken by Rust with Marshalling: 703.8455 ms
+Number:16300 Iteration 795: Time taken by .NET: 157.2268 ms
+Rust: Execution time: 193.7043ms
+Number:31079 Iteration 796: Time taken by Rust with Marshalling: 438.9505 ms
+Number:31079 Iteration 796: Time taken by .NET: 538.945 ms
+Rust: Execution time: 200.8326ms
+Number:32426 Iteration 797: Time taken by Rust with Marshalling: 853.9927 ms
+Number:32426 Iteration 797: Time taken by .NET: 546.8601 ms
+Rust: Execution time: 251.4643ms
+Number:36201 Iteration 798: Time taken by Rust with Marshalling: 921.4583 ms
+Number:36201 Iteration 798: Time taken by .NET: 643.2279 ms
+Rust: Execution time: 302.3123ms
+Number:40305 Iteration 799: Time taken by Rust with Marshalling: 1109.7607 ms
+Number:40305 Iteration 799: Time taken by .NET: 897.6802 ms
+Rust: Execution time: 57.8178ms
+Number:18610 Iteration 800: Time taken by Rust with Marshalling: 986.3536 ms
+Number:18610 Iteration 800: Time taken by .NET: 114.1805 ms
+Rust: Execution time: 79.4212ms
+Number:35182 Iteration 801: Time taken by Rust with Marshalling: 238.1459 ms
+Number:35182 Iteration 801: Time taken by .NET: 226.9069 ms
+Rust: Execution time: 72.5747ms
+Number:32783 Iteration 802: Time taken by Rust with Marshalling: 337.0176 ms
+Number:32783 Iteration 802: Time taken by .NET: 265.9349 ms
+Rust: Execution time: 113.7298ms
+Number:39793 Iteration 803: Time taken by Rust with Marshalling: 431.6928 ms
+Number:39793 Iteration 803: Time taken by .NET: 310.1604 ms
+Rust: Execution time: 28.4348ms
+Number:21417 Iteration 804: Time taken by Rust with Marshalling: 354.456 ms
+Number:21417 Iteration 804: Time taken by .NET: 74.1961 ms
+Rust: Execution time: 141.7618ms
+Number:46075 Iteration 805: Time taken by Rust with Marshalling: 290.0369 ms
+Number:46075 Iteration 805: Time taken by .NET: 414.1275 ms
+Rust: Execution time: 23.223ms
+Number:18521 Iteration 806: Time taken by Rust with Marshalling: 448.6566 ms
+Number:18521 Iteration 806: Time taken by .NET: 55.0419 ms
+Rust: Execution time: 130.6973ms
+Number:43913 Iteration 807: Time taken by Rust with Marshalling: 255.4316 ms
+Number:43913 Iteration 807: Time taken by .NET: 360.3679 ms
+Rust: Execution time: 123.517ms
+Number:42499 Iteration 808: Time taken by Rust with Marshalling: 549.5734 ms
+Number:42499 Iteration 808: Time taken by .NET: 392.855 ms
+Rust: Execution time: 87.8846ms
+Number:32614 Iteration 809: Time taken by Rust with Marshalling: 516.7265 ms
+Number:32614 Iteration 809: Time taken by .NET: 201.6086 ms
+Rust: Execution time: 93.4264ms
+Number:36399 Iteration 810: Time taken by Rust with Marshalling: 339.3338 ms
+Number:36399 Iteration 810: Time taken by .NET: 251.5982 ms
+Rust: Execution time: 70.0337ms
+Number:32034 Iteration 811: Time taken by Rust with Marshalling: 361.5242 ms
+Number:32034 Iteration 811: Time taken by .NET: 182.0175 ms
+Rust: Execution time: 36.8309ms
+Number:23401 Iteration 812: Time taken by Rust with Marshalling: 235.7467 ms
+Number:23401 Iteration 812: Time taken by .NET: 101.5821 ms
+Rust: Execution time: 87.4113ms
+Number:36119 Iteration 813: Time taken by Rust with Marshalling: 238.6119 ms
+Number:36119 Iteration 813: Time taken by .NET: 246.1766 ms
+Rust: Execution time: 90.5493ms
+Number:34339 Iteration 814: Time taken by Rust with Marshalling: 375.7619 ms
+Number:34339 Iteration 814: Time taken by .NET: 290.4773 ms
+Rust: Execution time: 116.0408ms
+Number:34014 Iteration 815: Time taken by Rust with Marshalling: 450.2042 ms
+Number:34014 Iteration 815: Time taken by .NET: 209.638 ms
+Rust: Execution time: 33.3866ms
+Number:23150 Iteration 816: Time taken by Rust with Marshalling: 262.3371 ms
+Number:23150 Iteration 816: Time taken by .NET: 96.174 ms
+Rust: Execution time: 61.3819ms
+Number:30664 Iteration 817: Time taken by Rust with Marshalling: 190.1375 ms
+Number:30664 Iteration 817: Time taken by .NET: 195.9211 ms
+Rust: Execution time: 102.8221ms
+Number:38820 Iteration 818: Time taken by Rust with Marshalling: 358.0668 ms
+Number:38820 Iteration 818: Time taken by .NET: 301.5481 ms
+Rust: Execution time: 45.0979ms
+Number:25550 Iteration 819: Time taken by Rust with Marshalling: 368.9614 ms
+Number:25550 Iteration 819: Time taken by .NET: 121.6571 ms
+Rust: Execution time: 36.6335ms
+Number:21303 Iteration 820: Time taken by Rust with Marshalling: 175.9129 ms
+Number:21303 Iteration 820: Time taken by .NET: 83.3303 ms
+Rust: Execution time: 78.0586ms
+Number:34354 Iteration 821: Time taken by Rust with Marshalling: 209.9661 ms
+Number:34354 Iteration 821: Time taken by .NET: 232.1729 ms
+Rust: Execution time: 44.5739ms
+Number:19481 Iteration 822: Time taken by Rust with Marshalling: 290.9385 ms
+Number:19481 Iteration 822: Time taken by .NET: 89.6123 ms
+Rust: Execution time: 24.5297ms
+Number:16812 Iteration 823: Time taken by Rust with Marshalling: 129.2805 ms
+Number:16812 Iteration 823: Time taken by .NET: 70.5959 ms
+Rust: Execution time: 63.5018ms
+Number:27198 Iteration 824: Time taken by Rust with Marshalling: 165.8207 ms
+Number:27198 Iteration 824: Time taken by .NET: 141.7433 ms
+Rust: Execution time: 33.4544ms
+Number:20892 Iteration 825: Time taken by Rust with Marshalling: 189.1523 ms
+Number:20892 Iteration 825: Time taken by .NET: 70.624 ms
+Rust: Execution time: 67.0177ms
+Number:29564 Iteration 826: Time taken by Rust with Marshalling: 170.035 ms
+Number:29564 Iteration 826: Time taken by .NET: 169.029 ms
+Rust: Execution time: 25.78ms
+Number:18993 Iteration 827: Time taken by Rust with Marshalling: 208.7012 ms
+Number:18993 Iteration 827: Time taken by .NET: 67.8719 ms
+Rust: Execution time: 156.085ms
+Number:45884 Iteration 828: Time taken by Rust with Marshalling: 320.9259 ms
+Number:45884 Iteration 828: Time taken by .NET: 444.9007 ms
+Rust: Execution time: 180.4395ms
+Number:49665 Iteration 829: Time taken by Rust with Marshalling: 712.3464 ms
+Number:49665 Iteration 829: Time taken by .NET: 551.1455 ms
+Rust: Execution time: 17.1356ms
+Number:15175 Iteration 830: Time taken by Rust with Marshalling: 577.9122 ms
+Number:15175 Iteration 830: Time taken by .NET: 81.0421 ms
+Rust: Execution time: 172.5123ms
+Number:41451 Iteration 831: Time taken by Rust with Marshalling: 328.0111 ms
+Number:41451 Iteration 831: Time taken by .NET: 353.5145 ms
+Rust: Execution time: 31.7463ms
+Number:19782 Iteration 832: Time taken by Rust with Marshalling: 398.1575 ms
+Number:19782 Iteration 832: Time taken by .NET: 71.8536 ms
+Rust: Execution time: 143.798ms
+Number:43428 Iteration 833: Time taken by Rust with Marshalling: 292.3275 ms
+Number:43428 Iteration 833: Time taken by .NET: 383.1795 ms
+Rust: Execution time: 89.8662ms
+Number:30432 Iteration 834: Time taken by Rust with Marshalling: 517.4219 ms
+Number:30432 Iteration 834: Time taken by .NET: 175.3906 ms
+Rust: Execution time: 161.8134ms
+Number:48435 Iteration 835: Time taken by Rust with Marshalling: 416.7598 ms
+Number:48435 Iteration 835: Time taken by .NET: 533.8366 ms
+Rust: Execution time: 103.8449ms
+Number:38093 Iteration 836: Time taken by Rust with Marshalling: 690.5233 ms
+Number:38093 Iteration 836: Time taken by .NET: 272.5249 ms
+Rust: Execution time: 119.9164ms
+Number:39490 Iteration 837: Time taken by Rust with Marshalling: 444.4145 ms
+Number:39490 Iteration 837: Time taken by .NET: 296.9283 ms
+Rust: Execution time: 17.2517ms
+Number:15191 Iteration 838: Time taken by Rust with Marshalling: 324.615 ms
+Number:15191 Iteration 838: Time taken by .NET: 36.1676 ms
+Rust: Execution time: 90.7497ms
+Number:35650 Iteration 839: Time taken by Rust with Marshalling: 169.3475 ms
+Number:35650 Iteration 839: Time taken by .NET: 238.6798 ms
+Rust: Execution time: 58.6846ms
+Number:27620 Iteration 840: Time taken by Rust with Marshalling: 327.3056 ms
+Number:27620 Iteration 840: Time taken by .NET: 139.018 ms
+Rust: Execution time: 134.2036ms
+Number:44059 Iteration 841: Time taken by Rust with Marshalling: 342.0054 ms
+Number:44059 Iteration 841: Time taken by .NET: 457.2149 ms
+Rust: Execution time: 33.1208ms
+Number:23369 Iteration 842: Time taken by Rust with Marshalling: 507.7075 ms
+Number:23369 Iteration 842: Time taken by .NET: 93.7463 ms
+Rust: Execution time: 133.4519ms
+Number:44905 Iteration 843: Time taken by Rust with Marshalling: 312.6944 ms
+Number:44905 Iteration 843: Time taken by .NET: 387.5492 ms
+Rust: Execution time: 20.0677ms
+Number:16812 Iteration 844: Time taken by Rust with Marshalling: 419.0498 ms
+Number:16812 Iteration 844: Time taken by .NET: 49.1189 ms
+Rust: Execution time: 17.8244ms
+Number:16379 Iteration 845: Time taken by Rust with Marshalling: 78.7104 ms
+Number:16379 Iteration 845: Time taken by .NET: 46.7392 ms
+Rust: Execution time: 167.4043ms
+Number:45936 Iteration 846: Time taken by Rust with Marshalling: 301.3908 ms
+Number:45936 Iteration 846: Time taken by .NET: 443.4227 ms
+Rust: Execution time: 142.8184ms
+Number:43917 Iteration 847: Time taken by Rust with Marshalling: 666.5473 ms
+Number:43917 Iteration 847: Time taken by .NET: 417.2744 ms
+Rust: Execution time: 74.4098ms
+Number:31998 Iteration 848: Time taken by Rust with Marshalling: 532.469 ms
+Number:31998 Iteration 848: Time taken by .NET: 188.5643 ms
+Rust: Execution time: 33.7412ms
+Number:21614 Iteration 849: Time taken by Rust with Marshalling: 241.1053 ms
+Number:21614 Iteration 849: Time taken by .NET: 83.1497 ms
+Rust: Execution time: 101.373ms
+Number:39624 Iteration 850: Time taken by Rust with Marshalling: 245.3354 ms
+Number:39624 Iteration 850: Time taken by .NET: 319.3977 ms
+Rust: Execution time: 65.9911ms
+Number:31018 Iteration 851: Time taken by Rust with Marshalling: 416.1838 ms
+Number:31018 Iteration 851: Time taken by .NET: 192.586 ms
+Rust: Execution time: 25.3348ms
+Number:20396 Iteration 852: Time taken by Rust with Marshalling: 231.449 ms
+Number:20396 Iteration 852: Time taken by .NET: 74.8794 ms
+Rust: Execution time: 97.6789ms
+Number:35197 Iteration 853: Time taken by Rust with Marshalling: 219.0096 ms
+Number:35197 Iteration 853: Time taken by .NET: 257.4941 ms
+Rust: Execution time: 147.896ms
+Number:40417 Iteration 854: Time taken by Rust with Marshalling: 472.5611 ms
+Number:40417 Iteration 854: Time taken by .NET: 299.6575 ms
+Rust: Execution time: 52.0241ms
+Number:28311 Iteration 855: Time taken by Rust with Marshalling: 380.8169 ms
+Number:28311 Iteration 855: Time taken by .NET: 148.5603 ms
+Rust: Execution time: 56.1194ms
+Number:29121 Iteration 856: Time taken by Rust with Marshalling: 231.9709 ms
+Number:29121 Iteration 856: Time taken by .NET: 164.8922 ms
+Rust: Execution time: 46.178ms
+Number:22022 Iteration 857: Time taken by Rust with Marshalling: 225.9122 ms
+Number:22022 Iteration 857: Time taken by .NET: 99.7475 ms
+Rust: Execution time: 33.7884ms
+Number:21580 Iteration 858: Time taken by Rust with Marshalling: 151.1437 ms
+Number:21580 Iteration 858: Time taken by .NET: 100.1225 ms
+Rust: Execution time: 88.8526ms
+Number:35019 Iteration 859: Time taken by Rust with Marshalling: 239.1171 ms
+Number:35019 Iteration 859: Time taken by .NET: 251.24 ms
+Rust: Execution time: 123.3889ms
+Number:42402 Iteration 860: Time taken by Rust with Marshalling: 442.9702 ms
+Number:42402 Iteration 860: Time taken by .NET: 384.9416 ms
+Rust: Execution time: 20.4609ms
+Number:16994 Iteration 861: Time taken by Rust with Marshalling: 417.0494 ms
+Number:16994 Iteration 861: Time taken by .NET: 67.7682 ms
+Rust: Execution time: 154.4952ms
+Number:42270 Iteration 862: Time taken by Rust with Marshalling: 292.4842 ms
+Number:42270 Iteration 862: Time taken by .NET: 348.1768 ms
+Rust: Execution time: 39.5301ms
+Number:23292 Iteration 863: Time taken by Rust with Marshalling: 411.3844 ms
+Number:23292 Iteration 863: Time taken by .NET: 98.8175 ms
+Rust: Execution time: 114.3534ms
+Number:41224 Iteration 864: Time taken by Rust with Marshalling: 288.5731 ms
+Number:41224 Iteration 864: Time taken by .NET: 321.1571 ms
+Rust: Execution time: 158.1931ms
+Number:47552 Iteration 865: Time taken by Rust with Marshalling: 567.2499 ms
+Number:47552 Iteration 865: Time taken by .NET: 450.0432 ms
+Rust: Execution time: 98.9923ms
+Number:37712 Iteration 866: Time taken by Rust with Marshalling: 609.6614 ms
+Number:37712 Iteration 866: Time taken by .NET: 303.0066 ms
+Rust: Execution time: 122.1021ms
+Number:42618 Iteration 867: Time taken by Rust with Marshalling: 491.2247 ms
+Number:42618 Iteration 867: Time taken by .NET: 344.8999 ms
+Rust: Execution time: 28.7337ms
+Number:18819 Iteration 868: Time taken by Rust with Marshalling: 385.2464 ms
+Number:18819 Iteration 868: Time taken by .NET: 57.141 ms
+Rust: Execution time: 41.8224ms
+Number:24839 Iteration 869: Time taken by Rust with Marshalling: 127.4412 ms
+Number:24839 Iteration 869: Time taken by .NET: 109.0658 ms
+Rust: Execution time: 105.5816ms
+Number:38858 Iteration 870: Time taken by Rust with Marshalling: 278.2334 ms
+Number:38858 Iteration 870: Time taken by .NET: 284.4283 ms
+Rust: Execution time: 49.6823ms
+Number:24845 Iteration 871: Time taken by Rust with Marshalling: 355.0518 ms
+Number:24845 Iteration 871: Time taken by .NET: 108.3175 ms
+Rust: Execution time: 28.7078ms
+Number:20760 Iteration 872: Time taken by Rust with Marshalling: 155.5946 ms
+Number:20760 Iteration 872: Time taken by .NET: 67.6825 ms
+Rust: Execution time: 161.5245ms
+Number:45825 Iteration 873: Time taken by Rust with Marshalling: 315.4737 ms
+Number:45825 Iteration 873: Time taken by .NET: 476.5359 ms
+Rust: Execution time: 83.4687ms
+Number:34673 Iteration 874: Time taken by Rust with Marshalling: 611.8893 ms
+Number:34673 Iteration 874: Time taken by .NET: 228.4087 ms
+Rust: Execution time: 85.4227ms
+Number:34500 Iteration 875: Time taken by Rust with Marshalling: 356.2875 ms
+Number:34500 Iteration 875: Time taken by .NET: 233.984 ms
+Rust: Execution time: 40.9433ms
+Number:21265 Iteration 876: Time taken by Rust with Marshalling: 298.5835 ms
+Number:21265 Iteration 876: Time taken by .NET: 92.0514 ms
+Rust: Execution time: 19.8976ms
+Number:16253 Iteration 877: Time taken by Rust with Marshalling: 122.9781 ms
+Number:16253 Iteration 877: Time taken by .NET: 48.0328 ms
+Rust: Execution time: 65.1547ms
+Number:28125 Iteration 878: Time taken by Rust with Marshalling: 153.7712 ms
+Number:28125 Iteration 878: Time taken by .NET: 144.2281 ms
+Rust: Execution time: 96.0102ms
+Number:36391 Iteration 879: Time taken by Rust with Marshalling: 289.6123 ms
+Number:36391 Iteration 879: Time taken by .NET: 265.8173 ms
+Rust: Execution time: 57.983ms
+Number:24733 Iteration 880: Time taken by Rust with Marshalling: 350.8894 ms
+Number:24733 Iteration 880: Time taken by .NET: 122.2851 ms
+Rust: Execution time: 73.0048ms
+Number:30193 Iteration 881: Time taken by Rust with Marshalling: 230.5654 ms
+Number:30193 Iteration 881: Time taken by .NET: 170.9799 ms
+Rust: Execution time: 105.0525ms
+Number:37700 Iteration 882: Time taken by Rust with Marshalling: 332.9904 ms
+Number:37700 Iteration 882: Time taken by .NET: 282.866 ms
+Rust: Execution time: 74.5606ms
+Number:33557 Iteration 883: Time taken by Rust with Marshalling: 402.2092 ms
+Number:33557 Iteration 883: Time taken by .NET: 216.0794 ms
+Rust: Execution time: 74.6453ms
+Number:29713 Iteration 884: Time taken by Rust with Marshalling: 327.9466 ms
+Number:29713 Iteration 884: Time taken by .NET: 226.634 ms
+Rust: Execution time: 20.7167ms
+Number:17388 Iteration 885: Time taken by Rust with Marshalling: 265.0307 ms
+Number:17388 Iteration 885: Time taken by .NET: 69.8945 ms
+Rust: Execution time: 44.273ms
+Number:22536 Iteration 886: Time taken by Rust with Marshalling: 132.007 ms
+Number:22536 Iteration 886: Time taken by .NET: 115.4362 ms
+Rust: Execution time: 65.6022ms
+Number:23603 Iteration 887: Time taken by Rust with Marshalling: 204.5 ms
+Number:23603 Iteration 887: Time taken by .NET: 139.764 ms
+Rust: Execution time: 52.9401ms
+Number:23545 Iteration 888: Time taken by Rust with Marshalling: 212.3517 ms
+Number:23545 Iteration 888: Time taken by .NET: 142.13 ms
+Rust: Execution time: 243.9118ms
+Number:45804 Iteration 889: Time taken by Rust with Marshalling: 470.4251 ms
+Number:45804 Iteration 889: Time taken by .NET: 418.4205 ms
+Rust: Execution time: 65.1543ms
+Number:31055 Iteration 890: Time taken by Rust with Marshalling: 517.7321 ms
+Number:31055 Iteration 890: Time taken by .NET: 228.5591 ms
+Rust: Execution time: 155.3057ms
+Number:32481 Iteration 891: Time taken by Rust with Marshalling: 439.1253 ms
+Number:32481 Iteration 891: Time taken by .NET: 201.0626 ms
+Rust: Execution time: 49.581ms
+Number:25339 Iteration 892: Time taken by Rust with Marshalling: 275.1049 ms
+Number:25339 Iteration 892: Time taken by .NET: 148.1821 ms
+Rust: Execution time: 150.5865ms
+Number:43710 Iteration 893: Time taken by Rust with Marshalling: 375.9147 ms
+Number:43710 Iteration 893: Time taken by .NET: 407.5837 ms
+Rust: Execution time: 20.5943ms
+Number:16706 Iteration 894: Time taken by Rust with Marshalling: 438.3375 ms
+Number:16706 Iteration 894: Time taken by .NET: 57.3198 ms
+Rust: Execution time: 91.7345ms
+Number:34277 Iteration 895: Time taken by Rust with Marshalling: 192.6513 ms
+Number:34277 Iteration 895: Time taken by .NET: 245.0261 ms
+Rust: Execution time: 34.0773ms
+Number:22015 Iteration 896: Time taken by Rust with Marshalling: 299.6481 ms
+Number:22015 Iteration 896: Time taken by .NET: 97.2908 ms
+Rust: Execution time: 102.9595ms
+Number:35545 Iteration 897: Time taken by Rust with Marshalling: 250.8055 ms
+Number:35545 Iteration 897: Time taken by .NET: 239.2792 ms
+Rust: Execution time: 18.1096ms
+Number:17462 Iteration 898: Time taken by Rust with Marshalling: 269.3336 ms
+Number:17462 Iteration 898: Time taken by .NET: 57.4192 ms
+Rust: Execution time: 32.4098ms
+Number:19807 Iteration 899: Time taken by Rust with Marshalling: 105.3619 ms
+Number:19807 Iteration 899: Time taken by .NET: 70.6655 ms
+Rust: Execution time: 44.1223ms
+Number:23391 Iteration 900: Time taken by Rust with Marshalling: 136.9444 ms
+Number:23391 Iteration 900: Time taken by .NET: 92.1812 ms
+Rust: Execution time: 50.6223ms
+Number:27669 Iteration 901: Time taken by Rust with Marshalling: 171.5966 ms
+Number:27669 Iteration 901: Time taken by .NET: 139.3922 ms
+Rust: Execution time: 44.0784ms
+Number:25302 Iteration 902: Time taken by Rust with Marshalling: 210.3154 ms
+Number:25302 Iteration 902: Time taken by .NET: 114.678 ms
+Rust: Execution time: 167.6528ms
+Number:46142 Iteration 903: Time taken by Rust with Marshalling: 360.2448 ms
+Number:46142 Iteration 903: Time taken by .NET: 466.6931 ms
+Rust: Execution time: 20.8811ms
+Number:17576 Iteration 904: Time taken by Rust with Marshalling: 498.9691 ms
+Number:17576 Iteration 904: Time taken by .NET: 65.7847 ms
+Rust: Execution time: 31.4221ms
+Number:17918 Iteration 905: Time taken by Rust with Marshalling: 112.2422 ms
+Number:17918 Iteration 905: Time taken by .NET: 53.3113 ms
+Rust: Execution time: 142.001ms
+Number:44264 Iteration 906: Time taken by Rust with Marshalling: 261.8872 ms
+Number:44264 Iteration 906: Time taken by .NET: 380.7281 ms
+Rust: Execution time: 140.4037ms
+Number:45973 Iteration 907: Time taken by Rust with Marshalling: 594.706 ms
+Number:45973 Iteration 907: Time taken by .NET: 415.2431 ms
+Rust: Execution time: 121.3118ms
+Number:42319 Iteration 908: Time taken by Rust with Marshalling: 607.0936 ms
+Number:42319 Iteration 908: Time taken by .NET: 371.8001 ms
+Rust: Execution time: 138.7605ms
+Number:42673 Iteration 909: Time taken by Rust with Marshalling: 586.9731 ms
+Number:42673 Iteration 909: Time taken by .NET: 346.7225 ms
+Rust: Execution time: 158.8494ms
+Number:47240 Iteration 910: Time taken by Rust with Marshalling: 594.3461 ms
+Number:47240 Iteration 910: Time taken by .NET: 435.2105 ms
+Rust: Execution time: 168.8765ms
+Number:48519 Iteration 911: Time taken by Rust with Marshalling: 687.592 ms
+Number:48519 Iteration 911: Time taken by .NET: 466.9299 ms
+Rust: Execution time: 131.2939ms
+Number:42136 Iteration 912: Time taken by Rust with Marshalling: 678.8974 ms
+Number:42136 Iteration 912: Time taken by .NET: 402.3516 ms
+Rust: Execution time: 125.1012ms
+Number:43545 Iteration 913: Time taken by Rust with Marshalling: 608.076 ms
+Number:43545 Iteration 913: Time taken by .NET: 392.288 ms
+Rust: Execution time: 145.8175ms
+Number:39740 Iteration 914: Time taken by Rust with Marshalling: 597.7239 ms
+Number:39740 Iteration 914: Time taken by .NET: 297.1051 ms
+Rust: Execution time: 121.7475ms
+Number:39033 Iteration 915: Time taken by Rust with Marshalling: 477.8797 ms
+Number:39033 Iteration 915: Time taken by .NET: 317.4187 ms
+Rust: Execution time: 26.6625ms
+Number:19271 Iteration 916: Time taken by Rust with Marshalling: 360.4987 ms
+Number:19271 Iteration 916: Time taken by .NET: 81.4514 ms
+Rust: Execution time: 20.708ms
+Number:17080 Iteration 917: Time taken by Rust with Marshalling: 113.2763 ms
+Number:17080 Iteration 917: Time taken by .NET: 86.5387 ms
+Rust: Execution time: 70.4137ms
+Number:28122 Iteration 918: Time taken by Rust with Marshalling: 189.126 ms
+Number:28122 Iteration 918: Time taken by .NET: 155.1822 ms
+Rust: Execution time: 87.476ms
+Number:35866 Iteration 919: Time taken by Rust with Marshalling: 300.1714 ms
+Number:35866 Iteration 919: Time taken by .NET: 248.5466 ms
+Rust: Execution time: 39.5315ms
+Number:21084 Iteration 920: Time taken by Rust with Marshalling: 306.648 ms
+Number:21084 Iteration 920: Time taken by .NET: 81.6422 ms
+Rust: Execution time: 35.0813ms
+Number:21598 Iteration 921: Time taken by Rust with Marshalling: 131.6794 ms
+Number:21598 Iteration 921: Time taken by .NET: 80.1758 ms
+Rust: Execution time: 158.557ms
+Number:47409 Iteration 922: Time taken by Rust with Marshalling: 328.4145 ms
+Number:47409 Iteration 922: Time taken by .NET: 443.8453 ms
+Rust: Execution time: 62.0795ms
+Number:29021 Iteration 923: Time taken by Rust with Marshalling: 537.5959 ms
+Number:29021 Iteration 923: Time taken by .NET: 153.7997 ms
+Rust: Execution time: 32.3483ms
+Number:21538 Iteration 924: Time taken by Rust with Marshalling: 200.5114 ms
+Number:21538 Iteration 924: Time taken by .NET: 81.723 ms
+Rust: Execution time: 121.3081ms
+Number:40644 Iteration 925: Time taken by Rust with Marshalling: 264.5368 ms
+Number:40644 Iteration 925: Time taken by .NET: 395.0692 ms
+Rust: Execution time: 50.5431ms
+Number:25185 Iteration 926: Time taken by Rust with Marshalling: 468.8518 ms
+Number:25185 Iteration 926: Time taken by .NET: 114.8371 ms
+Rust: Execution time: 55.066ms
+Number:26007 Iteration 927: Time taken by Rust with Marshalling: 196.6319 ms
+Number:26007 Iteration 927: Time taken by .NET: 123.1745 ms
+Rust: Execution time: 60.3182ms
+Number:30585 Iteration 928: Time taken by Rust with Marshalling: 222.4759 ms
+Number:30585 Iteration 928: Time taken by .NET: 195.9491 ms
+Rust: Execution time: 111.4703ms
+Number:39055 Iteration 929: Time taken by Rust with Marshalling: 368.3128 ms
+Number:39055 Iteration 929: Time taken by .NET: 306.0917 ms
+Rust: Execution time: 187.7888ms
+Number:48026 Iteration 930: Time taken by Rust with Marshalling: 580.6458 ms
+Number:48026 Iteration 930: Time taken by .NET: 521.9953 ms
+Rust: Execution time: 187.7615ms
+Number:48338 Iteration 931: Time taken by Rust with Marshalling: 808.1839 ms
+Number:48338 Iteration 931: Time taken by .NET: 564.1954 ms
+Rust: Execution time: 24.2724ms
+Number:18021 Iteration 932: Time taken by Rust with Marshalling: 602.1921 ms
+Number:18021 Iteration 932: Time taken by .NET: 121.1648 ms
+Rust: Execution time: 75.3074ms
+Number:21471 Iteration 933: Time taken by Rust with Marshalling: 234.2061 ms
+Number:21471 Iteration 933: Time taken by .NET: 141.1586 ms
+Rust: Execution time: 88.1141ms
+Number:33391 Iteration 934: Time taken by Rust with Marshalling: 272.8365 ms
+Number:33391 Iteration 934: Time taken by .NET: 232.5932 ms
+Rust: Execution time: 57.8765ms
+Number:29385 Iteration 935: Time taken by Rust with Marshalling: 330.5292 ms
+Number:29385 Iteration 935: Time taken by .NET: 192.4773 ms
+Rust: Execution time: 247.9145ms
+Number:46645 Iteration 936: Time taken by Rust with Marshalling: 557.7666 ms
+Number:46645 Iteration 936: Time taken by .NET: 598.3694 ms
+Rust: Execution time: 44.6213ms
+Number:22815 Iteration 937: Time taken by Rust with Marshalling: 664.7584 ms
+Number:22815 Iteration 937: Time taken by .NET: 121.862 ms
+Rust: Execution time: 199.3159ms
+Number:45087 Iteration 938: Time taken by Rust with Marshalling: 428.0496 ms
+Number:45087 Iteration 938: Time taken by .NET: 524.57 ms
+Rust: Execution time: 33.0881ms
+Number:18254 Iteration 939: Time taken by Rust with Marshalling: 574.6173 ms
+Number:18254 Iteration 939: Time taken by .NET: 98.9273 ms
+Rust: Execution time: 78.2842ms
+Number:29665 Iteration 940: Time taken by Rust with Marshalling: 213.8996 ms
+Number:29665 Iteration 940: Time taken by .NET: 233.8336 ms
+Rust: Execution time: 33.7909ms
+Number:19210 Iteration 941: Time taken by Rust with Marshalling: 284.7135 ms
+Number:19210 Iteration 941: Time taken by .NET: 81.0692 ms
+Rust: Execution time: 33.3238ms
+Number:20709 Iteration 942: Time taken by Rust with Marshalling: 133.0603 ms
+Number:20709 Iteration 942: Time taken by .NET: 98.3134 ms
+Rust: Execution time: 110.5457ms
+Number:36543 Iteration 943: Time taken by Rust with Marshalling: 268.7469 ms
+Number:36543 Iteration 943: Time taken by .NET: 373.5898 ms
+Rust: Execution time: 55.344ms
+Number:27573 Iteration 944: Time taken by Rust with Marshalling: 465.3999 ms
+Number:27573 Iteration 944: Time taken by .NET: 151.7689 ms
+Rust: Execution time: 201.5511ms
+Number:49589 Iteration 945: Time taken by Rust with Marshalling: 456.4134 ms
+Number:49589 Iteration 945: Time taken by .NET: 650.0984 ms
+Rust: Execution time: 62.4412ms
+Number:28472 Iteration 946: Time taken by Rust with Marshalling: 750.3154 ms
+Number:28472 Iteration 946: Time taken by .NET: 235.3206 ms
+Rust: Execution time: 178.7936ms
+Number:41000 Iteration 947: Time taken by Rust with Marshalling: 582.5525 ms
+Number:41000 Iteration 947: Time taken by .NET: 908.325 ms
+Rust: Execution time: 208.7575ms
+Number:32991 Iteration 948: Time taken by Rust with Marshalling: 1221.0333 ms
+Number:32991 Iteration 948: Time taken by .NET: 545.0684 ms
+Rust: Execution time: 77.1812ms
+Number:20355 Iteration 949: Time taken by Rust with Marshalling: 661.874 ms
+Number:20355 Iteration 949: Time taken by .NET: 229.4985 ms
+Rust: Execution time: 401.728ms
+Number:42392 Iteration 950: Time taken by Rust with Marshalling: 805.0921 ms
+Number:42392 Iteration 950: Time taken by .NET: 915.8577 ms
+Rust: Execution time: 287.3824ms
+Number:37138 Iteration 951: Time taken by Rust with Marshalling: 1347.9948 ms
+Number:37138 Iteration 951: Time taken by .NET: 741.9891 ms
+Rust: Execution time: 450.8216ms
+Number:46667 Iteration 952: Time taken by Rust with Marshalling: 1409.7011 ms
+Number:46667 Iteration 952: Time taken by .NET: 1120.389 ms
+Rust: Execution time: 133.4965ms
+Number:26626 Iteration 953: Time taken by Rust with Marshalling: 1321.9215 ms
+Number:26626 Iteration 953: Time taken by .NET: 361.7036 ms
+Rust: Execution time: 241.5792ms
+Number:33299 Iteration 954: Time taken by Rust with Marshalling: 708.6583 ms
+Number:33299 Iteration 954: Time taken by .NET: 573.3212 ms
+Rust: Execution time: 354.9139ms
+Number:42267 Iteration 955: Time taken by Rust with Marshalling: 1096.0228 ms
+Number:42267 Iteration 955: Time taken by .NET: 989.3643 ms
+Rust: Execution time: 334.2529ms
+Number:41204 Iteration 956: Time taken by Rust with Marshalling: 1479.0207 ms
+Number:41204 Iteration 956: Time taken by .NET: 901.1478 ms
+Rust: Execution time: 253.735ms
+Number:37049 Iteration 957: Time taken by Rust with Marshalling: 1283.2813 ms
+Number:37049 Iteration 957: Time taken by .NET: 749.104 ms
+Rust: Execution time: 344.3747ms
+Number:42235 Iteration 958: Time taken by Rust with Marshalling: 1253.889 ms
+Number:42235 Iteration 958: Time taken by .NET: 971.3145 ms
+Rust: Execution time: 202.1782ms
+Number:48833 Iteration 959: Time taken by Rust with Marshalling: 1263.7342 ms
+Number:48833 Iteration 959: Time taken by .NET: 531.5942 ms
+Rust: Execution time: 30.2951ms
+Number:21448 Iteration 960: Time taken by Rust with Marshalling: 576.6009 ms
+Number:21448 Iteration 960: Time taken by .NET: 87.745 ms
+Rust: Execution time: 32.8492ms
+Number:22055 Iteration 961: Time taken by Rust with Marshalling: 136.6831 ms
+Number:22055 Iteration 961: Time taken by .NET: 83.1656 ms
+Rust: Execution time: 49.0564ms
+Number:27240 Iteration 962: Time taken by Rust with Marshalling: 156.5961 ms
+Number:27240 Iteration 962: Time taken by .NET: 128.5268 ms
+Rust: Execution time: 186.2868ms
+Number:49069 Iteration 963: Time taken by Rust with Marshalling: 415.4373 ms
+Number:49069 Iteration 963: Time taken by .NET: 515.6196 ms
+Rust: Execution time: 24.9429ms
+Number:18282 Iteration 964: Time taken by Rust with Marshalling: 553.5981 ms
+Number:18282 Iteration 964: Time taken by .NET: 60.5951 ms
+Rust: Execution time: 84.5921ms
+Number:36201 Iteration 965: Time taken by Rust with Marshalling: 190.4146 ms
+Number:36201 Iteration 965: Time taken by .NET: 271.9188 ms
+Rust: Execution time: 47.1275ms
+Number:22300 Iteration 966: Time taken by Rust with Marshalling: 336.9098 ms
+Number:22300 Iteration 966: Time taken by .NET: 85.4732 ms
+Rust: Execution time: 67.9117ms
+Number:32035 Iteration 967: Time taken by Rust with Marshalling: 191.7358 ms
+Number:32035 Iteration 967: Time taken by .NET: 199.8424 ms
+Rust: Execution time: 137.3012ms
+Number:44386 Iteration 968: Time taken by Rust with Marshalling: 405.49 ms
+Number:44386 Iteration 968: Time taken by .NET: 472.4414 ms
+Rust: Execution time: 61.6466ms
+Number:27533 Iteration 969: Time taken by Rust with Marshalling: 563.1294 ms
+Number:27533 Iteration 969: Time taken by .NET: 171.678 ms
+Rust: Execution time: 41.911ms
+Number:25489 Iteration 970: Time taken by Rust with Marshalling: 243.3379 ms
+Number:25489 Iteration 970: Time taken by .NET: 157.0048 ms
+Rust: Execution time: 104.9707ms
+Number:39490 Iteration 971: Time taken by Rust with Marshalling: 324.2481 ms
+Number:39490 Iteration 971: Time taken by .NET: 371.3935 ms
+Rust: Execution time: 19.8412ms
+Number:18175 Iteration 972: Time taken by Rust with Marshalling: 405.7756 ms
+Number:18175 Iteration 972: Time taken by .NET: 67.636 ms
+Rust: Execution time: 29.4351ms
+Number:21799 Iteration 973: Time taken by Rust with Marshalling: 112.1362 ms
+Number:21799 Iteration 973: Time taken by .NET: 77.2648 ms
+Rust: Execution time: 101.8681ms
+Number:37388 Iteration 974: Time taken by Rust with Marshalling: 226.2504 ms
+Number:37388 Iteration 974: Time taken by .NET: 296.718 ms
+Rust: Execution time: 154.1745ms
+Number:48109 Iteration 975: Time taken by Rust with Marshalling: 537.9854 ms
+Number:48109 Iteration 975: Time taken by .NET: 527.9314 ms
+Rust: Execution time: 175.1195ms
+Number:49796 Iteration 976: Time taken by Rust with Marshalling: 790.0979 ms
+Number:49796 Iteration 976: Time taken by .NET: 544.9946 ms
+Rust: Execution time: 32.7486ms
+Number:18402 Iteration 977: Time taken by Rust with Marshalling: 591.7267 ms
+Number:18402 Iteration 977: Time taken by .NET: 91.2976 ms
+Rust: Execution time: 201.4027ms
+Number:49476 Iteration 978: Time taken by Rust with Marshalling: 382.5214 ms
+Number:49476 Iteration 978: Time taken by .NET: 511.3006 ms
+Rust: Execution time: 160.7917ms
+Number:44554 Iteration 979: Time taken by Rust with Marshalling: 754.2145 ms
+Number:44554 Iteration 979: Time taken by .NET: 528.9816 ms
+Rust: Execution time: 83.4298ms
+Number:34498 Iteration 980: Time taken by Rust with Marshalling: 655.2605 ms
+Number:34498 Iteration 980: Time taken by .NET: 233.6964 ms
+Rust: Execution time: 92.7037ms
+Number:35973 Iteration 981: Time taken by Rust with Marshalling: 369.2955 ms
+Number:35973 Iteration 981: Time taken by .NET: 256.6671 ms
+Rust: Execution time: 36.5592ms
+Number:22183 Iteration 982: Time taken by Rust with Marshalling: 312.3157 ms
+Number:22183 Iteration 982: Time taken by .NET: 90.8321 ms
+Rust: Execution time: 165.0074ms
+Number:48338 Iteration 983: Time taken by Rust with Marshalling: 340.3991 ms
+Number:48338 Iteration 983: Time taken by .NET: 488.3256 ms
+Rust: Execution time: 142.3526ms
+Number:41958 Iteration 984: Time taken by Rust with Marshalling: 709.4501 ms
+Number:41958 Iteration 984: Time taken by .NET: 344.0505 ms
+Rust: Execution time: 33.8167ms
+Number:22918 Iteration 985: Time taken by Rust with Marshalling: 398.414 ms
+Number:22918 Iteration 985: Time taken by .NET: 92.0233 ms
+Rust: Execution time: 62.0103ms
+Number:29639 Iteration 986: Time taken by Rust with Marshalling: 182.1255 ms
+Number:29639 Iteration 986: Time taken by .NET: 163.7307 ms
+Rust: Execution time: 31.0754ms
+Number:19343 Iteration 987: Time taken by Rust with Marshalling: 213.104 ms
+Number:19343 Iteration 987: Time taken by .NET: 71.1888 ms
+Rust: Execution time: 21.1472ms
+Number:17021 Iteration 988: Time taken by Rust with Marshalling: 104.0605 ms
+Number:17021 Iteration 988: Time taken by .NET: 54.7752 ms
+Rust: Execution time: 45.7504ms
+Number:26485 Iteration 989: Time taken by Rust with Marshalling: 126.7693 ms
+Number:26485 Iteration 989: Time taken by .NET: 119.6892 ms
+Rust: Execution time: 96.1373ms
+Number:35915 Iteration 990: Time taken by Rust with Marshalling: 262.8838 ms
+Number:35915 Iteration 990: Time taken by .NET: 245.9309 ms
+Rust: Execution time: 29.3372ms
+Number:21791 Iteration 991: Time taken by Rust with Marshalling: 294.2453 ms
+Number:21791 Iteration 991: Time taken by .NET: 85.7595 ms
+Rust: Execution time: 18.1546ms
+Number:17543 Iteration 992: Time taken by Rust with Marshalling: 119.1259 ms
+Number:17543 Iteration 992: Time taken by .NET: 62.2578 ms
+Rust: Execution time: 178.3159ms
+Number:46636 Iteration 993: Time taken by Rust with Marshalling: 336.0559 ms
+Number:46636 Iteration 993: Time taken by .NET: 434.163 ms
+Rust: Execution time: 32.8455ms
+Number:21694 Iteration 994: Time taken by Rust with Marshalling: 485.4394 ms
+Number:21694 Iteration 994: Time taken by .NET: 79.3495 ms
+Rust: Execution time: 40.0748ms
+Number:24915 Iteration 995: Time taken by Rust with Marshalling: 139.7741 ms
+Number:24915 Iteration 995: Time taken by .NET: 111.0107 ms
+Rust: Execution time: 35.2255ms
+Number:22323 Iteration 996: Time taken by Rust with Marshalling: 165.7005 ms
+Number:22323 Iteration 996: Time taken by .NET: 96.255 ms
+Rust: Execution time: 37.4173ms
+Number:20787 Iteration 997: Time taken by Rust with Marshalling: 151.1612 ms
+Number:20787 Iteration 997: Time taken by .NET: 91.643 ms
+Rust: Execution time: 133.318ms
+Number:40794 Iteration 998: Time taken by Rust with Marshalling: 292.4067 ms
+Number:40794 Iteration 998: Time taken by .NET: 322.6072 ms
+Rust: Execution time: 36.9313ms
+Number:22319 Iteration 999: Time taken by Rust with Marshalling: 376.2303 ms
+Number:22319 Iteration 999: Time taken by .NET: 91.472 ms
+Rust: Execution time: 47.2208ms
+Number:27136 Iteration 1000: Time taken by Rust with Marshalling: 163.0288 ms
+Number:27136 Iteration 1000: Time taken by .NET: 142.7551 ms
+
